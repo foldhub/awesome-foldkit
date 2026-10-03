@@ -425,6 +425,7 @@ description = "Awesome list for the whole Effect ecosystem."
 
 [[ignore]]
 match = [
+  "tao-io/awesome-foldkit",
   "PSSalgado/FoldKit",
   "jonlevi/foldkit",
   "sjgant80-hub/*",
