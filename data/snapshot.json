@@ -1,0 +1,582 @@
+{
+  "builtAt": "2026-10-03",
+  "projects": [
+    {
+      "section": "official",
+      "repo": "foldkit/foldkit",
+      "npm": [
+        "foldkit"
+      ],
+      "stars": 896,
+      "monthly": 103863,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "npm": [
+        "@foldkit/ui"
+      ],
+      "stars": 0,
+      "monthly": 49949,
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "npm": [
+        "@foldkit/vite-plugin"
+      ],
+      "stars": 0,
+      "monthly": 67897,
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "npm": [
+        "@foldkit/devtools"
+      ],
+      "stars": 0,
+      "monthly": 34239,
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "npm": [
+        "@foldkit/devtools-mcp"
+      ],
+      "stars": 0,
+      "monthly": 50451,
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "npm": [
+        "@foldkit/oxlint-plugin"
+      ],
+      "stars": 0,
+      "monthly": 32694,
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "npm": [
+        "@foldkit/markdown"
+      ],
+      "stars": 0,
+      "monthly": 19706,
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "npm": [
+        "create-foldkit-app"
+      ],
+      "stars": 0,
+      "monthly": 19887,
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "repo": "foldkit/coverchart",
+      "stars": 3,
+      "monthly": 0,
+      "pushedAt": "2026-08-26",
+      "isArchived": false
+    },
+    {
+      "section": "official",
+      "repo": "foldkit/patch-match",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-09-06",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "alchemy-run/alchemy",
+      "stars": 1491,
+      "monthly": 0,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "rjdellecese/confect",
+      "npm": [
+        "@confect/foldkit"
+      ],
+      "stars": 368,
+      "monthly": 2053,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "NolanGC/foldkit-alchemy-starter",
+      "stars": 37,
+      "monthly": 0,
+      "pushedAt": "2026-07-10",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "lloydrichards/stack-effect",
+      "stars": 33,
+      "monthly": 0,
+      "pushedAt": "2026-10-01",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "elianiva/nook",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "npm": [
+        "create-foldkit-alchemy-app"
+      ],
+      "stars": 0,
+      "monthly": 51,
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "mwarger/foldkit-convex-clerk-lab",
+      "stars": 3,
+      "monthly": 0,
+      "pushedAt": "2026-06-19",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "Potti1234/zero-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-24",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "elianiva/foldcn",
+      "stars": 36,
+      "monthly": 0,
+      "pushedAt": "2026-10-01",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "bjacobso/foldworks",
+      "npm": [
+        "@foldworks/ui",
+        "@foldworks/data-grid",
+        "@foldworks/form-builder"
+      ],
+      "stars": 8,
+      "monthly": 1131,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "boozedog/foldstylex",
+      "stars": 4,
+      "monthly": 0,
+      "pushedAt": "2026-08-10",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "boozedog/foldstryx",
+      "npm": [
+        "@foldstryx/foldkit"
+      ],
+      "stars": 3,
+      "monthly": 82,
+      "pushedAt": "2026-08-26",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "oleksandr-antonenko/foldkit-extras",
+      "npm": [
+        "foldkit-command-palette",
+        "foldkit-scheduler",
+        "foldkit-sidenav"
+      ],
+      "stars": 1,
+      "monthly": 464,
+      "pushedAt": "2026-09-24",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "peterje/foldui",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-28",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "birbprophet/shadcn-ui-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-04",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "birbprophet/untitled-ui-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-06",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "birbprophet/boneyard-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-16",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "MentalGear/foldkit-shadcn",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-05",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "opsydyn/fold-kit-experiments",
+      "npm": [
+        "@opsydyn/foldkit-viz"
+      ],
+      "stars": 1,
+      "monthly": 53,
+      "pushedAt": "2026-09-20",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "Potti1234/foldkit-lucide-icons",
+      "npm": [
+        "foldkit-lucide-icons"
+      ],
+      "stars": 0,
+      "monthly": 25,
+      "pushedAt": "2026-07-21",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "skoshx/foldkit-icons",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-13",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "djgrant/classy",
+      "npm": [
+        "@djgrant/classy-foldkit"
+      ],
+      "stars": 2,
+      "monthly": 25,
+      "pushedAt": "2026-07-30",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "doeixd/foldkit-plus",
+      "npm": [
+        "foldkit-agent",
+        "foldkit-agent-webmcp",
+        "foldkit-agent-mcp"
+      ],
+      "stars": 19,
+      "monthly": 3329,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "deracs/effect-webmcp",
+      "npm": [
+        "effect-webmcp"
+      ],
+      "stars": 0,
+      "monthly": 247,
+      "pushedAt": "2026-09-17",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "dallenpyrah/creasekit",
+      "npm": [
+        "creasekit"
+      ],
+      "stars": 0,
+      "monthly": 937,
+      "pushedAt": "2026-09-12",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "tao-io/foldcase",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-09-29",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "tao-io/foldkit-design",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-05",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "mpsuesser/scraped-docs-foldkit",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "rodygosset/react-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-02",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "birbprophet/react-foldkit-converter",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-04",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "birbprophet/storybook-renderer-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-17",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "birbprophet/astro-renderer-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-02",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "npm": [
+        "@opsydyn/astro-foldkit"
+      ],
+      "stars": 0,
+      "monthly": 51,
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "Aniket-508/foldocs",
+      "npm": [
+        "foldocs",
+        "foldocs-ui",
+        "create-foldocs"
+      ],
+      "stars": 24,
+      "monthly": 259,
+      "pushedAt": "2026-09-21",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "crutchcorn/causeeffect",
+      "npm": [
+        "@causeeffect/foldkit-jsx"
+      ],
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-10-02",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "Potti1234/wide-effect",
+      "npm": [
+        "@wide-effect/foldkit"
+      ],
+      "stars": 1,
+      "monthly": 400,
+      "pushedAt": "2026-09-01",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Effect-TS/slopcop",
+      "stars": 32,
+      "monthly": 0,
+      "pushedAt": "2026-08-19",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "IMax153/twitch-integrations",
+      "stars": 18,
+      "monthly": 0,
+      "pushedAt": "2026-10-01",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "filipfalcon/skoreova",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-10-03",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "SyahrulBhudiF/Dearly",
+      "stars": 5,
+      "monthly": 0,
+      "pushedAt": "2026-09-03",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "tomrford/vscope",
+      "stars": 4,
+      "monthly": 0,
+      "pushedAt": "2026-08-19",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "mwarger/corefour",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-10-01",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "solcik/agent-grilling",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-10-02",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "arijit-gogoi/web-forth",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-07-14",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "fellz/booking_widget_effect",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-06-19",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "dearlordylord/pathfinder-armor-puzzle-solver",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-14",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "jordangarrison/tic-tac-toe-4-in-a-row",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-25",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "roottool/retort",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-19",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "tao-io/foldkit-gallery",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-04",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "erlangxk/foldkit-learn",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-05-14",
+      "isArchived": false
+    },
+    {
+      "section": "learning",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "learning",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "learning",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "learning",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "learning",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "learning",
+      "repo": "Marve10s/awesome-effect",
+      "stars": 91,
+      "monthly": 0,
+      "pushedAt": "2026-09-15",
+      "isArchived": false
+    }
+  ]
+}

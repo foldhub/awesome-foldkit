@@ -1,0 +1,12 @@
+{
+  "name": "awesome-foldkit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "discover": "node scripts/discover.mjs"
+  },
+  "dependencies": {
+    "smol-toml": "^1.3.1"
+  }
+}

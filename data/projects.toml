@@ -1,0 +1,448 @@
+# Awesome Foldkit data. The README is generated from this file.
+# Edit this file, then run `npm run build` (or let the GitHub Action do it).
+#
+# [[project]] fields:
+#   section      one of the [[section]] ids below (required)
+#   repo         "owner/name" on GitHub (optional if npm or url is set)
+#   npm          npm package names (optional)
+#   url          main link when it is not the GitHub repo (optional)
+#   name         display name (optional, default: repo name or first npm package)
+#   description  one sentence, says what it does, ends with a period (required)
+#
+# [[ignore]] lists repos and packages that match "foldkit" but are not about
+# the Foldkit framework, so the discovery job does not report them again.
+
+[[section]]
+id = "official"
+title = "Official"
+intro = "Packages and repositories from the Foldkit maintainers."
+
+[[section]]
+id = "fullstack"
+title = "Full stack and deployment"
+intro = "Backends, hosting, and starters around a Foldkit frontend."
+
+[[section]]
+id = "ui"
+title = "UI kits and styling"
+intro = "Components, styling systems, and icons. Several kits follow the shadcn/ui copy-in model."
+
+[[section]]
+id = "ai"
+title = "AI and agents"
+intro = "Tools that give coding agents or in-app agents access to a Foldkit app."
+
+[[section]]
+id = "interop"
+title = "Interop and tooling"
+intro = "Bridges to React, Astro, and Storybook, plus developer tools."
+
+[[section]]
+id = "apps"
+title = "Apps built with Foldkit"
+intro = "Open source applications you can read to learn real patterns."
+
+[[section]]
+id = "learning"
+title = "Learning and community"
+intro = "Docs, examples, and places to ask questions."
+
+# OFFICIAL
+
+[[project]]
+section = "official"
+repo = "foldkit/foldkit"
+npm = ["foldkit"]
+url = "https://foldkit.dev"
+name = "Foldkit"
+description = "TypeScript frontend framework on Effect with the Elm Architecture: one Model, a Message union, a pure update, and Commands for side effects."
+
+[[project]]
+section = "official"
+npm = ["@foldkit/ui"]
+url = "https://foldkit.dev/ui/overview"
+description = "Headless, accessible UI components (Dialog, Menu, Listbox, Combobox, Popover, Calendar, and more) built as Submodels."
+
+[[project]]
+section = "official"
+npm = ["@foldkit/vite-plugin"]
+description = "Vite plugin with state-preserving live reload, view identity, and server rendering in dev."
+
+[[project]]
+section = "official"
+npm = ["@foldkit/devtools"]
+description = "In-browser DevTools overlay with Message history and time travel."
+
+[[project]]
+section = "official"
+npm = ["@foldkit/devtools-mcp"]
+url = "https://foldkit.dev/ai/mcp"
+description = "MCP server that lets coding agents read the Model, dispatch Messages, and time travel in a running app."
+
+[[project]]
+section = "official"
+npm = ["@foldkit/oxlint-plugin"]
+description = "Oxlint rules for Foldkit conventions."
+
+[[project]]
+section = "official"
+npm = ["@foldkit/markdown"]
+description = "Write Markdown files and get Foldkit views with live islands."
+
+[[project]]
+section = "official"
+npm = ["create-foldkit-app"]
+description = "Scaffold a new Foldkit app."
+
+[[project]]
+section = "official"
+repo = "foldkit/coverchart"
+description = "App for writing chord charts with lyrics."
+
+[[project]]
+section = "official"
+repo = "foldkit/patch-match"
+description = "Game: match the patch."
+
+# FULL STACK AND DEPLOYMENT
+
+[[project]]
+section = "fullstack"
+repo = "alchemy-run/alchemy"
+url = "https://github.com/alchemy-run/alchemy/tree/main/examples"
+name = "Alchemy examples"
+description = "Infrastructure as Effect code, with Foldkit examples for Cloudflare (static and SSR), AWS, Fly, Hetzner, Railway, Neon, and Prisma."
+
+[[project]]
+section = "fullstack"
+repo = "rjdellecese/confect"
+npm = ["@confect/foldkit"]
+name = "Confect (@confect/foldkit)"
+description = "Convex with Effect, with client bindings for Foldkit apps."
+
+[[project]]
+section = "fullstack"
+repo = "NolanGC/foldkit-alchemy-starter"
+description = "Starter for full-stack apps with Foldkit and Alchemy."
+
+[[project]]
+section = "fullstack"
+repo = "lloydrichards/stack-effect"
+description = "Scaffolds Effect apps from composable modules, with a Foldkit client module."
+
+[[project]]
+section = "fullstack"
+repo = "elianiva/nook"
+description = "Monorepo template with a Foldkit frontend, Effect RPC backend, Cloudflare KV state, and Alchemy infrastructure."
+
+[[project]]
+section = "fullstack"
+npm = ["create-foldkit-alchemy-app"]
+description = "Scaffolds a Foldkit, Alchemy, and Cloudflare full-stack app."
+
+[[project]]
+section = "fullstack"
+repo = "mwarger/foldkit-convex-clerk-lab"
+description = "Architecture lab for Foldkit with Convex, Clerk, and Confect."
+
+[[project]]
+section = "fullstack"
+repo = "Potti1234/zero-foldkit"
+description = "Rocicorp Zero sync engine bindings for Foldkit."
+
+# UI KITS AND STYLING
+
+[[project]]
+section = "ui"
+repo = "elianiva/foldcn"
+description = "shadcn/ui components ported to Foldkit."
+
+[[project]]
+section = "ui"
+repo = "bjacobso/foldworks"
+npm = ["@foldworks/ui", "@foldworks/data-grid", "@foldworks/form-builder"]
+description = "Themeable components, a data grid, and a form builder for Foldkit, styled with StyleX."
+
+[[project]]
+section = "ui"
+repo = "boozedog/foldstylex"
+description = "shadcn-inspired styling for Foldkit with StyleX."
+
+[[project]]
+section = "ui"
+repo = "boozedog/foldstryx"
+npm = ["@foldstryx/foldkit"]
+description = "Astryx-inspired styling for Foldkit with StyleX."
+
+[[project]]
+section = "ui"
+repo = "oleksandr-antonenko/foldkit-extras"
+npm = ["foldkit-command-palette", "foldkit-scheduler", "foldkit-sidenav"]
+description = "Command palette, time-grid scheduler, and grouped side navigation components."
+
+[[project]]
+section = "ui"
+repo = "peterje/foldui"
+description = "Foldkit-native UI registry."
+
+[[project]]
+section = "ui"
+repo = "birbprophet/shadcn-ui-foldkit"
+description = "shadcn/ui port for Foldkit."
+
+[[project]]
+section = "ui"
+repo = "birbprophet/untitled-ui-foldkit"
+description = "Untitled UI port for Foldkit."
+
+[[project]]
+section = "ui"
+repo = "birbprophet/boneyard-foldkit"
+description = "Responsive skeleton loaders for Foldkit views."
+
+[[project]]
+section = "ui"
+repo = "MentalGear/foldkit-shadcn"
+description = "shadcn/ui port for Foldkit."
+
+[[project]]
+section = "ui"
+repo = "opsydyn/fold-kit-experiments"
+npm = ["@opsydyn/foldkit-viz"]
+name = "foldkit-viz"
+description = "Chart and visualization primitives for Foldkit without D3."
+
+[[project]]
+section = "ui"
+repo = "Potti1234/foldkit-lucide-icons"
+npm = ["foldkit-lucide-icons"]
+description = "Lucide icons as Foldkit views."
+
+[[project]]
+section = "ui"
+repo = "skoshx/foldkit-icons"
+description = "Icon views for Foldkit."
+
+[[project]]
+section = "ui"
+repo = "djgrant/classy"
+npm = ["@djgrant/classy-foldkit"]
+name = "classy-foldkit"
+description = "Typed component factories with CSS classes for Foldkit views."
+
+# AI AND AGENTS
+
+[[project]]
+section = "ai"
+repo = "doeixd/foldkit-plus"
+npm = ["foldkit-agent", "foldkit-agent-webmcp", "foldkit-agent-mcp"]
+description = "Exposes a Foldkit app's Model and Messages to agents through WebMCP, MCP, and A2A, plus forms, CRUD, sync, and server rendering packages."
+
+[[project]]
+section = "ai"
+repo = "deracs/effect-webmcp"
+npm = ["effect-webmcp"]
+description = "Effect tools and layers for the WebMCP browser API, usable from Foldkit Commands."
+
+[[project]]
+section = "ai"
+repo = "dallenpyrah/creasekit"
+npm = ["creasekit"]
+description = "Inspect elements, leave notes, and share that context with coding agents through MCP."
+
+[[project]]
+section = "ai"
+repo = "tao-io/foldcase"
+description = "Headless test loop for Foldkit components with Schema reports and an MCP catalog for coding agents."
+
+[[project]]
+section = "ai"
+repo = "tao-io/foldkit-design"
+description = "Claude Design template and Claude Code skill for prototyping Foldkit apps."
+
+[[project]]
+section = "ai"
+repo = "mpsuesser/scraped-docs-foldkit"
+description = "Foldkit docs as Markdown, refreshed automatically, for agent context."
+
+# INTEROP AND TOOLING
+
+[[project]]
+section = "interop"
+repo = "rodygosset/react-foldkit"
+description = "React bindings that use Foldkit's Command, Message, Update, and Subscription vocabulary."
+
+[[project]]
+section = "interop"
+repo = "birbprophet/react-foldkit-converter"
+description = "Converts React components to Foldkit views."
+
+[[project]]
+section = "interop"
+repo = "birbprophet/storybook-renderer-foldkit"
+description = "Storybook renderer that mounts the real Foldkit runtime per story."
+
+[[project]]
+section = "interop"
+repo = "birbprophet/astro-renderer-foldkit"
+description = "Astro renderer for Foldkit views."
+
+[[project]]
+section = "interop"
+npm = ["@opsydyn/astro-foldkit"]
+url = "https://github.com/opsydyn/fold-kit-experiments"
+description = "Astro integration and renderer for Foldkit."
+
+[[project]]
+section = "interop"
+repo = "Aniket-508/foldocs"
+npm = ["foldocs", "foldocs-ui", "create-foldocs"]
+description = "Documentation site framework built on Foldkit."
+
+[[project]]
+section = "interop"
+repo = "crutchcorn/causeeffect"
+npm = ["@causeeffect/foldkit-jsx"]
+name = "causeeffect (foldkit-jsx)"
+description = "JSX for Effect, with a JSX adapter for Foldkit's typed view builders."
+
+[[project]]
+section = "interop"
+repo = "Potti1234/wide-effect"
+npm = ["@wide-effect/foldkit"]
+description = "Interaction correlation and sanitized diagnostic timelines for Foldkit."
+
+# APPS
+
+[[project]]
+section = "apps"
+repo = "Effect-TS/slopcop"
+description = "Effect's GitHub triage bot, with a Foldkit UI and Foldkit agent skills."
+
+[[project]]
+section = "apps"
+repo = "IMax153/twitch-integrations"
+description = "Twitch integrations built with Effect, with a broadcaster page as a Foldkit app."
+
+[[project]]
+section = "apps"
+repo = "filipfalcon/skoreova"
+description = "Women's soccer in Czechia: clubs, players, fixtures, and charts."
+
+[[project]]
+section = "apps"
+repo = "SyahrulBhudiF/Dearly"
+description = "Private diary for dated memories on a freeform canvas."
+
+[[project]]
+section = "apps"
+repo = "tomrford/vscope"
+description = "Local daemon and Foldkit UI for an embedded debug interface."
+
+[[project]]
+section = "apps"
+repo = "mwarger/corefour"
+description = "Pick four games that shaped you and share them as a poster, on Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "solcik/agent-grilling"
+description = "Local inbox where agents post decisions and you answer them in one browser panel."
+
+[[project]]
+section = "apps"
+repo = "arijit-gogoi/web-forth"
+description = "Forth VM with a Foldkit and CodeMirror REPL."
+
+[[project]]
+section = "apps"
+repo = "fellz/booking_widget_effect"
+description = "Hotel booking widget ported from Vue 3 to Foldkit, with an audit of state-modelling holes."
+
+[[project]]
+section = "apps"
+repo = "dearlordylord/pathfinder-armor-puzzle-solver"
+description = "Pathfinder armor puzzle solver."
+
+[[project]]
+section = "apps"
+repo = "jordangarrison/tic-tac-toe-4-in-a-row"
+description = "8x8 exact-four scoring game."
+
+[[project]]
+section = "apps"
+repo = "roottool/retort"
+description = "Page that shows the infrastructure that serves it."
+
+[[project]]
+section = "apps"
+repo = "tao-io/foldkit-gallery"
+description = "Every @foldkit/ui component on its own page, with Model assertions."
+
+[[project]]
+section = "apps"
+repo = "erlangxk/foldkit-learn"
+description = "Learning Foldkit with PixiJS."
+
+# LEARNING AND COMMUNITY
+
+[[project]]
+section = "learning"
+url = "https://foldkit.dev/get-started"
+name = "Get started"
+description = "Official guide from install to first app."
+
+[[project]]
+section = "learning"
+url = "https://foldkit.dev/example-apps"
+name = "Example apps"
+description = "Official examples, from a counter to multiplayer games, with source and a playground."
+
+[[project]]
+section = "learning"
+url = "https://typingterminal.com"
+name = "Typing Terminal"
+description = "Multiplayer typing game by the Foldkit author; its source is in the Foldkit repo."
+
+[[project]]
+section = "learning"
+url = "https://discord.gg/kav8VNxqGm"
+name = "Discord"
+description = "Official Foldkit Discord server."
+
+[[project]]
+section = "learning"
+url = "https://discourse.elm-lang.org/t/foldkit-the-elm-architecture-in-typescript-powered-by-effect/10579"
+name = "Elm Discourse thread"
+description = "Foldkit introduced to the Elm community."
+
+[[project]]
+section = "learning"
+repo = "Marve10s/awesome-effect"
+description = "Awesome list for the whole Effect ecosystem."
+
+# NOT FOLDKIT (name collisions)
+
+[[ignore]]
+match = [
+  "PSSalgado/FoldKit",
+  "jonlevi/foldkit",
+  "sjgant80-hub/*",
+  "mpsuesser/oxlint-plugin-foldkit",
+  "bearing-ward/foldkit-basic-cn-ui",
+  "bearing-ward/foldkitcn",
+  "Midnightsou/foldkit",
+  "filipfalcon/mre-*",
+  "mojahige/test-foldkit",
+  "0rdep/foldkit-test",
+  "nemmtor/foldkit-playground",
+  "hanipcode/foldkit-poc-appkit",
+  "dmmulroy/overseer",
+  "GRINN-dev/tablerizer",
+  "athrio-com/loom",
+  "just-be-dev/spooky-action",
+  "EclipticAxis/t3code-zh-CN",
+  "trycompai/evie",
+  "@doeixd/incremental",
+  "effect-domain",
+]
