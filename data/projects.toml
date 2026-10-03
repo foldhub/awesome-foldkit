@@ -574,6 +574,12 @@ section = "apps"
 repo = "erlangxk/foldkit-learn"
 description = "Learning Foldkit with PixiJS."
 
+[[project]]
+section = "apps"
+repo = "mpsuesser/Dojo"
+url = "https://dojo.bingo"
+description = "Specialized elicitation interfaces for capturing thoughts into agent-legible forms."
+
 # LEARNING AND COMMUNITY
 
 # COMMUNITY
@@ -644,4 +650,7 @@ match = [
   "trycompai/evie",
   "@doeixd/incremental",
   "effect-domain",
+  "foldcn",
+  "@bespokeagentics/*",
+  "shadcn-foldkit",
 ]
