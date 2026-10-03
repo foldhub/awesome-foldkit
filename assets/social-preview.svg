@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1115"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <g transform="translate(140,190)" fill="#ffffff">
+    <rect width="92" height="260"/>
+    <rect x="108" width="92" height="49"/>
+    <rect x="108" y="70" width="92" height="49"/>
+  </g>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="420" y="300" fill="#ffffff" font-size="96" font-weight="700">Awesome</text>
+    <text x="420" y="400" fill="#ffffff" font-size="96" font-weight="700">Foldkit</text>
+    <text x="424" y="462" fill="#aab3c2" font-size="30">Projects, tools, and apps around</text>
+    <text x="424" y="502" fill="#aab3c2" font-size="30">the Elm Architecture on Effect</text>
+  </g>
+  <rect x="140" y="560" width="1000" height="2" fill="#2a3242"/>
+  <text x="140" y="600" fill="#7ee2a8" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24">github.com/tao-io/awesome-foldkit</text>
+</svg>
