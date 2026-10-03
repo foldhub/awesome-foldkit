@@ -676,6 +676,15 @@
       "isArchived": false
     },
     {
+      "section": "apps",
+      "repo": "mpsuesser/Dojo",
+      "url": "https://dojo.bingo",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-08-25",
+      "isArchived": false
+    },
+    {
       "section": "community",
       "url": "https://discord.gg/kav8VNxqGm",
       "stars": 0,
