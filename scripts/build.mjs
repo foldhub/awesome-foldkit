@@ -264,7 +264,7 @@ const updatedSvg = () => {
 }
 
 const readme = [
-  '<a href="https://github.com/tao-io/awesome-foldkit"><img src="assets/banner.svg" alt="Awesome Foldkit" width="100%"></a>',
+  '<a href="https://github.com/foldhub/awesome-foldkit"><img src="assets/banner.svg" alt="Awesome Foldkit" width="100%"></a>',
   '',
   '# Awesome Foldkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)',
   '',
@@ -274,7 +274,7 @@ const readme = [
   '',
   'Star and download badges load live. Every day a GitHub Action re-sorts the ecosystem by stars and flags archived or inactive projects. Every week it searches GitHub and npm for new projects.',
   '',
-  '> A Foldkit community project by [tao-io](https://github.com/tao-io). To add a project, edit [`data/projects.toml`](data/projects.toml) and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).',
+  '> A Foldkit community project by [Foldhub](https://github.com/foldhub). To add a project, edit [`data/projects.toml`](data/projects.toml) and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).',
   '',
   '## Contents',
   '',
