@@ -1,103 +1,290 @@
 # Awesome Foldkit data. The README is generated from this file.
 # Edit this file, then run `npm run build` (or let the GitHub Action do it).
 #
+# [[section]] fields:
+#   id, title, intro, pill (file in assets/pills without .svg)
+#   level        2 (default) or 3 for a subsection
+#   heading_only true for a group heading with no entries
+#   sort         "stars" (default) or "manual" (keep file order)
+#
 # [[project]] fields:
-#   section      one of the [[section]] ids below (required)
+#   section      a [[section]] id (required)
 #   repo         "owner/name" on GitHub (optional if npm or url is set)
-#   npm          npm package names (optional)
+#   npm          npm package names (optional; the first one gets a badge)
 #   url          main link when it is not the GitHub repo (optional)
-#   name         display name (optional, default: repo name or first npm package)
+#   docs         documentation link (optional)
+#   name         display name (optional; default: repo, then first npm package)
+#   icon         repo, npm, web, docs, chat, article, compare (optional)
 #   description  one sentence, says what it does, ends with a period (required)
 #
 # [[ignore]] lists repos and packages that match "foldkit" but are not about
 # the Foldkit framework, so the discovery job does not report them again.
 
 [[section]]
-id = "official"
-title = "Official"
-intro = "Packages published from the main Foldkit repository."
+id = "start"
+title = "Start here"
+pill = "start"
+sort = "manual"
+intro = "Foldkit docs and resources."
+
+[[section]]
+id = "compare"
+title = "Compare and migrate"
+pill = "compare"
+sort = "manual"
+intro = "Side-by-side builds and migration guides."
+
+[[section]]
+id = "core"
+title = "Core packages"
+pill = "core"
+sort = "manual"
+intro = "Published from the [foldkit/foldkit](https://github.com/foldkit/foldkit) monorepo. All versions move together."
 
 [[section]]
 id = "examples"
-title = "Official examples"
+title = "Examples by the Foldkit team"
+pill = "examples"
 intro = "Apps and examples from the Foldkit maintainers."
+
+[[section]]
+id = "ecosystem"
+title = "Ecosystem"
+pill = "stack"
+heading_only = true
+intro = "Community libraries and tools. Each subsection is sorted by GitHub stars."
 
 [[section]]
 id = "fullstack"
 title = "Full stack and deployment"
+level = 3
 intro = "Backends, hosting, and starters around a Foldkit frontend."
 
 [[section]]
 id = "ui"
 title = "UI kits and styling"
-intro = "Components, styling systems, and icons. Several kits follow the shadcn/ui copy-in model."
+level = 3
+intro = "Components, styling systems, and icons. Several kits follow the shadcn/ui copy-in model, so check this list before you start a new one."
 
 [[section]]
 id = "ai"
 title = "AI and agents"
+level = 3
 intro = "Tools that give coding agents or in-app agents access to a Foldkit app."
 
 [[section]]
 id = "interop"
 title = "Interop and tooling"
+level = 3
 intro = "Bridges to React, Astro, and Storybook, plus developer tools."
 
 [[section]]
 id = "apps"
 title = "Apps built with Foldkit"
+pill = "apps"
 intro = "Open source applications you can read to learn real patterns."
 
 [[section]]
-id = "learning"
-title = "Learning and community"
-intro = "Docs, examples, and places to ask questions."
+id = "community"
+title = "Community"
+pill = "community"
+sort = "manual"
+intro = "Places to ask questions and follow releases."
 
-# OFFICIAL
+# START HERE
 
 [[project]]
-section = "official"
+section = "start"
+url = "https://foldkit.dev"
+name = "foldkit.dev"
+description = "Docs, guides, and the API reference."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/get-started"
+name = "Get started"
+icon = "docs"
+description = "Create a project from a starter, read the generated structure, or add Foldkit to an existing app."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/introduction/why-foldkit"
+name = "Why Foldkit"
+icon = "docs"
+description = "Why Foldkit exists and the principles behind its design."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/core/architecture"
+name = "Architecture"
+icon = "docs"
+description = "How Model, Messages, update, view, Commands, Subscriptions, and the Runtime fit together."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/core/counter-example"
+name = "Counter example"
+icon = "docs"
+description = "A minimal app traced through its Model, Message Schema, update, view, and init."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/playground"
+name = "Playground"
+description = "Edit and run a Foldkit app in the browser."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/testing"
+name = "Testing"
+icon = "docs"
+description = "Story tests drive update directly; Scene tests drive the rendered view."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/core/server-rendering"
+name = "Server rendering"
+icon = "docs"
+description = "Render the same app to HTML at request time or build time, then hydrate it."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/ai/overview"
+name = "AI overview"
+icon = "docs"
+description = "Agent skills, the DevTools MCP server, and llms.txt for coding agents."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/llms.txt"
+name = "llms.txt"
+icon = "docs"
+description = "Index of every docs page for language models; append .md to any page URL for Markdown."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/introduction/roadmap"
+name = "Roadmap"
+icon = "docs"
+description = "Where Foldkit is today and the work left before 1.0."
+
+[[project]]
+section = "start"
+url = "https://foldkit.dev/faq/performance"
+name = "Performance"
+icon = "docs"
+description = "Rendering cost model and TodoMVC benchmark results."
+
+# COMPARE AND MIGRATE
+
+[[project]]
+section = "compare"
+url = "https://foldkit.dev/react/foldkit-vs-react-side-by-side"
+name = "Foldkit vs React"
+icon = "compare"
+description = "The same pixel art editor built in both, compared on state, side effects, testing, and performance."
+
+[[project]]
+section = "compare"
+url = "https://foldkit.dev/react/foldkit-vs-react-effect-atom"
+name = "Foldkit vs React + Effect Atom"
+icon = "compare"
+description = "One Model and a Message union compared with state spread across atoms, for teams that already use Effect."
+
+[[project]]
+section = "compare"
+url = "https://foldkit.dev/elm/foldkit-vs-elm-side-by-side"
+name = "Foldkit vs Elm"
+icon = "compare"
+description = "The same app in both: ports vs Commands, decoders vs Schema."
+
+[[project]]
+section = "compare"
+url = "https://foldkit.dev/react/coming-from-react"
+name = "Coming from React"
+icon = "docs"
+description = "How one Model and Messages replace component state and useEffect."
+
+[[project]]
+section = "compare"
+url = "https://foldkit.dev/react/coming-from-tanstack-query"
+name = "Coming from TanStack Query"
+icon = "docs"
+description = "How AsyncData in the Model replaces useQuery."
+
+# CORE PACKAGES
+
+[[project]]
+section = "core"
 repo = "foldkit/foldkit"
 npm = ["foldkit"]
-url = "https://foldkit.dev"
-name = "Foldkit"
-description = "TypeScript frontend framework on Effect with the Elm Architecture: one Model, a Message union, a pure update, and Commands for side effects."
+url = "https://www.npmjs.com/package/foldkit"
+name = "foldkit"
+icon = "npm"
+docs = "https://foldkit.dev/core/architecture"
+description = "The framework: Runtime, html builders, routing, Commands, Subscriptions, Mounts, Story and Scene tests."
 
 [[project]]
-section = "official"
+section = "core"
 npm = ["@foldkit/ui"]
-url = "https://foldkit.dev/ui/overview"
-description = "Headless, accessible UI components (Dialog, Menu, Listbox, Combobox, Popover, Calendar, and more) built as Submodels."
+icon = "npm"
+docs = "https://foldkit.dev/ui/overview"
+description = "Headless, accessible components (Dialog, Menu, Listbox, Combobox, Popover, Calendar, and more) built as Submodels."
 
 [[project]]
-section = "official"
+section = "core"
+npm = ["create-foldkit-app"]
+icon = "npm"
+docs = "https://foldkit.dev/get-started"
+description = "Scaffold a new Foldkit app."
+
+[[project]]
+section = "core"
 npm = ["@foldkit/vite-plugin"]
+icon = "npm"
+docs = "https://foldkit.dev/core/preserve-scroll"
 description = "Vite plugin with state-preserving live reload, view identity, and server rendering in dev."
 
 [[project]]
-section = "official"
+section = "core"
 npm = ["@foldkit/devtools"]
-description = "In-browser DevTools overlay with Message history and time travel."
+icon = "npm"
+docs = "https://foldkit.dev/core/devtools"
+description = "In-browser DevTools overlay with Message history, Model diffs, and time travel."
 
 [[project]]
-section = "official"
+section = "core"
 npm = ["@foldkit/devtools-mcp"]
-url = "https://foldkit.dev/ai/mcp"
+icon = "npm"
+docs = "https://foldkit.dev/ai/mcp"
 description = "MCP server that lets coding agents read the Model, dispatch Messages, and time travel in a running app."
 
 [[project]]
-section = "official"
+section = "core"
 npm = ["@foldkit/oxlint-plugin"]
+icon = "npm"
+docs = "https://foldkit.dev/tooling/oxlint-plugin"
 description = "Oxlint rules for Foldkit conventions."
 
 [[project]]
-section = "official"
+section = "core"
 npm = ["@foldkit/markdown"]
+icon = "npm"
 description = "Write Markdown files and get Foldkit views with live islands."
 
+# EXAMPLES
+
 [[project]]
-section = "official"
-npm = ["create-foldkit-app"]
-description = "Scaffold a new Foldkit app."
+section = "examples"
+url = "https://foldkit.dev/example-apps"
+name = "Example apps"
+description = "From a counter to multiplayer games, each with source and a playground."
+
+[[project]]
+section = "examples"
+url = "https://typingterminal.com"
+name = "Typing Terminal"
+description = "Multiplayer typing game; its source is in packages/typing-game of the Foldkit repo."
 
 [[project]]
 section = "examples"
@@ -108,8 +295,6 @@ description = "App for writing chord charts with lyrics."
 section = "examples"
 repo = "foldkit/patch-match"
 description = "Game: match the patch."
-
-# FULL STACK AND DEPLOYMENT
 
 [[project]]
 section = "fullstack"
@@ -391,38 +576,45 @@ description = "Learning Foldkit with PixiJS."
 
 # LEARNING AND COMMUNITY
 
-[[project]]
-section = "learning"
-url = "https://foldkit.dev/get-started"
-name = "Get started"
-description = "Official guide from install to first app."
+# COMMUNITY
 
 [[project]]
-section = "examples"
-url = "https://foldkit.dev/example-apps"
-name = "Example apps"
-description = "Official examples, from a counter to multiplayer games, with source and a playground."
-
-[[project]]
-section = "examples"
-url = "https://typingterminal.com"
-name = "Typing Terminal"
-description = "Multiplayer typing game; its source is in the Foldkit repo under packages/typing-game."
-
-[[project]]
-section = "learning"
+section = "community"
 url = "https://discord.gg/kav8VNxqGm"
 name = "Discord"
-description = "Official Foldkit Discord server."
+icon = "chat"
+description = "Foldkit Discord server."
 
 [[project]]
-section = "learning"
+section = "community"
+url = "https://github.com/foldkit/foldkit/discussions"
+name = "GitHub Discussions"
+icon = "chat"
+description = "Ideas, questions, and show-and-tell."
+
+[[project]]
+section = "community"
+url = "https://foldkit.dev/blog"
+name = "Blog"
+icon = "article"
+description = "Release announcements and deep dives. [RSS](https://foldkit.dev/blog/rss.xml)."
+
+[[project]]
+section = "community"
+url = "https://foldkit.dev/newsletter"
+name = "Newsletter"
+icon = "article"
+description = "Release news by email."
+
+[[project]]
+section = "community"
 url = "https://discourse.elm-lang.org/t/foldkit-the-elm-architecture-in-typescript-powered-by-effect/10579"
 name = "Elm Discourse thread"
+icon = "chat"
 description = "Foldkit introduced to the Elm community."
 
 [[project]]
-section = "learning"
+section = "community"
 repo = "Marve10s/awesome-effect"
 description = "Awesome list for the whole Effect ecosystem."
 

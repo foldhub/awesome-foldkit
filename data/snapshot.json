@@ -2,18 +2,138 @@
   "builtAt": "2026-10-03",
   "projects": [
     {
-      "section": "official",
+      "section": "start",
+      "url": "https://foldkit.dev",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/get-started",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/introduction/why-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/core/architecture",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/core/counter-example",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/playground",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/testing",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/core/server-rendering",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/ai/overview",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/llms.txt",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/introduction/roadmap",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "start",
+      "url": "https://foldkit.dev/faq/performance",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "url": "https://foldkit.dev/react/foldkit-vs-react-side-by-side",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "url": "https://foldkit.dev/react/foldkit-vs-react-effect-atom",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "url": "https://foldkit.dev/elm/foldkit-vs-elm-side-by-side",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "url": "https://foldkit.dev/react/coming-from-react",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "url": "https://foldkit.dev/react/coming-from-tanstack-query",
+      "stars": 0,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "core",
       "repo": "foldkit/foldkit",
       "npm": [
         "foldkit"
       ],
+      "url": "https://www.npmjs.com/package/foldkit",
       "stars": 896,
       "monthly": 103863,
       "pushedAt": "2026-10-03",
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "core",
       "npm": [
         "@foldkit/ui"
       ],
@@ -22,7 +142,16 @@
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "core",
+      "npm": [
+        "create-foldkit-app"
+      ],
+      "stars": 0,
+      "monthly": 19887,
+      "isArchived": false
+    },
+    {
+      "section": "core",
       "npm": [
         "@foldkit/vite-plugin"
       ],
@@ -31,7 +160,7 @@
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "core",
       "npm": [
         "@foldkit/devtools"
       ],
@@ -40,7 +169,7 @@
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "core",
       "npm": [
         "@foldkit/devtools-mcp"
       ],
@@ -49,7 +178,7 @@
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "core",
       "npm": [
         "@foldkit/oxlint-plugin"
       ],
@@ -58,7 +187,7 @@
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "core",
       "npm": [
         "@foldkit/markdown"
       ],
@@ -67,12 +196,17 @@
       "isArchived": false
     },
     {
-      "section": "official",
-      "npm": [
-        "create-foldkit-app"
-      ],
+      "section": "examples",
+      "url": "https://foldkit.dev/example-apps",
       "stars": 0,
-      "monthly": 19887,
+      "monthly": 0,
+      "isArchived": false
+    },
+    {
+      "section": "examples",
+      "url": "https://typingterminal.com",
+      "stars": 0,
+      "monthly": 0,
       "isArchived": false
     },
     {
@@ -94,6 +228,7 @@
     {
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
+      "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
       "stars": 1491,
       "monthly": 0,
       "pushedAt": "2026-10-03",
@@ -388,6 +523,7 @@
       "npm": [
         "@opsydyn/astro-foldkit"
       ],
+      "url": "https://github.com/opsydyn/fold-kit-experiments",
       "stars": 0,
       "monthly": 51,
       "isArchived": false
@@ -540,37 +676,42 @@
       "isArchived": false
     },
     {
-      "section": "learning",
+      "section": "community",
+      "url": "https://discord.gg/kav8VNxqGm",
       "stars": 0,
       "monthly": 0,
       "isArchived": false
     },
     {
-      "section": "examples",
+      "section": "community",
+      "url": "https://github.com/foldkit/foldkit/discussions",
       "stars": 0,
       "monthly": 0,
       "isArchived": false
     },
     {
-      "section": "examples",
+      "section": "community",
+      "url": "https://foldkit.dev/blog",
       "stars": 0,
       "monthly": 0,
       "isArchived": false
     },
     {
-      "section": "learning",
+      "section": "community",
+      "url": "https://foldkit.dev/newsletter",
       "stars": 0,
       "monthly": 0,
       "isArchived": false
     },
     {
-      "section": "learning",
+      "section": "community",
+      "url": "https://discourse.elm-lang.org/t/foldkit-the-elm-architecture-in-typescript-powered-by-effect/10579",
       "stars": 0,
       "monthly": 0,
       "isArchived": false
     },
     {
-      "section": "learning",
+      "section": "community",
       "repo": "Marve10s/awesome-effect",
       "stars": 91,
       "monthly": 0,

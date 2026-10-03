@@ -123,14 +123,30 @@ const enrich = project => {
 
 const enriched = projects.map(enrich)
 
+const ICON_ALT = {
+  repo: 'GitHub',
+  npm: 'npm',
+  web: 'Website',
+  docs: 'Docs',
+  chat: 'Chat',
+  article: 'Article',
+  compare: 'Comparison',
+}
+
 const projectName = project =>
-  project.name ?? project.repo?.split('/')[1] ?? project.npm?.[0] ?? project.url
+  project.name ?? project.repo ?? project.npm?.[0] ?? project.url
 
 const projectUrl = project =>
   project.url ??
   (project.repo
     ? `https://github.com/${project.repo}`
     : `https://www.npmjs.com/package/${project.npm[0]}`)
+
+const projectIcon = project => {
+  const icon =
+    project.icon ?? (project.url ? 'web' : project.repo ? 'repo' : 'npm')
+  return `<img src="assets/icons/${icon}.svg" alt="${ICON_ALT[icon] ?? icon}">`
+}
 
 const starsBadge = project =>
   project.repo
@@ -139,7 +155,7 @@ const starsBadge = project =>
 
 const npmBadge = project =>
   project.npm?.length
-    ? `[![npm downloads](https://img.shields.io/npm/dm/${project.npm[0]}?style=flat&label=npm&color=cb3837)](https://www.npmjs.com/package/${project.npm[0]})`
+    ? `[![npm downloads](https://img.shields.io/npm/dm/${project.npm[0]}?style=flat-square&label=npm&color=cb3837)](https://www.npmjs.com/package/${project.npm[0]})`
     : undefined
 
 const statusNote = project => {
@@ -153,20 +169,33 @@ const statusNote = project => {
 }
 
 const projectLine = project => {
-  const badges = [starsBadge(project), npmBadge(project)].filter(Boolean).join(' ')
-  const title = `**[${projectName(project)}](${projectUrl(project)})**`
-  const head = badges ? `${title} ${badges}` : title
+  const docs = project.docs ? ` [Docs](${project.docs}).` : ''
+  const badges = [starsBadge(project), npmBadge(project)].filter(Boolean)
+  const tail = badges.length > 0 ? ` ${badges.join(' ')}` : ''
 
-  return `- ${head}<br>${project.description}${statusNote(project)}`
+  return `- ${projectIcon(project)} [${projectName(project)}](${projectUrl(project)}) - ${project.description}${statusNote(project)}${docs}${tail}`
 }
 
-const sectionList = section => {
-  const lines = enriched
-    .filter(project => project.section === section.id)
-    .sort((a, b) => b.stars - a.stars || b.monthly - a.monthly)
-    .map(projectLine)
+const pillImage = section =>
+  section.pill
+    ? `<img src="assets/pills/${section.pill}.svg" alt="" align="top"> `
+    : ''
 
-  return [`## ${section.title}`, '', section.intro, '', ...lines, ''].join('\n')
+const sectionBlock = section => {
+  const level = section.level ?? 2
+  const heading = `${'#'.repeat(level)} ${pillImage(section)}${section.title}`
+
+  if (section.heading_only) {
+    return [heading, '', section.intro, ''].join('\n')
+  }
+
+  const members = enriched.filter(project => project.section === section.id)
+  const ordered =
+    section.sort === 'manual'
+      ? members
+      : [...members].sort((a, b) => b.stars - a.stars || b.monthly - a.monthly)
+
+  return [heading, '', section.intro, '', ...ordered.map(projectLine), ''].join('\n')
 }
 
 const anchor = title =>
@@ -175,42 +204,109 @@ const anchor = title =>
     .replace(/[^a-z0-9 -]/g, '')
     .replace(/ /g, '-')
 
-const totalStars = enriched.reduce((sum, project) => sum + project.stars, 0)
+const contentsLine = section =>
+  `${(section.level ?? 2) === 3 ? '  ' : ''}- [${section.title}](#${anchor(section.title)})`
+
+const communityCount = enriched.filter(
+  project => !['start', 'compare', 'core', 'examples', 'community'].includes(project.section),
+).length
+const totalStars = enriched
+  .filter(project => project.repo)
+  .reduce((sum, project) => sum + project.stars, 0)
+const coreDownloads = enriched
+  .filter(project => project.section === 'core')
+  .reduce((sum, project) => sum + project.monthly, 0)
+
+const formatThousands = count => count.toLocaleString('en-US')
+
+const escapeXml = text =>
+  text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+
+const bannerSvg = () => {
+  const stats = `${communityCount} community projects  ·  ${formatThousands(totalStars)} stars  ·  ${formatCount(coreDownloads)} core downloads a month`
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Awesome Foldkit">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1115"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="200" rx="16" fill="url(#bg)"/>
+  <g transform="translate(48,52)" fill="#ffffff">
+    <rect width="34" height="96"/>
+    <rect x="40" width="34" height="18"/>
+    <rect x="40" y="26" width="34" height="18"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="150" y="92" fill="#ffffff" font-size="44" font-weight="700">Awesome Foldkit</text>
+    <text x="152" y="124" fill="#aab3c2" font-size="18">Projects, tools, and apps around the Elm Architecture on Effect</text>
+    <text x="152" y="158" fill="#7ee2a8" font-size="15">${escapeXml(stats)}</text>
+  </g>
+</svg>
+`
+}
+
+const updatedSvg = () => {
+  const label = 'updated'
+  const value = today
+  const labelWidth = 62
+  const valueWidth = 82
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${labelWidth + valueWidth}" height="20" role="img" aria-label="${label}: ${value}">
+  <rect width="${labelWidth}" height="20" rx="3" fill="#555"/>
+  <rect x="${labelWidth - 3}" width="${valueWidth + 3}" height="20" rx="3" fill="#2f9e64"/>
+  <rect x="${labelWidth - 3}" width="4" height="20" fill="#2f9e64"/>
+  <g fill="#fff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle">
+    <text x="${labelWidth / 2}" y="14">${label}</text>
+    <text x="${labelWidth + valueWidth / 2 - 1}" y="14">${value}</text>
+  </g>
+</svg>
+`
+}
 
 const readme = [
+  '<a href="https://github.com/tao-io/awesome-foldkit"><img src="assets/banner.svg" alt="Awesome Foldkit" width="100%"></a>',
+  '',
   '# Awesome Foldkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)',
   '',
-  'A list of projects, tools, and apps around [Foldkit](https://foldkit.dev), the TypeScript frontend framework built on [Effect](https://effect.website) with the Elm Architecture.',
+  'Libraries, tools, apps, and docs for [Foldkit](https://foldkit.dev), the TypeScript frontend framework built on [Effect](https://effect.website) with the Elm Architecture: one Model, a Message union, a pure update, and Commands for side effects.',
   '',
-  `${enriched.length} projects. Star and download badges load live. A GitHub Action re-sorts each section by stars and flags archived or inactive projects every day. Last build: ${today}.`,
+  '<img src="assets/pills/updated.svg" alt="Last updated"> [![Foldkit stars](https://img.shields.io/github/stars/foldkit/foldkit?style=social)](https://github.com/foldkit/foldkit) [![foldkit on npm](https://img.shields.io/npm/v/foldkit?style=flat-square&label=foldkit&color=cb3837)](https://www.npmjs.com/package/foldkit)',
   '',
-  'Not official. Maintained by the community. To add a project, edit [`data/projects.toml`](data/projects.toml) and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).',
+  'Star and download badges load live. Every day a GitHub Action re-sorts the ecosystem by stars and flags archived or inactive projects. Every week it searches GitHub and npm for new projects.',
+  '',
+  '> A Foldkit community project by [tao-io](https://github.com/tao-io). To add a project, edit [`data/projects.toml`](data/projects.toml) and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).',
   '',
   '## Contents',
   '',
-  ...sections.map(section => `- [${section.title}](#${anchor(section.title)})`),
+  ...sections.map(contentsLine),
+  '- [How this list stays current](#how-this-list-stays-current)',
   '',
-  ...sections.map(sectionList),
+  ...sections.map(sectionBlock),
   '## How this list stays current',
   '',
-  '- Badges come from [shields.io](https://shields.io) and show the live star and download counts.',
-  '- [`build.yml`](.github/workflows/build.yml) runs every day. It reads GitHub and npm, sorts each section by stars, flags archived projects and projects with no commits for 180 days, and commits the new README.',
+  '- Badges come from [shields.io](https://shields.io) and show live star and download counts.',
+  '- [`build.yml`](.github/workflows/build.yml) runs every day. It reads GitHub and npm, sorts each ecosystem section by stars, flags archived projects and projects with no commits for 180 days, and redraws the banner.',
   '- [`discover.yml`](.github/workflows/discover.yml) runs every week. It searches GitHub and npm for new Foldkit projects and lists the ones that are not here yet in an issue.',
   '',
-  `<sub>Total stars across listed repositories at last build: ${totalStars}.</sub>`,
+  '## License',
+  '',
+  '[CC0 1.0](LICENSE). The Foldkit name and logo follow the [Foldkit community branding guidelines](https://github.com/foldkit/foldkit/blob/main/BRANDING.md).',
   '',
 ].join('\n')
 
 await writeFile(README_PATH, readme)
+await writeFile(new URL('../assets/banner.svg', import.meta.url), bannerSvg())
+await writeFile(new URL('../assets/pills/updated.svg', import.meta.url), updatedSvg())
 await writeFile(
   SNAPSHOT_PATH,
   `${JSON.stringify(
     {
       builtAt: today,
-      projects: enriched.map(({ section, repo, npm, stars, monthly, pushedAt, isArchived }) => ({
+      projects: enriched.map(({ section, repo, npm, url, stars, monthly, pushedAt, isArchived }) => ({
         section,
         repo,
         npm,
+        url,
         stars,
         monthly,
         pushedAt,
@@ -222,4 +318,4 @@ await writeFile(
   )}\n`,
 )
 
-console.log(`README.md written: ${enriched.length} projects, ${totalStars} stars.`)
+console.log(`README.md written: ${enriched.length} entries, ${communityCount} community projects, ${totalStars} stars.`)
