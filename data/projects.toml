@@ -15,7 +15,12 @@
 [[section]]
 id = "official"
 title = "Official"
-intro = "Packages and repositories from the Foldkit maintainers."
+intro = "Packages published from the main Foldkit repository."
+
+[[section]]
+id = "examples"
+title = "Official examples"
+intro = "Apps and examples from the Foldkit maintainers."
 
 [[section]]
 id = "fullstack"
@@ -95,12 +100,12 @@ npm = ["create-foldkit-app"]
 description = "Scaffold a new Foldkit app."
 
 [[project]]
-section = "official"
+section = "examples"
 repo = "foldkit/coverchart"
 description = "App for writing chord charts with lyrics."
 
 [[project]]
-section = "official"
+section = "examples"
 repo = "foldkit/patch-match"
 description = "Game: match the patch."
 
@@ -393,16 +398,16 @@ name = "Get started"
 description = "Official guide from install to first app."
 
 [[project]]
-section = "learning"
+section = "examples"
 url = "https://foldkit.dev/example-apps"
 name = "Example apps"
 description = "Official examples, from a counter to multiplayer games, with source and a playground."
 
 [[project]]
-section = "learning"
+section = "examples"
 url = "https://typingterminal.com"
 name = "Typing Terminal"
-description = "Multiplayer typing game by the Foldkit author; its source is in the Foldkit repo."
+description = "Multiplayer typing game; its source is in the Foldkit repo under packages/typing-game."
 
 [[project]]
 section = "learning"

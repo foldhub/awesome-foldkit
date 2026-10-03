@@ -132,20 +132,15 @@ const projectUrl = project =>
     ? `https://github.com/${project.repo}`
     : `https://www.npmjs.com/package/${project.npm[0]}`)
 
-const starsCell = project =>
+const starsBadge = project =>
   project.repo
-    ? `[![stars](https://img.shields.io/github/stars/${project.repo}?style=flat-square&label=%E2%98%85&color=555)](https://github.com/${project.repo}/stargazers)`
-    : ''
+    ? `[![GitHub stars](https://img.shields.io/github/stars/${project.repo}?style=social)](https://github.com/${project.repo}/stargazers)`
+    : undefined
 
-const npmCell = project =>
+const npmBadge = project =>
   project.npm?.length
-    ? project.npm
-        .map(
-          name =>
-            `[![${name}](https://img.shields.io/npm/dm/${name}?style=flat-square&label=${encodeURIComponent(name)})](https://www.npmjs.com/package/${name})`,
-        )
-        .join(' ')
-    : ''
+    ? `[![npm downloads](https://img.shields.io/npm/dm/${project.npm[0]}?style=flat&label=npm&color=cb3837)](https://www.npmjs.com/package/${project.npm[0]})`
+    : undefined
 
 const statusNote = project => {
   if (project.isArchived) {
@@ -157,25 +152,21 @@ const statusNote = project => {
   }
 }
 
-const sectionTable = section => {
-  const rows = enriched
+const projectLine = project => {
+  const badges = [starsBadge(project), npmBadge(project)].filter(Boolean).join(' ')
+  const title = `**[${projectName(project)}](${projectUrl(project)})**`
+  const head = badges ? `${title} ${badges}` : title
+
+  return `- ${head}<br>${project.description}${statusNote(project)}`
+}
+
+const sectionList = section => {
+  const lines = enriched
     .filter(project => project.section === section.id)
     .sort((a, b) => b.stars - a.stars || b.monthly - a.monthly)
-    .map(
-      project =>
-        `| [${projectName(project)}](${projectUrl(project)}) | ${starsCell(project)} | ${npmCell(project)} | ${project.pushedAt ?? ''} | ${project.description}${statusNote(project)} |`,
-    )
+    .map(projectLine)
 
-  return [
-    `## ${section.title}`,
-    '',
-    section.intro,
-    '',
-    '| Project | Stars | npm / month | Last push | What it does |',
-    '| --- | --- | --- | --- | --- |',
-    ...rows,
-    '',
-  ].join('\n')
+  return [`## ${section.title}`, '', section.intro, '', ...lines, ''].join('\n')
 }
 
 const anchor = title =>
@@ -191,7 +182,7 @@ const readme = [
   '',
   'A list of projects, tools, and apps around [Foldkit](https://foldkit.dev), the TypeScript frontend framework built on [Effect](https://effect.website) with the Elm Architecture.',
   '',
-  `${enriched.length} projects. Star and download badges load live. A GitHub Action refreshes the order, the last push dates, and the archive flags every day. Last build: ${today}.`,
+  `${enriched.length} projects. Star and download badges load live. A GitHub Action re-sorts each section by stars and flags archived or inactive projects every day. Last build: ${today}.`,
   '',
   'Not official. Maintained by the community. To add a project, edit [`data/projects.toml`](data/projects.toml) and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).',
   '',
@@ -199,11 +190,11 @@ const readme = [
   '',
   ...sections.map(section => `- [${section.title}](#${anchor(section.title)})`),
   '',
-  ...sections.map(sectionTable),
+  ...sections.map(sectionList),
   '## How this list stays current',
   '',
   '- Badges come from [shields.io](https://shields.io) and show the live star and download counts.',
-  '- [`build.yml`](.github/workflows/build.yml) runs every day. It reads GitHub and npm, sorts each section by stars, marks archived projects and projects with no commits for 180 days, and commits the new README.',
+  '- [`build.yml`](.github/workflows/build.yml) runs every day. It reads GitHub and npm, sorts each section by stars, flags archived projects and projects with no commits for 180 days, and commits the new README.',
   '- [`discover.yml`](.github/workflows/discover.yml) runs every week. It searches GitHub and npm for new Foldkit projects and lists the ones that are not here yet in an issue.',
   '',
   `<sub>Total stars across listed repositories at last build: ${totalStars}.</sub>`,

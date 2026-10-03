@@ -76,7 +76,7 @@
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "examples",
       "repo": "foldkit/coverchart",
       "stars": 3,
       "monthly": 0,
@@ -84,7 +84,7 @@
       "isArchived": false
     },
     {
-      "section": "official",
+      "section": "examples",
       "repo": "foldkit/patch-match",
       "stars": 1,
       "monthly": 0,
@@ -341,6 +341,7 @@
       "repo": "tao-io/foldkit-design",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-08-05",
       "isArchived": false
     },
     {
@@ -546,13 +547,13 @@
       "isArchived": false
     },
     {
-      "section": "learning",
+      "section": "examples",
       "stars": 0,
       "monthly": 0,
       "isArchived": false
     },
     {
-      "section": "learning",
+      "section": "examples",
       "stars": 0,
       "monthly": 0,
       "isArchived": false
