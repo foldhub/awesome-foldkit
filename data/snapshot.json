@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-03",
+  "builtAt": "2026-10-04",
   "projects": [
     {
       "section": "start",
@@ -127,7 +127,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 896,
+      "stars": 897,
       "monthly": 103863,
       "pushedAt": "2026-10-03",
       "isArchived": false
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1491,
+      "stars": 1492,
       "monthly": 0,
-      "pushedAt": "2026-10-03",
+      "pushedAt": "2026-10-04",
       "isArchived": false
     },
     {
@@ -256,7 +256,7 @@
     {
       "section": "fullstack",
       "repo": "lloydrichards/stack-effect",
-      "stars": 33,
+      "stars": 35,
       "monthly": 0,
       "pushedAt": "2026-10-01",
       "isArchived": false
@@ -264,9 +264,9 @@
     {
       "section": "fullstack",
       "repo": "elianiva/nook",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-03",
+      "pushedAt": "2026-10-04",
       "isArchived": false
     },
     {
@@ -297,7 +297,7 @@
     {
       "section": "ui",
       "repo": "elianiva/foldcn",
-      "stars": 36,
+      "stars": 37,
       "monthly": 0,
       "pushedAt": "2026-10-01",
       "isArchived": false
@@ -310,9 +310,9 @@
         "@foldworks/data-grid",
         "@foldworks/form-builder"
       ],
-      "stars": 8,
+      "stars": 10,
       "monthly": 1131,
-      "pushedAt": "2026-10-03",
+      "pushedAt": "2026-10-04",
       "isArchived": false
     },
     {
@@ -395,7 +395,7 @@
       ],
       "stars": 1,
       "monthly": 53,
-      "pushedAt": "2026-09-20",
+      "pushedAt": "2026-10-04",
       "isArchived": false
     },
     {
@@ -566,7 +566,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/slopcop",
-      "stars": 32,
+      "stars": 33,
       "monthly": 0,
       "pushedAt": "2026-08-19",
       "isArchived": false
@@ -722,7 +722,7 @@
     {
       "section": "community",
       "repo": "Marve10s/awesome-effect",
-      "stars": 91,
+      "stars": 92,
       "monthly": 0,
       "pushedAt": "2026-09-15",
       "isArchived": false
