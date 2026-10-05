@@ -455,6 +455,11 @@ section = "ai"
 repo = "mpsuesser/scraped-docs-foldkit"
 description = "Foldkit docs as Markdown, refreshed automatically, for agent context."
 
+[[project]]
+section = "ai"
+repo = "just-be-dev/foldmark"
+description = "Visual feedback widget that annotates UI elements and exports reports for coding agents."
+
 # INTEROP AND TOOLING
 
 [[project]]
@@ -501,6 +506,11 @@ section = "interop"
 repo = "Potti1234/wide-effect"
 npm = ["@wide-effect/foldkit"]
 description = "Interaction correlation and sanitized diagnostic timelines for Foldkit."
+
+[[project]]
+section = "interop"
+repo = "Manzanita-Research/foldkit-native"
+description = "Renders Foldkit apps natively with GPUI through gpuix."
 
 # APPS
 
