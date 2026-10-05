@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-04",
+  "builtAt": "2026-10-05",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 897,
-      "monthly": 103863,
-      "pushedAt": "2026-10-03",
+      "stars": 904,
+      "monthly": 105607,
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -138,7 +138,7 @@
         "@foldkit/ui"
       ],
       "stars": 0,
-      "monthly": 49949,
+      "monthly": 51157,
       "isArchived": false
     },
     {
@@ -147,7 +147,7 @@
         "create-foldkit-app"
       ],
       "stars": 0,
-      "monthly": 19887,
+      "monthly": 18161,
       "isArchived": false
     },
     {
@@ -156,7 +156,7 @@
         "@foldkit/vite-plugin"
       ],
       "stars": 0,
-      "monthly": 67897,
+      "monthly": 64215,
       "isArchived": false
     },
     {
@@ -165,7 +165,7 @@
         "@foldkit/devtools"
       ],
       "stars": 0,
-      "monthly": 34239,
+      "monthly": 35133,
       "isArchived": false
     },
     {
@@ -174,7 +174,7 @@
         "@foldkit/devtools-mcp"
       ],
       "stars": 0,
-      "monthly": 50451,
+      "monthly": 44797,
       "isArchived": false
     },
     {
@@ -183,7 +183,7 @@
         "@foldkit/oxlint-plugin"
       ],
       "stars": 0,
-      "monthly": 32694,
+      "monthly": 30976,
       "isArchived": false
     },
     {
@@ -192,7 +192,7 @@
         "@foldkit/markdown"
       ],
       "stars": 0,
-      "monthly": 19706,
+      "monthly": 18293,
       "isArchived": false
     },
     {
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1492,
+      "stars": 1496,
       "monthly": 0,
-      "pushedAt": "2026-10-04",
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -240,8 +240,8 @@
       "npm": [
         "@confect/foldkit"
       ],
-      "stars": 368,
-      "monthly": 2053,
+      "stars": 369,
+      "monthly": 2607,
       "pushedAt": "2026-10-03",
       "isArchived": false
     },
@@ -264,9 +264,9 @@
     {
       "section": "fullstack",
       "repo": "elianiva/nook",
-      "stars": 1,
+      "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-04",
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -275,7 +275,7 @@
         "create-foldkit-alchemy-app"
       ],
       "stars": 0,
-      "monthly": 51,
+      "monthly": 58,
       "isArchived": false
     },
     {
@@ -297,7 +297,7 @@
     {
       "section": "ui",
       "repo": "elianiva/foldcn",
-      "stars": 37,
+      "stars": 38,
       "monthly": 0,
       "pushedAt": "2026-10-01",
       "isArchived": false
@@ -310,8 +310,8 @@
         "@foldworks/data-grid",
         "@foldworks/form-builder"
       ],
-      "stars": 10,
-      "monthly": 1131,
+      "stars": 11,
+      "monthly": 985,
       "pushedAt": "2026-10-04",
       "isArchived": false
     },
@@ -330,7 +330,7 @@
         "@foldstryx/foldkit"
       ],
       "stars": 3,
-      "monthly": 82,
+      "monthly": 74,
       "pushedAt": "2026-08-26",
       "isArchived": false
     },
@@ -343,7 +343,7 @@
         "foldkit-sidenav"
       ],
       "stars": 1,
-      "monthly": 464,
+      "monthly": 477,
       "pushedAt": "2026-09-24",
       "isArchived": false
     },
@@ -394,7 +394,7 @@
         "@opsydyn/foldkit-viz"
       ],
       "stars": 1,
-      "monthly": 53,
+      "monthly": 46,
       "pushedAt": "2026-10-04",
       "isArchived": false
     },
@@ -405,7 +405,7 @@
         "foldkit-lucide-icons"
       ],
       "stars": 0,
-      "monthly": 25,
+      "monthly": 23,
       "pushedAt": "2026-07-21",
       "isArchived": false
     },
@@ -424,7 +424,7 @@
         "@djgrant/classy-foldkit"
       ],
       "stars": 2,
-      "monthly": 25,
+      "monthly": 30,
       "pushedAt": "2026-07-30",
       "isArchived": false
     },
@@ -437,7 +437,7 @@
         "foldkit-agent-mcp"
       ],
       "stars": 19,
-      "monthly": 3329,
+      "monthly": 3956,
       "pushedAt": "2026-10-03",
       "isArchived": false
     },
@@ -448,7 +448,7 @@
         "effect-webmcp"
       ],
       "stars": 0,
-      "monthly": 247,
+      "monthly": 251,
       "pushedAt": "2026-09-17",
       "isArchived": false
     },
@@ -458,8 +458,8 @@
       "npm": [
         "creasekit"
       ],
-      "stars": 0,
-      "monthly": 937,
+      "stars": 1,
+      "monthly": 938,
       "pushedAt": "2026-09-12",
       "isArchived": false
     },
@@ -483,7 +483,7 @@
       "repo": "mpsuesser/scraped-docs-foldkit",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-03",
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -491,7 +491,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-02",
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -515,7 +515,7 @@
       "repo": "birbprophet/astro-renderer-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-02",
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -525,7 +525,7 @@
       ],
       "url": "https://github.com/opsydyn/fold-kit-experiments",
       "stars": 0,
-      "monthly": 51,
+      "monthly": 42,
       "isArchived": false
     },
     {
@@ -537,7 +537,7 @@
         "create-foldocs"
       ],
       "stars": 24,
-      "monthly": 259,
+      "monthly": 236,
       "pushedAt": "2026-09-21",
       "isArchived": false
     },
@@ -548,7 +548,7 @@
         "@causeeffect/foldkit-jsx"
       ],
       "stars": 1,
-      "monthly": 0,
+      "monthly": 417,
       "pushedAt": "2026-10-02",
       "isArchived": false
     },
@@ -559,7 +559,7 @@
         "@wide-effect/foldkit"
       ],
       "stars": 1,
-      "monthly": 400,
+      "monthly": 394,
       "pushedAt": "2026-09-01",
       "isArchived": false
     },
@@ -584,7 +584,7 @@
       "repo": "filipfalcon/skoreova",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-03",
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -592,7 +592,7 @@
       "repo": "SyahrulBhudiF/Dearly",
       "stars": 5,
       "monthly": 0,
-      "pushedAt": "2026-09-03",
+      "pushedAt": "2026-10-05",
       "isArchived": false
     },
     {
@@ -614,7 +614,7 @@
     {
       "section": "apps",
       "repo": "solcik/agent-grilling",
-      "stars": 1,
+      "stars": 2,
       "monthly": 0,
       "pushedAt": "2026-10-02",
       "isArchived": false
