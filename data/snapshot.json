@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-05",
+  "builtAt": "2026-10-06",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 908,
+      "stars": 910,
       "monthly": 105607,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1516,
+      "stars": 1526,
       "monthly": 0,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
@@ -266,7 +266,7 @@
       "repo": "elianiva/nook",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
@@ -310,9 +310,9 @@
         "@foldworks/data-grid",
         "@foldworks/form-builder"
       ],
-      "stars": 11,
+      "stars": 12,
       "monthly": 997,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
@@ -438,7 +438,7 @@
       ],
       "stars": 19,
       "monthly": 3980,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
@@ -483,13 +483,13 @@
       "repo": "mpsuesser/scraped-docs-foldkit",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "just-be-dev/foldmark",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
       "pushedAt": "2026-10-05",
       "isArchived": false
@@ -499,7 +499,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
@@ -574,7 +574,7 @@
     {
       "section": "interop",
       "repo": "Manzanita-Research/foldkit-native",
-      "stars": 10,
+      "stars": 12,
       "monthly": 0,
       "pushedAt": "2026-10-05",
       "isArchived": false
