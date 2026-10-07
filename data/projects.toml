@@ -340,6 +340,11 @@ section = "fullstack"
 repo = "Potti1234/zero-foldkit"
 description = "Rocicorp Zero sync engine bindings for Foldkit."
 
+[[project]]
+section = "fullstack"
+repo = "NolanGC/verified-todo"
+description = "Full-stack todo starter combining Foldkit, Alchemy, Cloudflare Workers, and Neon Postgres."
+
 # UI KITS AND STYLING
 
 [[project]]
@@ -420,6 +425,12 @@ npm = ["@djgrant/classy-foldkit"]
 name = "classy-foldkit"
 description = "Typed component factories with CSS classes for Foldkit views."
 
+[[project]]
+section = "ui"
+repo = "Potti1234/creaseui"
+url = "https://creaseui.com"
+description = "Component library porting the shadcn/ui design language to Foldkit and Foldkit UI."
+
 # AI AND AGENTS
 
 [[project]]
@@ -459,6 +470,11 @@ description = "Foldkit docs as Markdown, refreshed automatically, for agent cont
 section = "ai"
 repo = "just-be-dev/foldmark"
 description = "Visual feedback widget that annotates UI elements and exports reports for coding agents."
+
+[[project]]
+section = "ai"
+repo = "birbprophet/webmcpifier"
+description = "Authoring studio and compiler turning web tasks into WebMCP tools for browser agents."
 
 # INTEROP AND TOOLING
 
@@ -511,6 +527,17 @@ description = "Interaction correlation and sanitized diagnostic timelines for Fo
 section = "interop"
 repo = "Manzanita-Research/foldkit-native"
 description = "Renders Foldkit apps natively with GPUI through gpuix."
+
+[[project]]
+section = "interop"
+repo = "giovannilondero/foldkit-native"
+name = "foldkit-native (Expo)"
+description = "Renders Foldkit apps natively on iOS and Android via Expo and React Native Fabric."
+
+[[project]]
+section = "interop"
+repo = "Manzanita-Research/foldkit-dials"
+description = "Live tuning controls for Foldkit apps that bind Effect Schemas directly to Messages."
 
 # APPS
 
@@ -596,6 +623,93 @@ repo = "julia-script/effect-inspect"
 npm = ["effect-inspect"]
 description = "Performance inspector and flame chart for Effect 4 programs, with a Foldkit frontend."
 
+
+[[project]]
+section = "apps"
+repo = "Effect-TS/cafe"
+description = "Minimal chat application built with Cloudflare, Alchemy, Foldkit, and Effect."
+
+[[project]]
+section = "apps"
+repo = "elianiva/lutra"
+url = "https://lutra.elianiva.com"
+description = "Film-simulation and color-grading tool with WebGPU shaders and a Foldkit UI."
+
+[[project]]
+section = "apps"
+repo = "chr33s/git"
+url = "https://git.chr33s.dev"
+description = "Git smart-HTTP protocol server, CLI, and browser client built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "bjacobso/triplex"
+url = "https://triplex.build"
+description = "Bitemporal fact database built on Effect, featuring an interactive Foldkit dashboard."
+
+[[project]]
+section = "apps"
+repo = "NolanGC/parcel"
+url = "https://parcelmail.dev"
+description = "Email client with a Foldkit frontend, Effect HTTP API backend, and local sync."
+
+[[project]]
+section = "apps"
+repo = "ricardocasares/keiso"
+url = "https://keiso-theta.vercel.app"
+description = "Browser WGSL live-coding studio and VJ software built with Foldkit and WebGPU."
+
+[[project]]
+section = "apps"
+repo = "boozedog/smoovdeck"
+description = "Desktop control deck for running and monitoring parallel coding workspaces and agent sessions."
+
+[[project]]
+section = "apps"
+repo = "Hokia-Labs/stream"
+description = "Engineering requirements graph and agent orchestration workspace built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "pkallos/wan-monitor"
+description = "Self-hosted network monitoring dashboard tracking latency, packet loss, and speed tests."
+
+[[project]]
+section = "apps"
+repo = "johnschoeman/outsider-ui"
+description = "Browser game interface for Outsider, built with Foldkit and Effect."
+
+[[project]]
+section = "apps"
+repo = "LouisLec/music-theory-lessons"
+url = "https://music-theory-lessons.vercel.app"
+description = "Interactive music theory lessons application built with Foldkit and Effect."
+
+[[project]]
+section = "apps"
+repo = "jigargosar/simply-gtd"
+description = "Getting Things Done task management application built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "Matthieusz/party-planner"
+description = "Party planning application built with Foldkit, Effect HTTP API, Yielded Auth, and Cloudflare D1."
+
+[[project]]
+section = "apps"
+repo = "planetaryescape/invoicing"
+description = "Business invoicing application featuring a Foldkit web interface."
+
+[[project]]
+section = "apps"
+repo = "sulthonuladib/abogoboga"
+description = "Cryptocurrency market data service and arbitrage tracking tool with a Foldkit control plane."
+
+[[project]]
+section = "apps"
+repo = "sunwrobert/beautiful-mermaid-viewer"
+url = "https://beautiful-mermaid-viewer.sunwrobert.workers.dev"
+description = "Live Mermaid diagram editor and previewer built with Foldkit."
 
 # LEARNING AND COMMUNITY
 
