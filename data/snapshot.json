@@ -295,6 +295,14 @@
       "isArchived": false
     },
     {
+      "section": "fullstack",
+      "repo": "NolanGC/verified-todo",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-17",
+      "isArchived": false
+    },
+    {
       "section": "ui",
       "repo": "elianiva/foldcn",
       "stars": 38,
@@ -429,6 +437,15 @@
       "isArchived": false
     },
     {
+      "section": "ui",
+      "repo": "Potti1234/creaseui",
+      "url": "https://creaseui.com",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-10-07",
+      "isArchived": false
+    },
+    {
       "section": "ai",
       "repo": "doeixd/foldkit-plus",
       "npm": [
@@ -492,6 +509,14 @@
       "stars": 1,
       "monthly": 0,
       "pushedAt": "2026-10-05",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "birbprophet/webmcpifier",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-04",
       "isArchived": false
     },
     {
@@ -577,6 +602,22 @@
       "stars": 15,
       "monthly": 0,
       "pushedAt": "2026-10-05",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "giovannilondero/foldkit-native",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-10-06",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "Manzanita-Research/foldkit-dials",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -706,9 +747,144 @@
       "npm": [
         "effect-inspect"
       ],
-      "stars": 13,
+      "stars": 14,
       "monthly": 1447,
       "pushedAt": "2026-10-07",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Effect-TS/cafe",
+      "stars": 5,
+      "monthly": 0,
+      "pushedAt": "2026-10-07",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "elianiva/lutra",
+      "url": "https://lutra.elianiva.com",
+      "stars": 5,
+      "monthly": 0,
+      "pushedAt": "2026-10-02",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "chr33s/git",
+      "url": "https://git.chr33s.dev",
+      "stars": 12,
+      "monthly": 0,
+      "pushedAt": "2026-09-29",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "bjacobso/triplex",
+      "url": "https://triplex.build",
+      "stars": 9,
+      "monthly": 0,
+      "pushedAt": "2026-10-06",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "NolanGC/parcel",
+      "url": "https://parcelmail.dev",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-08-06",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "ricardocasares/keiso",
+      "url": "https://keiso-theta.vercel.app",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-05",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "boozedog/smoovdeck",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-18",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Hokia-Labs/stream",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-04",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "pkallos/wan-monitor",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-10-05",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "johnschoeman/outsider-ui",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-09-03",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "LouisLec/music-theory-lessons",
+      "url": "https://music-theory-lessons.vercel.app",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-06-12",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "jigargosar/simply-gtd",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-06-30",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Matthieusz/party-planner",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-06",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "planetaryescape/invoicing",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-21",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "sulthonuladib/abogoboga",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-01",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "sunwrobert/beautiful-mermaid-viewer",
+      "url": "https://beautiful-mermaid-viewer.sunwrobert.workers.dev",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-03-18",
       "isArchived": false
     },
     {
