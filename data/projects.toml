@@ -590,6 +590,13 @@ repo = "mpsuesser/Dojo"
 url = "https://dojo.bingo"
 description = "Specialized elicitation interfaces for capturing thoughts into agent-legible forms."
 
+[[project]]
+section = "apps"
+repo = "julia-script/effect-inspect"
+npm = ["effect-inspect"]
+description = "Performance inspector and flame chart for Effect 4 programs, with a Foldkit frontend."
+
+
 # LEARNING AND COMMUNITY
 
 # COMMUNITY
