@@ -127,7 +127,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 913,
+      "stars": 916,
       "monthly": 105607,
       "pushedAt": "2026-10-07",
       "isArchived": false
@@ -229,7 +229,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1553,
+      "stars": 1558,
       "monthly": 0,
       "pushedAt": "2026-10-07",
       "isArchived": false
@@ -438,7 +438,7 @@
       ],
       "stars": 20,
       "monthly": 3980,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -698,6 +698,17 @@
       "stars": 2,
       "monthly": 0,
       "pushedAt": "2026-08-25",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "julia-script/effect-inspect",
+      "npm": [
+        "effect-inspect"
+      ],
+      "stars": 13,
+      "monthly": 1447,
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
