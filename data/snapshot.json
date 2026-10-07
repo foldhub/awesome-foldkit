@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-06",
+  "builtAt": "2026-10-07",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 910,
+      "stars": 913,
       "monthly": 105607,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1526,
+      "stars": 1553,
       "monthly": 0,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -240,9 +240,9 @@
       "npm": [
         "@confect/foldkit"
       ],
-      "stars": 369,
+      "stars": 370,
       "monthly": 2607,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     },
     {
@@ -266,7 +266,7 @@
       "repo": "elianiva/nook",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -436,7 +436,7 @@
         "foldkit-agent-webmcp",
         "foldkit-agent-mcp"
       ],
-      "stars": 19,
+      "stars": 20,
       "monthly": 3980,
       "pushedAt": "2026-10-06",
       "isArchived": false
@@ -499,7 +499,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -523,7 +523,7 @@
       "repo": "birbprophet/astro-renderer-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -574,7 +574,7 @@
     {
       "section": "interop",
       "repo": "Manzanita-Research/foldkit-native",
-      "stars": 12,
+      "stars": 15,
       "monthly": 0,
       "pushedAt": "2026-10-05",
       "isArchived": false
@@ -740,7 +740,7 @@
       "repo": "Marve10s/awesome-effect",
       "stars": 92,
       "monthly": 0,
-      "pushedAt": "2026-09-15",
+      "pushedAt": "2026-10-06",
       "isArchived": false
     }
   ]
