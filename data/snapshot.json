@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-07",
+  "builtAt": "2026-10-08",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 916,
+      "stars": 921,
       "monthly": 105607,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -229,7 +229,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1558,
+      "stars": 1568,
       "monthly": 0,
       "pushedAt": "2026-10-07",
       "isArchived": false
@@ -242,7 +242,7 @@
       ],
       "stars": 370,
       "monthly": 2607,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
@@ -266,7 +266,7 @@
       "repo": "elianiva/nook",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -307,7 +307,7 @@
       "repo": "elianiva/foldcn",
       "stars": 38,
       "monthly": 0,
-      "pushedAt": "2026-10-01",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -320,7 +320,7 @@
       ],
       "stars": 12,
       "monthly": 997,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -455,7 +455,7 @@
       ],
       "stars": 20,
       "monthly": 3980,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -500,7 +500,7 @@
       "repo": "mpsuesser/scraped-docs-foldkit",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -524,7 +524,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -548,7 +548,7 @@
       "repo": "birbprophet/astro-renderer-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -617,7 +617,7 @@
       "repo": "Manzanita-Research/foldkit-dials",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -747,7 +747,7 @@
       "npm": [
         "effect-inspect"
       ],
-      "stars": 14,
+      "stars": 23,
       "monthly": 1447,
       "pushedAt": "2026-10-07",
       "isArchived": false
@@ -755,7 +755,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/cafe",
-      "stars": 5,
+      "stars": 9,
       "monthly": 0,
       "pushedAt": "2026-10-07",
       "isArchived": false
@@ -764,7 +764,7 @@
       "section": "apps",
       "repo": "elianiva/lutra",
       "url": "https://lutra.elianiva.com",
-      "stars": 5,
+      "stars": 6,
       "monthly": 0,
       "pushedAt": "2026-10-02",
       "isArchived": false
@@ -784,7 +784,7 @@
       "url": "https://triplex.build",
       "stars": 9,
       "monthly": 0,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
