@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-08",
+  "builtAt": "2026-10-09",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 921,
-      "monthly": 105607,
-      "pushedAt": "2026-10-08",
+      "stars": 939,
+      "monthly": 107262,
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
@@ -138,7 +138,7 @@
         "@foldkit/ui"
       ],
       "stars": 0,
-      "monthly": 51157,
+      "monthly": 52056,
       "isArchived": false
     },
     {
@@ -147,7 +147,7 @@
         "create-foldkit-app"
       ],
       "stars": 0,
-      "monthly": 18161,
+      "monthly": 18629,
       "isArchived": false
     },
     {
@@ -156,7 +156,7 @@
         "@foldkit/vite-plugin"
       ],
       "stars": 0,
-      "monthly": 64215,
+      "monthly": 64777,
       "isArchived": false
     },
     {
@@ -165,7 +165,7 @@
         "@foldkit/devtools"
       ],
       "stars": 0,
-      "monthly": 35133,
+      "monthly": 36882,
       "isArchived": false
     },
     {
@@ -174,7 +174,7 @@
         "@foldkit/devtools-mcp"
       ],
       "stars": 0,
-      "monthly": 44797,
+      "monthly": 44268,
       "isArchived": false
     },
     {
@@ -183,7 +183,7 @@
         "@foldkit/oxlint-plugin"
       ],
       "stars": 0,
-      "monthly": 30976,
+      "monthly": 30724,
       "isArchived": false
     },
     {
@@ -192,7 +192,7 @@
         "@foldkit/markdown"
       ],
       "stars": 0,
-      "monthly": 18293,
+      "monthly": 19032,
       "isArchived": false
     },
     {
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1568,
+      "stars": 1595,
       "monthly": 0,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
@@ -240,9 +240,9 @@
       "npm": [
         "@confect/foldkit"
       ],
-      "stars": 370,
-      "monthly": 2607,
-      "pushedAt": "2026-10-07",
+      "stars": 371,
+      "monthly": 2626,
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
@@ -305,7 +305,7 @@
     {
       "section": "ui",
       "repo": "elianiva/foldcn",
-      "stars": 38,
+      "stars": 40,
       "monthly": 0,
       "pushedAt": "2026-10-08",
       "isArchived": false
@@ -319,7 +319,7 @@
         "@foldworks/form-builder"
       ],
       "stars": 12,
-      "monthly": 997,
+      "monthly": 970,
       "pushedAt": "2026-10-08",
       "isArchived": false
     },
@@ -338,7 +338,7 @@
         "@foldstryx/foldkit"
       ],
       "stars": 3,
-      "monthly": 74,
+      "monthly": 77,
       "pushedAt": "2026-08-26",
       "isArchived": false
     },
@@ -351,7 +351,7 @@
         "foldkit-sidenav"
       ],
       "stars": 1,
-      "monthly": 489,
+      "monthly": 495,
       "pushedAt": "2026-09-24",
       "isArchived": false
     },
@@ -402,8 +402,8 @@
         "@opsydyn/foldkit-viz"
       ],
       "stars": 1,
-      "monthly": 46,
-      "pushedAt": "2026-10-05",
+      "monthly": 44,
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
@@ -413,7 +413,7 @@
         "foldkit-lucide-icons"
       ],
       "stars": 0,
-      "monthly": 23,
+      "monthly": 24,
       "pushedAt": "2026-07-21",
       "isArchived": false
     },
@@ -442,7 +442,7 @@
       "url": "https://creaseui.com",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -454,7 +454,7 @@
         "foldkit-agent-mcp"
       ],
       "stars": 20,
-      "monthly": 3980,
+      "monthly": 4046,
       "pushedAt": "2026-10-08",
       "isArchived": false
     },
@@ -465,7 +465,7 @@
         "effect-webmcp"
       ],
       "stars": 0,
-      "monthly": 252,
+      "monthly": 256,
       "pushedAt": "2026-09-17",
       "isArchived": false
     },
@@ -476,7 +476,7 @@
         "creasekit"
       ],
       "stars": 1,
-      "monthly": 939,
+      "monthly": 941,
       "pushedAt": "2026-09-12",
       "isArchived": false
     },
@@ -548,7 +548,6 @@
       "repo": "birbprophet/astro-renderer-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -558,7 +557,7 @@
       ],
       "url": "https://github.com/opsydyn/fold-kit-experiments",
       "stars": 0,
-      "monthly": 43,
+      "monthly": 44,
       "isArchived": false
     },
     {
@@ -570,7 +569,7 @@
         "create-foldocs"
       ],
       "stars": 24,
-      "monthly": 243,
+      "monthly": 244,
       "pushedAt": "2026-09-21",
       "isArchived": false
     },
@@ -581,7 +580,7 @@
         "@causeeffect/foldkit-jsx"
       ],
       "stars": 1,
-      "monthly": 417,
+      "monthly": 428,
       "pushedAt": "2026-10-02",
       "isArchived": false
     },
@@ -592,14 +591,14 @@
         "@wide-effect/foldkit"
       ],
       "stars": 1,
-      "monthly": 394,
+      "monthly": 369,
       "pushedAt": "2026-09-01",
       "isArchived": false
     },
     {
       "section": "interop",
       "repo": "Manzanita-Research/foldkit-native",
-      "stars": 15,
+      "stars": 16,
       "monthly": 0,
       "pushedAt": "2026-10-05",
       "isArchived": false
@@ -615,9 +614,9 @@
     {
       "section": "interop",
       "repo": "Manzanita-Research/foldkit-dials",
-      "stars": 0,
+      "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-10-08",
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
@@ -747,17 +746,17 @@
       "npm": [
         "effect-inspect"
       ],
-      "stars": 23,
-      "monthly": 1447,
+      "stars": 26,
+      "monthly": 1531,
       "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "Effect-TS/cafe",
-      "stars": 9,
+      "stars": 14,
       "monthly": 0,
-      "pushedAt": "2026-10-07",
+      "pushedAt": "2026-10-08",
       "isArchived": false
     },
     {
@@ -802,7 +801,7 @@
       "url": "https://keiso-theta.vercel.app",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
