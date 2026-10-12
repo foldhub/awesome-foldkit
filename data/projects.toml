@@ -345,6 +345,11 @@ section = "fullstack"
 repo = "NolanGC/verified-todo"
 description = "Full-stack todo starter combining Foldkit, Alchemy, Cloudflare Workers, and Neon Postgres."
 
+[[project]]
+section = "fullstack"
+repo = "just-be-dev/cafe-stack"
+description = "Full-stack Cloudflare starter template combining Foldkit, Effect, Bun, mise, and Alchemy."
+
 # UI KITS AND STYLING
 
 [[project]]
@@ -430,6 +435,17 @@ section = "ui"
 repo = "Potti1234/creaseui"
 url = "https://creaseui.com"
 description = "Component library porting the shadcn/ui design language to Foldkit and Foldkit UI."
+
+[[project]]
+section = "ui"
+repo = "Manzanita-Research/pleat"
+docs = "https://pleat.manzanita.dev"
+description = "Algebraic, typed atomic CSS styling system for Foldkit and Effect."
+
+[[project]]
+section = "ui"
+repo = "planetaryescape/foldkit-mde"
+description = "Markdown editor component and playground with visual and raw editing modes and IndexedDB persistence."
 
 # AI AND AGENTS
 
@@ -538,6 +554,16 @@ description = "Renders Foldkit apps natively on iOS and Android via Expo and Rea
 section = "interop"
 repo = "Manzanita-Research/foldkit-dials"
 description = "Live tuning controls for Foldkit apps that bind Effect Schemas directly to Messages."
+
+[[project]]
+section = "interop"
+repo = "filipfalcon/lightocean"
+description = "Engine for real-time web applications and games with Three.js on WebGPU, Effect, and a Foldkit UI."
+
+[[project]]
+section = "interop"
+repo = "saiashirwad/foldkit-explore"
+description = "State-space explorer that enumerates a Foldkit program's transitions and renders reachable states on one page."
 
 # APPS
 
@@ -711,6 +737,22 @@ repo = "sunwrobert/beautiful-mermaid-viewer"
 url = "https://beautiful-mermaid-viewer.sunwrobert.workers.dev"
 description = "Live Mermaid diagram editor and previewer built with Foldkit."
 
+[[project]]
+section = "apps"
+repo = "Manzanita-Research/language-galaxy"
+url = "https://language-galaxy.jem.computer"
+description = "Explorable family tree of functional programming languages and ideas, built with Foldkit and WebGPU."
+
+[[project]]
+section = "apps"
+repo = "NigelThorne/foldkit-demo"
+description = "Shared session counter app built with Foldkit, Cloudflare Durable Objects, SQLite, and Alchemy."
+
+[[project]]
+section = "apps"
+repo = "NigelThorne/stack_manager_website"
+description = "Product site and interactive workflow demo for Stack Manager, built with Foldkit SSR and deployed with Alchemy."
+
 # LEARNING AND COMMUNITY
 
 # COMMUNITY
@@ -784,4 +826,5 @@ match = [
   "foldcn",
   "@bespokeagentics/*",
   "shadcn-foldkit",
+  "drobson03/foldkit-parse-repro",
 ]
