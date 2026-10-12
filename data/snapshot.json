@@ -127,7 +127,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 974,
+      "stars": 977,
       "monthly": 111838,
       "pushedAt": "2026-10-12",
       "isArchived": false
@@ -229,7 +229,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1632,
+      "stars": 1637,
       "monthly": 0,
       "pushedAt": "2026-10-12",
       "isArchived": false
@@ -242,7 +242,7 @@
       ],
       "stars": 371,
       "monthly": 3285,
-      "pushedAt": "2026-10-09",
+      "pushedAt": "2026-10-12",
       "isArchived": false
     },
     {
@@ -303,6 +303,14 @@
       "isArchived": false
     },
     {
+      "section": "fullstack",
+      "repo": "just-be-dev/cafe-stack",
+      "stars": 49,
+      "monthly": 0,
+      "pushedAt": "2026-10-08",
+      "isArchived": false
+    },
+    {
       "section": "ui",
       "repo": "elianiva/foldcn",
       "stars": 42,
@@ -320,7 +328,7 @@
       ],
       "stars": 13,
       "monthly": 1061,
-      "pushedAt": "2026-10-09",
+      "pushedAt": "2026-10-12",
       "isArchived": false
     },
     {
@@ -442,7 +450,23 @@
       "url": "https://creaseui.com",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-10",
+      "pushedAt": "2026-10-12",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "Manzanita-Research/pleat",
+      "stars": 24,
+      "monthly": 0,
+      "pushedAt": "2026-10-09",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "planetaryescape/foldkit-mde",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
@@ -620,6 +644,22 @@
       "isArchived": false
     },
     {
+      "section": "interop",
+      "repo": "filipfalcon/lightocean",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-10-12",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "saiashirwad/foldkit-explore",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-11",
+      "isArchived": false
+    },
+    {
       "section": "apps",
       "repo": "Effect-TS/slopcop",
       "stars": 33,
@@ -783,7 +823,7 @@
       "url": "https://triplex.build",
       "stars": 9,
       "monthly": 0,
-      "pushedAt": "2026-10-08",
+      "pushedAt": "2026-10-12",
       "isArchived": false
     },
     {
@@ -884,6 +924,31 @@
       "stars": 1,
       "monthly": 0,
       "pushedAt": "2026-03-18",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Manzanita-Research/language-galaxy",
+      "url": "https://language-galaxy.jem.computer",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-07",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "NigelThorne/foldkit-demo",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-08",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "NigelThorne/stack_manager_website",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-09",
       "isArchived": false
     },
     {
