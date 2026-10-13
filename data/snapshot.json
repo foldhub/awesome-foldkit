@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-12",
+  "builtAt": "2026-10-13",
   "projects": [
     {
       "section": "start",
@@ -127,7 +127,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 977,
+      "stars": 979,
       "monthly": 111838,
       "pushedAt": "2026-10-12",
       "isArchived": false
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1637,
+      "stars": 1645,
       "monthly": 0,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-13",
       "isArchived": false
     },
     {
@@ -242,7 +242,7 @@
       ],
       "stars": 371,
       "monthly": 3285,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-13",
       "isArchived": false
     },
     {
@@ -305,7 +305,7 @@
     {
       "section": "fullstack",
       "repo": "just-be-dev/cafe-stack",
-      "stars": 49,
+      "stars": 50,
       "monthly": 0,
       "pushedAt": "2026-10-08",
       "isArchived": false
@@ -450,7 +450,7 @@
       "url": "https://creaseui.com",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-13",
       "isArchived": false
     },
     {
@@ -477,9 +477,9 @@
         "foldkit-agent-webmcp",
         "foldkit-agent-mcp"
       ],
-      "stars": 20,
+      "stars": 23,
       "monthly": 3688,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-13",
       "isArchived": false
     },
     {
@@ -794,7 +794,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/cafe",
-      "stars": 24,
+      "stars": 25,
       "monthly": 0,
       "pushedAt": "2026-10-08",
       "isArchived": false
