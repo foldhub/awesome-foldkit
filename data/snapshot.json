@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-13",
+  "builtAt": "2026-10-14",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 979,
+      "stars": 992,
       "monthly": 111838,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -183,7 +183,7 @@
         "@foldkit/oxlint-plugin"
       ],
       "stars": 0,
-      "monthly": 35129,
+      "monthly": 0,
       "isArchived": false
     },
     {
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1645,
+      "stars": 1656,
       "monthly": 0,
-      "pushedAt": "2026-10-13",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -242,7 +242,7 @@
       ],
       "stars": 371,
       "monthly": 3285,
-      "pushedAt": "2026-10-13",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -305,9 +305,9 @@
     {
       "section": "fullstack",
       "repo": "just-be-dev/cafe-stack",
-      "stars": 50,
+      "stars": 51,
       "monthly": 0,
-      "pushedAt": "2026-10-08",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -326,9 +326,9 @@
         "@foldworks/data-grid",
         "@foldworks/form-builder"
       ],
-      "stars": 13,
+      "stars": 14,
       "monthly": 1061,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -359,7 +359,7 @@
         "foldkit-sidenav"
       ],
       "stars": 1,
-      "monthly": 500,
+      "monthly": 329,
       "pushedAt": "2026-09-24",
       "isArchived": false
     },
@@ -450,7 +450,7 @@
       "url": "https://creaseui.com",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-13",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -466,7 +466,7 @@
       "repo": "planetaryescape/foldkit-mde",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-09",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -478,8 +478,8 @@
         "foldkit-agent-mcp"
       ],
       "stars": 23,
-      "monthly": 3688,
-      "pushedAt": "2026-10-13",
+      "monthly": 4228,
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -500,7 +500,7 @@
         "creasekit"
       ],
       "stars": 1,
-      "monthly": 565,
+      "monthly": 0,
       "pushedAt": "2026-09-12",
       "isArchived": false
     },
@@ -648,7 +648,7 @@
       "repo": "filipfalcon/lightocean",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -656,7 +656,7 @@
       "repo": "saiashirwad/foldkit-explore",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-11",
+      "pushedAt": "2026-10-14",
       "isArchived": false
     },
     {
@@ -696,7 +696,7 @@
       "repo": "tomrford/vscope",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-08-19",
+      "pushedAt": "2026-10-13",
       "isArchived": false
     },
     {
@@ -794,7 +794,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/cafe",
-      "stars": 25,
+      "stars": 26,
       "monthly": 0,
       "pushedAt": "2026-10-08",
       "isArchived": false
@@ -823,7 +823,7 @@
       "url": "https://triplex.build",
       "stars": 9,
       "monthly": 0,
-      "pushedAt": "2026-10-12",
+      "pushedAt": "2026-10-13",
       "isArchived": false
     },
     {
@@ -865,7 +865,7 @@
       "repo": "pkallos/wan-monitor",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-05",
+      "pushedAt": "2026-10-13",
       "isArchived": false
     },
     {
