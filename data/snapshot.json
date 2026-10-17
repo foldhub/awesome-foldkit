@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-16",
+  "builtAt": "2026-10-17",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1003,
+      "stars": 1011,
       "monthly": 113906,
-      "pushedAt": "2026-10-15",
+      "pushedAt": "2026-10-17",
       "isArchived": false
     },
     {
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1667,
+      "stars": 1672,
       "monthly": 0,
-      "pushedAt": "2026-10-16",
+      "pushedAt": "2026-10-17",
       "isArchived": false
     },
     {
@@ -240,9 +240,9 @@
       "npm": [
         "@confect/foldkit"
       ],
-      "stars": 372,
+      "stars": 374,
       "monthly": 3200,
-      "pushedAt": "2026-10-15",
+      "pushedAt": "2026-10-17",
       "isArchived": false
     },
     {
@@ -256,7 +256,7 @@
     {
       "section": "fullstack",
       "repo": "lloydrichards/stack-effect",
-      "stars": 36,
+      "stars": 37,
       "monthly": 0,
       "pushedAt": "2026-10-12",
       "isArchived": false
@@ -305,7 +305,7 @@
     {
       "section": "fullstack",
       "repo": "just-be-dev/cafe-stack",
-      "stars": 51,
+      "stars": 52,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -328,7 +328,7 @@
       ],
       "stars": 14,
       "monthly": 1090,
-      "pushedAt": "2026-10-14",
+      "pushedAt": "2026-10-16",
       "isArchived": false
     },
     {
@@ -411,7 +411,7 @@
       ],
       "stars": 2,
       "monthly": 560,
-      "pushedAt": "2026-10-16",
+      "pushedAt": "2026-10-17",
       "isArchived": false
     },
     {
@@ -456,7 +456,7 @@
     {
       "section": "ui",
       "repo": "Manzanita-Research/pleat",
-      "stars": 26,
+      "stars": 27,
       "monthly": 0,
       "pushedAt": "2026-10-14",
       "isArchived": false
@@ -479,7 +479,7 @@
       ],
       "stars": 23,
       "monthly": 4228,
-      "pushedAt": "2026-10-15",
+      "pushedAt": "2026-10-17",
       "isArchived": false
     },
     {
@@ -603,7 +603,7 @@
       "npm": [
         "@causeeffect/foldkit-jsx"
       ],
-      "stars": 1,
+      "stars": 2,
       "monthly": 433,
       "pushedAt": "2026-10-02",
       "isArchived": false
@@ -622,7 +622,7 @@
     {
       "section": "interop",
       "repo": "Manzanita-Research/foldkit-native",
-      "stars": 27,
+      "stars": 30,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -646,7 +646,7 @@
     {
       "section": "interop",
       "repo": "filipfalcon/lightocean",
-      "stars": 3,
+      "stars": 4,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -696,7 +696,7 @@
       "repo": "tomrford/vscope",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-10-13",
+      "pushedAt": "2026-10-16",
       "isArchived": false
     },
     {
@@ -865,7 +865,7 @@
       "repo": "pkallos/wan-monitor",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-16",
+      "pushedAt": "2026-10-17",
       "isArchived": false
     },
     {
