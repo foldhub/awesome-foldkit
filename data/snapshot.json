@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-18",
+  "builtAt": "2026-10-19",
   "projects": [
     {
       "section": "start",
@@ -127,7 +127,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1013,
+      "stars": 1018,
       "monthly": 111439,
       "pushedAt": "2026-10-18",
       "isArchived": false
@@ -229,7 +229,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1679,
+      "stars": 1687,
       "monthly": 0,
       "pushedAt": "2026-10-17",
       "isArchived": false
@@ -242,7 +242,7 @@
       ],
       "stars": 374,
       "monthly": 3477,
-      "pushedAt": "2026-10-18",
+      "pushedAt": "2026-10-19",
       "isArchived": false
     },
     {
@@ -305,7 +305,7 @@
     {
       "section": "fullstack",
       "repo": "just-be-dev/cafe-stack",
-      "stars": 53,
+      "stars": 55,
       "monthly": 0,
       "pushedAt": "2026-10-17",
       "isArchived": false
@@ -411,7 +411,7 @@
       ],
       "stars": 2,
       "monthly": 564,
-      "pushedAt": "2026-10-18",
+      "pushedAt": "2026-10-19",
       "isArchived": false
     },
     {
@@ -450,7 +450,7 @@
       "url": "https://creaseui.com",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-16",
+      "pushedAt": "2026-10-18",
       "isArchived": false
     },
     {
@@ -458,7 +458,7 @@
       "repo": "Manzanita-Research/pleat",
       "stars": 27,
       "monthly": 0,
-      "pushedAt": "2026-10-14",
+      "pushedAt": "2026-10-19",
       "isArchived": false
     },
     {
@@ -479,7 +479,7 @@
       ],
       "stars": 23,
       "monthly": 3163,
-      "pushedAt": "2026-10-18",
+      "pushedAt": "2026-10-19",
       "isArchived": false
     },
     {
@@ -548,7 +548,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-15",
+      "pushedAt": "2026-10-19",
       "isArchived": false
     },
     {
@@ -648,7 +648,7 @@
       "repo": "filipfalcon/lightocean",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-10-15",
+      "pushedAt": "2026-10-18",
       "isArchived": false
     },
     {
@@ -865,7 +865,7 @@
       "repo": "pkallos/wan-monitor",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-18",
+      "pushedAt": "2026-10-19",
       "isArchived": false
     },
     {
