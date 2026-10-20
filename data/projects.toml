@@ -350,6 +350,11 @@ section = "fullstack"
 repo = "just-be-dev/cafe-stack"
 description = "Full-stack Cloudflare starter template combining Foldkit, Effect, Bun, mise, and Alchemy."
 
+[[project]]
+section = "fullstack"
+repo = "yatainc/cafe-stack"
+description = "Cloudflare, Alchemy, Foldkit, and Effect starter using Nix and Vite+."
+
 # UI KITS AND STYLING
 
 [[project]]
@@ -565,6 +570,17 @@ section = "interop"
 repo = "saiashirwad/foldkit-explore"
 description = "State-space explorer that enumerates a Foldkit program's transitions and renders reachable states on one page."
 
+[[project]]
+section = "interop"
+repo = "egonitida/egonitida"
+npm = ["egonitida", "create-egonitida"]
+description = "Real-time 3D engine built on Effect, Three.js, and Foldkit."
+
+[[project]]
+section = "interop"
+repo = "toshiki-higa/vite-plugin-foldkit-routes"
+description = "Vite plugin that generates file-based routing and typed layouts for Foldkit applications."
+
 # APPS
 
 [[project]]
@@ -753,6 +769,21 @@ section = "apps"
 repo = "NigelThorne/stack_manager_website"
 description = "Product site and interactive workflow demo for Stack Manager, built with Foldkit SSR and deployed with Alchemy."
 
+[[project]]
+section = "apps"
+repo = "acoyfellow/hark"
+description = "Voice-driven web assistant with durable memory and MCP tool support, built with Foldkit, Effect, and Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "acoyfellow/skin"
+description = "Self-rewriting web app with an embedded agent and automatic rollback, built with Foldkit, Effect, and Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "egorkarimov/mediterranean-hill-town"
+description = "Animated 3D isometric Mediterranean hill town artwork built with Bun, Effect, Foldkit SSR, and Three.js."
+
 # LEARNING AND COMMUNITY
 
 # COMMUNITY
@@ -827,4 +858,13 @@ match = [
   "@bespokeagentics/*",
   "shadcn-foldkit",
   "drobson03/foldkit-parse-repro",
+  "fullzer4/monorepo-effect-foldkit",
+  "filipfalcon/egonitida",
+  "drobson03/foldkit-build-id-repro",
+  "@gjermundgaraba-designs/*",
+  "foldkit-prose",
+  "julia-script/*",
+  "@onboarded-platform/*",
+  "@gaganref/*",
+  "@kestack/*",
 ]
