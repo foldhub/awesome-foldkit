@@ -311,6 +311,14 @@
       "isArchived": false
     },
     {
+      "section": "fullstack",
+      "repo": "yatainc/cafe-stack",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-18",
+      "isArchived": false
+    },
+    {
       "section": "ui",
       "repo": "elianiva/foldcn",
       "stars": 43,
@@ -660,6 +668,26 @@
       "isArchived": false
     },
     {
+      "section": "interop",
+      "repo": "egonitida/egonitida",
+      "npm": [
+        "egonitida",
+        "create-egonitida"
+      ],
+      "stars": 2,
+      "monthly": 101,
+      "pushedAt": "2026-10-20",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "toshiki-higa/vite-plugin-foldkit-routes",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-15",
+      "isArchived": false
+    },
+    {
       "section": "apps",
       "repo": "Effect-TS/slopcop",
       "stars": 33,
@@ -949,6 +977,30 @@
       "stars": 0,
       "monthly": 0,
       "pushedAt": "2026-10-09",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "acoyfellow/hark",
+      "stars": 15,
+      "monthly": 0,
+      "pushedAt": "2026-10-19",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "acoyfellow/skin",
+      "stars": 8,
+      "monthly": 0,
+      "pushedAt": "2026-10-19",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "egorkarimov/mediterranean-hill-town",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-16",
       "isArchived": false
     },
     {
