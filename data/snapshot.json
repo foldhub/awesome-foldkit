@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-20",
+  "builtAt": "2026-10-21",
   "projects": [
     {
       "section": "start",
@@ -127,9 +127,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1020,
+      "stars": 1024,
       "monthly": 115755,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1695,
+      "stars": 1699,
       "monthly": 0,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -242,7 +242,7 @@
       ],
       "stars": 374,
       "monthly": 3525,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -264,7 +264,7 @@
     {
       "section": "fullstack",
       "repo": "elianiva/nook",
-      "stars": 2,
+      "stars": 3,
       "monthly": 0,
       "pushedAt": "2026-10-17",
       "isArchived": false
@@ -321,7 +321,7 @@
     {
       "section": "ui",
       "repo": "elianiva/foldcn",
-      "stars": 43,
+      "stars": 44,
       "monthly": 0,
       "pushedAt": "2026-10-08",
       "isArchived": false
@@ -336,7 +336,7 @@
       ],
       "stars": 14,
       "monthly": 1201,
-      "pushedAt": "2026-10-16",
+      "pushedAt": "2026-10-20",
       "isArchived": false
     },
     {
@@ -419,7 +419,7 @@
       ],
       "stars": 2,
       "monthly": 569,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -458,7 +458,7 @@
       "url": "https://creaseui.com",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -532,7 +532,7 @@
       "repo": "mpsuesser/scraped-docs-foldkit",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-11",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -831,7 +831,7 @@
       "section": "apps",
       "repo": "elianiva/lutra",
       "url": "https://lutra.elianiva.com",
-      "stars": 6,
+      "stars": 7,
       "monthly": 0,
       "pushedAt": "2026-10-02",
       "isArchived": false
@@ -990,7 +990,7 @@
     {
       "section": "apps",
       "repo": "acoyfellow/skin",
-      "stars": 8,
+      "stars": 9,
       "monthly": 0,
       "pushedAt": "2026-10-19",
       "isArchived": false
