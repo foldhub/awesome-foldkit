@@ -303,14 +303,6 @@
     },
     {
       "section": "fullstack",
-      "repo": "NolanGC/verified-todo",
-      "stars": 0,
-      "monthly": 0,
-      "pushedAt": "2026-08-17",
-      "isArchived": false
-    },
-    {
-      "section": "fullstack",
       "repo": "just-be-dev/cafe-stack",
       "stars": 57,
       "monthly": 0,
@@ -376,14 +368,6 @@
       "stars": 1,
       "monthly": 513,
       "pushedAt": "2026-09-24",
-      "isArchived": false
-    },
-    {
-      "section": "ui",
-      "repo": "peterje/foldui",
-      "stars": 0,
-      "monthly": 0,
-      "pushedAt": "2026-08-28",
       "isArchived": false
     },
     {
@@ -536,14 +520,6 @@
     },
     {
       "section": "ai",
-      "repo": "mpsuesser/scraped-docs-foldkit",
-      "stars": 1,
-      "monthly": 0,
-      "pushedAt": "2026-10-21",
-      "isArchived": false
-    },
-    {
-      "section": "ai",
       "repo": "just-be-dev/foldmark",
       "stars": 1,
       "monthly": 0,
@@ -564,14 +540,6 @@
       "stars": 0,
       "monthly": 0,
       "pushedAt": "2026-10-22",
-      "isArchived": false
-    },
-    {
-      "section": "interop",
-      "repo": "birbprophet/react-foldkit-converter",
-      "stars": 0,
-      "monthly": 0,
-      "pushedAt": "2026-09-04",
       "isArchived": false
     },
     {
@@ -618,17 +586,6 @@
     },
     {
       "section": "interop",
-      "repo": "Potti1234/wide-effect",
-      "npm": [
-        "@wide-effect/foldkit"
-      ],
-      "stars": 1,
-      "monthly": 337,
-      "pushedAt": "2026-09-01",
-      "isArchived": false
-    },
-    {
-      "section": "interop",
       "repo": "Manzanita-Research/foldkit-native",
       "stars": 31,
       "monthly": 0,
@@ -665,18 +622,6 @@
       "stars": 0,
       "monthly": 0,
       "pushedAt": "2026-10-15",
-      "isArchived": false
-    },
-    {
-      "section": "interop",
-      "repo": "egonitida/egonitida",
-      "npm": [
-        "egonitida",
-        "create-egonitida"
-      ],
-      "stars": 2,
-      "monthly": 101,
-      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -793,14 +738,6 @@
     },
     {
       "section": "apps",
-      "repo": "erlangxk/foldkit-learn",
-      "stars": 0,
-      "monthly": 0,
-      "pushedAt": "2026-05-14",
-      "isArchived": false
-    },
-    {
-      "section": "apps",
       "repo": "mpsuesser/Dojo",
       "url": "https://dojo.bingo",
       "stars": 2,
@@ -874,14 +811,6 @@
     },
     {
       "section": "apps",
-      "repo": "boozedog/smoovdeck",
-      "stars": 0,
-      "monthly": 0,
-      "pushedAt": "2026-08-18",
-      "isArchived": false
-    },
-    {
-      "section": "apps",
       "repo": "Hokia-Labs/stream",
       "stars": 0,
       "monthly": 0,
@@ -911,14 +840,6 @@
       "stars": 0,
       "monthly": 0,
       "pushedAt": "2026-06-12",
-      "isArchived": false
-    },
-    {
-      "section": "apps",
-      "repo": "jigargosar/simply-gtd",
-      "stars": 0,
-      "monthly": 0,
-      "pushedAt": "2026-06-30",
       "isArchived": false
     },
     {
@@ -1080,14 +1001,6 @@
     },
     {
       "section": "apps",
-      "repo": "leonitousconforti/tinyburg",
-      "stars": 9,
-      "monthly": 0,
-      "pushedAt": "2026-10-22",
-      "isArchived": false
-    },
-    {
-      "section": "apps",
       "repo": "bjacobso/schematics",
       "stars": 4,
       "monthly": 0,
@@ -1108,14 +1021,6 @@
       "stars": 0,
       "monthly": 0,
       "pushedAt": "2026-10-21",
-      "isArchived": false
-    },
-    {
-      "section": "apps",
-      "repo": "levinbaenninger/echo",
-      "stars": 0,
-      "monthly": 0,
-      "pushedAt": "2026-10-16",
       "isArchived": false
     },
     {
@@ -1281,7 +1186,7 @@
     {
       "section": "fullstack",
       "repo": "joelhooks/rat-stack",
-      "stars": 124,
+      "stars": 125,
       "monthly": 0,
       "pushedAt": "2026-10-21",
       "isArchived": false
