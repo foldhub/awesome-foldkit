@@ -584,13 +584,6 @@
     },
     {
       "section": "interop",
-      "repo": "birbprophet/astro-renderer-foldkit",
-      "stars": 0,
-      "monthly": 0,
-      "isArchived": false
-    },
-    {
-      "section": "interop",
       "npm": [
         "@opsydyn/astro-foldkit"
       ],
