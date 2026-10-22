@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-21",
+  "builtAt": "2026-10-22",
   "projects": [
     {
       "section": "start",
@@ -127,7 +127,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1024,
+      "stars": 1026,
       "monthly": 115755,
       "pushedAt": "2026-10-21",
       "isArchived": false
@@ -229,9 +229,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1699,
+      "stars": 1706,
       "monthly": 0,
-      "pushedAt": "2026-10-21",
+      "pushedAt": "2026-10-22",
       "isArchived": false
     },
     {
@@ -242,7 +242,7 @@
       ],
       "stars": 374,
       "monthly": 3525,
-      "pushedAt": "2026-10-21",
+      "pushedAt": "2026-10-22",
       "isArchived": false
     },
     {
@@ -305,7 +305,7 @@
     {
       "section": "fullstack",
       "repo": "just-be-dev/cafe-stack",
-      "stars": 55,
+      "stars": 57,
       "monthly": 0,
       "pushedAt": "2026-10-19",
       "isArchived": false
@@ -487,7 +487,7 @@
       ],
       "stars": 23,
       "monthly": 3194,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-22",
       "isArchived": false
     },
     {
@@ -556,7 +556,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-22",
       "isArchived": false
     },
     {
@@ -611,7 +611,7 @@
       "npm": [
         "@causeeffect/foldkit-jsx"
       ],
-      "stars": 2,
+      "stars": 3,
       "monthly": 443,
       "pushedAt": "2026-10-02",
       "isArchived": false
@@ -676,7 +676,7 @@
       ],
       "stars": 2,
       "monthly": 101,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -690,7 +690,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/slopcop",
-      "stars": 33,
+      "stars": 34,
       "monthly": 0,
       "pushedAt": "2026-08-19",
       "isArchived": false
@@ -786,7 +786,7 @@
     {
       "section": "apps",
       "repo": "tao-io/foldkit-gallery",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
       "pushedAt": "2026-08-04",
       "isArchived": false
@@ -822,7 +822,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/cafe",
-      "stars": 27,
+      "stars": 28,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -893,7 +893,7 @@
       "repo": "pkallos/wan-monitor",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-21",
       "isArchived": false
     },
     {
@@ -990,7 +990,7 @@
     {
       "section": "apps",
       "repo": "acoyfellow/skin",
-      "stars": 9,
+      "stars": 10,
       "monthly": 0,
       "pushedAt": "2026-10-19",
       "isArchived": false
@@ -1041,7 +1041,7 @@
     {
       "section": "community",
       "repo": "Marve10s/awesome-effect",
-      "stars": 93,
+      "stars": 94,
       "monthly": 0,
       "pushedAt": "2026-10-10",
       "isArchived": false
