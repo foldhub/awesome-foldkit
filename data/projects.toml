@@ -175,6 +175,13 @@ name = "Performance"
 icon = "docs"
 description = "Rendering cost model and TodoMVC benchmark results."
 
+[[project]]
+section = "start"
+url = "https://developers.cloudflare.com/workers/framework-guides/web-apps/foldkit/"
+name = "Foldkit on Cloudflare Workers"
+icon = "docs"
+description = "Cloudflare's guide to deploying a Foldkit app on Workers."
+
 # COMPARE AND MIGRATE
 
 [[project]]
@@ -829,6 +836,161 @@ repo = "Marve10s/awesome-effect"
 description = "Awesome list for the whole Effect ecosystem."
 
 # NOT FOLDKIT (name collisions)
+
+[[project]]
+section = "apps"
+repo = "MapleTechLabs/maple"
+description = "OpenTelemetry observability platform. Its local UI uses Foldkit, Foldkit UI, and Foldkit Markdown."
+
+[[project]]
+section = "apps"
+repo = "MapleTechLabs/hazel"
+description = "Real-time team chat, with a Foldkit web client next to the React client."
+
+[[project]]
+section = "apps"
+repo = "joelhooks/potion-calendar"
+description = "Google Calendar clone built with Effect 4, Alchemy, and Foldkit on Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "Effect-TS/janitor"
+description = "Effect's GitHub labeling bot, with a Foldkit web UI."
+
+[[project]]
+section = "apps"
+repo = "leonitousconforti/tinyburg"
+description = "API and trading platform for the mobile game Tiny Tower, with a Foldkit auth proxy client."
+
+[[project]]
+section = "apps"
+repo = "bjacobso/schematics"
+description = "Config-as-code control plane in Effect for external APIs and SaaS resources, with a Foldkit playground."
+
+[[project]]
+section = "apps"
+repo = "bjacobso/forma"
+description = "Typed Lisp for building domain-specific languages, with a Foldkit workbench."
+
+[[project]]
+section = "apps"
+repo = "gjermundgaraba/clankerauth"
+description = "Self-hosted OAuth server for private apps and MCP servers, with a Foldkit admin UI."
+
+[[project]]
+section = "apps"
+repo = "levinbaenninger/echo"
+description = "Disposable HTTP endpoints for testing integrations, with a Foldkit dashboard."
+
+[[project]]
+section = "apps"
+repo = "eknowles/coordkit"
+description = "Shows a WGS84 position in ten coordinate systems on a live map."
+
+[[project]]
+section = "apps"
+repo = "guidefari/gbfm"
+description = "Public archive of curated music at goosebumps.fm."
+
+[[project]]
+section = "apps"
+repo = "laroccacharly/humi"
+description = "Logs temperature and humidity from a SwitchBot meter and charts them in a Foldkit UI."
+
+[[project]]
+section = "ai"
+repo = "aurelienbobenrieth/agentlint"
+description = "Flags risky judgment calls in changes from coding agents, with a Foldkit review UI."
+
+[[project]]
+section = "ai"
+repo = "dearlordylord/hapsland"
+description = "Real-time semantic review for coding agents, with a Foldkit flow view."
+
+[[project]]
+section = "ai"
+repo = "acoyfellow/coil"
+description = "Runs one agent per thread in a Cloudflare Container and Durable Object, with a Foldkit client."
+
+[[project]]
+section = "ai"
+repo = "acoyfellow/tardigrade"
+description = "Reference app for an agent that comes back after you stop it, built on Durable Objects with a Foldkit UI."
+
+[[project]]
+section = "ai"
+repo = "bjacobso/threadvm"
+description = "Git-versioned outline where people write intent and agents do the work, with a Foldkit UI."
+
+[[project]]
+section = "ai"
+repo = "In-Time-Tec/rika"
+description = "Coding-agent CLI where every turn is a durable execution, with a Foldkit web app."
+
+[[project]]
+section = "ai"
+repo = "In-Time-Tec/generalist"
+description = "Typed, durable agent runtime for Effect, with a docs site built with Foldkit."
+
+[[project]]
+section = "ai"
+repo = "just-be-dev/traces"
+description = "Collects and searches agent traces on Cloudflare, built with Effect 4, Alchemy, and Foldkit."
+
+[[project]]
+section = "ai"
+repo = "just-be-dev/automations"
+description = "Builds repeatable agent automations through conversation, on Cloudflare, Alchemy, Foldkit, and Effect."
+
+[[project]]
+section = "ai"
+repo = "elianiva/saku"
+description = "Web chat for pi coding agents, with one durable thread per agent."
+
+[[project]]
+section = "ai"
+repo = "mshubitidze/pi-cf"
+description = "Personal chat agent on one Cloudflare Worker and Durable Object, with a Foldkit UI."
+
+[[project]]
+section = "ai"
+repo = "NickSuomi/heron"
+description = "Self-hosted code review bot for GitLab merge requests, with a Foldkit site."
+
+[[project]]
+section = "ai"
+repo = "qdhenry/site-discovery"
+description = "Captures website pages with Cloudflare Browser Run and analyzes them with Claude, with a Foldkit UI."
+
+[[project]]
+section = "interop"
+repo = "millionco/openstory"
+description = "Storybook for coding agents, with a Foldkit integration."
+
+[[project]]
+section = "interop"
+repo = "OpenAgentsInc/three-effect"
+description = "Three.js in Effect, with a Foldkit integration package."
+
+[[project]]
+section = "interop"
+repo = "astahmer/jj-plus"
+description = "VS Code extension for Jujutsu and Git history, with a Foldkit webview."
+
+[[project]]
+section = "interop"
+repo = "kondaurovDev/procdeck"
+description = "Runs a whole dev stack with one command, with a Foldkit browser UI for processes, ports, and logs."
+
+[[project]]
+section = "fullstack"
+repo = "joelhooks/rat-stack"
+description = "TypeScript scaffold for agent-built apps with Effect 4, XState, Alchemy, and a Foldkit web app."
+
+[[project]]
+section = "fullstack"
+repo = "elianiva/cafe-template"
+description = "Full-stack starter on Cloudflare, Alchemy, Foldkit, and Effect, with the website and API as separate Workers."
 
 [[ignore]]
 match = [
