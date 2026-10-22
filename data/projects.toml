@@ -1025,3 +1025,103 @@ match = [
   "@gaganref/*",
   "@kestack/*",
 ]
+
+[[project]]
+section = "ai"
+repo = "joelhooks/rat-king"
+description = "Encrypted agent network with a public connection page rendered by Foldkit."
+
+[[project]]
+section = "apps"
+repo = "guidefari/here_hugo"
+description = "GPU playground with random-dot and noise-beam scenes built with Foldkit alongside a Hugo blog."
+
+[[project]]
+section = "ai"
+repo = "elianiva/oru"
+description = "Agent control plane with a plugin-based Foldkit interface, persistent sessions, and harness bridges."
+
+[[project]]
+section = "apps"
+repo = "mariusom/optio"
+description = "Time-study application built with Foldkit for recording task observations, reviewing sessions, and exporting results."
+
+[[project]]
+section = "apps"
+repo = "Reilley64/mtgfr"
+description = "Four-player Commander card-game table with a Rust rules engine and a Foldkit client."
+
+[[project]]
+section = "apps"
+repo = "mpsuesser/interview-me-phonecall"
+description = "Telephone voice interviewer with a Foldkit website for recordings and caller preferences."
+
+[[project]]
+section = "apps"
+repo = "phibkro/job-application-assistant"
+description = "Job-application workspace with a Foldkit frontend for browsing vacancies, managing profile facts, and tracking applications."
+
+[[project]]
+section = "interop"
+repo = "bjacobso/module-ls"
+description = "Codebase explorer and CLI with a Foldkit interface for source trees, symbol information, and guided walkthroughs."
+
+[[project]]
+section = "apps"
+repo = "rxssula/github-card"
+description = "Foldkit application that turns a GitHub profile into a downloadable image card."
+
+[[project]]
+section = "apps"
+repo = "XiNiHa/helpspeaking-downloader"
+description = "Lesson-recording library built with Foldkit, with a pattern lock and ffmpeg transcoding on Cloudflare."
+
+[[project]]
+section = "ai"
+repo = "kimlercorey/aimy-v0"
+description = "Local agent companion with a Foldkit chat interface and a separate memory and agent runtime."
+
+[[project]]
+section = "apps"
+repo = "just-be-dev/entity-store"
+description = "Entity store on Cloudflare D1 with a Foldkit interface for schemas, versioned transformations, and linked records."
+
+[[project]]
+section = "ai"
+repo = "sakompella/cf-stumble"
+description = "Experimental Cloudflare agent harness with a Foldkit owner interface for projects and conversations."
+
+[[project]]
+section = "interop"
+repo = "chr33s/effect-reconciler"
+description = "Effect resource-lifetime library with Foldkit integration examples for state-driven resource ownership."
+
+[[project]]
+section = "ai"
+repo = "phibkro/chatlog"
+description = "Local conversation-memory tool for coding agents with a Foldkit workbench for evidence and reviewed insights."
+
+[[project]]
+section = "interop"
+repo = "opsydyn/astro-azure-integration"
+description = "Astro adapter for Azure Static Web Apps with an example that includes a Foldkit island."
+
+[[project]]
+section = "ai"
+repo = "kamn/empty-vessel"
+description = "Experimental coding agent whose terminal interface uses Foldkit Messages, Commands, and update returns."
+
+[[project]]
+section = "apps"
+repo = "nalpr/opencode-luminacad"
+description = "Parametric lamp-shade modeller built with Foldkit and Three.js, with STL export and a STEP-script workflow."
+
+[[project]]
+section = "apps"
+repo = "bjoerge/battery-calculator"
+description = "Battery-life calculator built with Foldkit for comparing power draw, duty cycles, chemistry, and cell layouts."
+
+[[project]]
+section = "fullstack"
+repo = "guidefari/efa-template"
+description = "Effect and Alchemy starter with a Foldkit frontend, Better Auth account flows, StyleX, and Cloudflare D1."
