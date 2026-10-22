@@ -82,7 +82,7 @@ intro = "Bridges to React, Astro, and Storybook, plus developer tools."
 id = "apps"
 title = "Apps built with Foldkit"
 pill = "apps"
-intro = "Open source applications you can read to learn real patterns."
+intro = "Applications with public source you can read to learn real patterns."
 
 [[section]]
 id = "community"
@@ -330,7 +330,7 @@ description = "Scaffolds Effect apps from composable modules, with a Foldkit cli
 [[project]]
 section = "fullstack"
 repo = "elianiva/nook"
-description = "Monorepo template with a Foldkit frontend, Effect RPC backend, Cloudflare KV state, and Alchemy infrastructure."
+description = "Spaced-repetition application with a Foldkit frontend for decks and reviews using FSRS scheduling."
 
 [[project]]
 section = "fullstack"
@@ -346,11 +346,6 @@ description = "Architecture lab for Foldkit with Convex, Clerk, and Confect."
 section = "fullstack"
 repo = "Potti1234/zero-foldkit"
 description = "Rocicorp Zero sync engine bindings for Foldkit."
-
-[[project]]
-section = "fullstack"
-repo = "NolanGC/verified-todo"
-description = "Full-stack todo starter combining Foldkit, Alchemy, Cloudflare Workers, and Neon Postgres."
 
 [[project]]
 section = "fullstack"
@@ -391,11 +386,6 @@ section = "ui"
 repo = "oleksandr-antonenko/foldkit-extras"
 npm = ["foldkit-command-palette", "foldkit-scheduler", "foldkit-sidenav"]
 description = "Command palette, time-grid scheduler, and grouped side navigation components."
-
-[[project]]
-section = "ui"
-repo = "peterje/foldui"
-description = "Foldkit-native UI registry."
 
 [[project]]
 section = "ui"
@@ -491,11 +481,6 @@ description = "Claude Design template and Claude Code skill for prototyping Fold
 
 [[project]]
 section = "ai"
-repo = "mpsuesser/scraped-docs-foldkit"
-description = "Foldkit docs as Markdown, refreshed automatically, for agent context."
-
-[[project]]
-section = "ai"
 repo = "just-be-dev/foldmark"
 description = "Visual feedback widget that annotates UI elements and exports reports for coding agents."
 
@@ -510,11 +495,6 @@ description = "Authoring studio and compiler turning web tasks into WebMCP tools
 section = "interop"
 repo = "rodygosset/react-foldkit"
 description = "React bindings that use Foldkit's Command, Message, Update, and Subscription vocabulary."
-
-[[project]]
-section = "interop"
-repo = "birbprophet/react-foldkit-converter"
-description = "Converts React components to Foldkit views."
 
 [[project]]
 section = "interop"
@@ -542,12 +522,6 @@ description = "JSX for Effect, with a JSX adapter for Foldkit's typed view build
 
 [[project]]
 section = "interop"
-repo = "Potti1234/wide-effect"
-npm = ["@wide-effect/foldkit"]
-description = "Interaction correlation and sanitized diagnostic timelines for Foldkit."
-
-[[project]]
-section = "interop"
 repo = "Manzanita-Research/foldkit-native"
 description = "Renders Foldkit apps natively with GPUI through gpuix."
 
@@ -571,12 +545,6 @@ description = "Engine for real-time web applications and games with Three.js on 
 section = "interop"
 repo = "saiashirwad/foldkit-explore"
 description = "State-space explorer that enumerates a Foldkit program's transitions and renders reachable states on one page."
-
-[[project]]
-section = "interop"
-repo = "egonitida/egonitida"
-npm = ["egonitida", "create-egonitida"]
-description = "Real-time 3D engine built on Effect, Three.js, and Foldkit."
 
 [[project]]
 section = "interop"
@@ -652,11 +620,6 @@ description = "Every @foldkit/ui component on its own page, with Model assertion
 
 [[project]]
 section = "apps"
-repo = "erlangxk/foldkit-learn"
-description = "Learning Foldkit with PixiJS."
-
-[[project]]
-section = "apps"
 repo = "mpsuesser/Dojo"
 url = "https://dojo.bingo"
 description = "Specialized elicitation interfaces for capturing thoughts into agent-legible forms."
@@ -705,11 +668,6 @@ description = "Browser WGSL live-coding studio and VJ software built with Foldki
 
 [[project]]
 section = "apps"
-repo = "boozedog/smoovdeck"
-description = "Desktop control deck for running and monitoring parallel coding workspaces and agent sessions."
-
-[[project]]
-section = "apps"
 repo = "Hokia-Labs/stream"
 description = "Engineering requirements graph and agent orchestration workspace built with Foldkit."
 
@@ -728,11 +686,6 @@ section = "apps"
 repo = "LouisLec/music-theory-lessons"
 url = "https://music-theory-lessons.vercel.app"
 description = "Interactive music theory lessons application built with Foldkit and Effect."
-
-[[project]]
-section = "apps"
-repo = "jigargosar/simply-gtd"
-description = "Getting Things Done task management application built with Foldkit."
 
 [[project]]
 section = "apps"
@@ -854,13 +807,8 @@ description = "Effect's GitHub labeling bot, with a Foldkit web UI."
 
 [[project]]
 section = "apps"
-repo = "leonitousconforti/tinyburg"
-description = "API and trading platform for the mobile game Tiny Tower, with a Foldkit auth proxy client."
-
-[[project]]
-section = "apps"
 repo = "bjacobso/schematics"
-description = "Config-as-code control plane in Effect for external APIs and SaaS resources, with a Foldkit playground."
+description = "Config-as-code control plane in Effect for external APIs and SaaS resources, with Foldkit landing-page simulations."
 
 [[project]]
 section = "apps"
@@ -871,11 +819,6 @@ description = "Typed Lisp for building domain-specific languages, with a Foldkit
 section = "apps"
 repo = "gjermundgaraba/clankerauth"
 description = "Self-hosted OAuth server for private apps and MCP servers, with a Foldkit admin UI."
-
-[[project]]
-section = "apps"
-repo = "levinbaenninger/echo"
-description = "Disposable HTTP endpoints for testing integrations, with a Foldkit dashboard."
 
 [[project]]
 section = "apps"
@@ -980,7 +923,7 @@ description = "Runs a whole dev stack with one command, with a Foldkit browser U
 [[project]]
 section = "fullstack"
 repo = "joelhooks/rat-stack"
-description = "TypeScript scaffold for agent-built apps with Effect 4, XState, Alchemy, and a Foldkit web app."
+description = "TypeScript scaffold for agent-built apps with Effect 4, XState, Alchemy, and a Foldkit documentation reader."
 
 [[project]]
 section = "fullstack"
