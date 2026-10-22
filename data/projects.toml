@@ -967,6 +967,7 @@ match = [
   "@onboarded-platform/*",
   "@gaganref/*",
   "@kestack/*",
+  "filipfalcon/contriba",
 ]
 
 [[project]]
@@ -1068,3 +1069,113 @@ description = "Battery-life calculator built with Foldkit for comparing power dr
 section = "fullstack"
 repo = "guidefari/efa-template"
 description = "Effect and Alchemy starter with a Foldkit frontend, Better Auth account flows, StyleX, and Cloudflare D1."
+
+[[project]]
+section = "apps"
+repo = "joelhooks/howtoyoutube"
+description = "Single-page guide to making developer YouTube videos, prerendered with Foldkit to static HTML."
+
+[[project]]
+section = "apps"
+repo = "ByronLi8565/bookclub"
+description = "Collaborative book club application with an EPUB and PDF reader, command palette, and note-taking built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "dearlordylord/piglatin"
+description = "Pig Latin transformation explorer and animator built with Foldkit, with executable Quint specifications and model-based tests."
+
+[[project]]
+section = "apps"
+repo = "elianiva/quorum"
+description = "System design learning game built with Foldkit, Effect, and Alchemy on Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "thiagofelix/isavail"
+description = "Domain availability service for Brazilian domains with a Foldkit frontend, HTTP API, and SQLite cache."
+
+[[project]]
+section = "apps"
+repo = "martinthommesen/std"
+description = "Service platform for records, forms, and workflows with a Foldkit web client and generic data engine."
+
+[[project]]
+section = "apps"
+repo = "laroccacharly/ccal"
+description = "Meeting booking application with a Foldkit booking calendar and automated Google Meet invitations."
+
+[[project]]
+section = "apps"
+repo = "lambdasolver2/winning-is-a-bug-effect"
+description = "Port of Victor Taelin's flag-capture puzzle game, with machine-checked proofs in Effect and a Foldkit web interface."
+
+[[project]]
+section = "apps"
+repo = "phibkro/course-data-platform"
+description = "University course browser with a Foldkit frontend for comparing subjects, planning schedules, and tracking degree progress."
+
+[[project]]
+section = "apps"
+repo = "elianiva/photo.elianiva.com"
+description = "Photography portfolio and catalog with a Foldkit frontend, image metadata extractor, and Cloudflare R2 storage."
+
+[[project]]
+section = "apps"
+repo = "vektorprogrammet/mono-web"
+description = "School volunteer platform with Foldkit dashboard modules for recruitment, interviews, scheduling, and school visits."
+
+[[project]]
+section = "apps"
+repo = "MichaelVessia/garage"
+description = "Health tracking application for injections, schedules, and weight logs, built with Foldkit, Effect RPC, and Cloudflare D1."
+
+[[project]]
+section = "ai"
+repo = "r4ravi2008/remix-workflow-v3"
+description = "Automated song-remixing pipeline with a Foldkit studio for artist profiles, audio analysis, and video releases."
+
+[[project]]
+section = "apps"
+repo = "oldgeese/ryutama-charsheet"
+description = "Character sheet manager for the Ryuutama tabletop RPG, built with Foldkit and Firebase."
+
+[[project]]
+section = "apps"
+repo = "AlexanderDev2004/hlsl-editor"
+description = "Visual node graph editor simulator for HLSL shaders, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "mococa/foldkit-todo"
+description = "Todo application built with Foldkit, featuring Google authentication and typed routing."
+
+[[project]]
+section = "apps"
+repo = "ZloiY/FoldkitApp"
+description = "Dating application prototype built with Foldkit and UnoCSS."
+
+[[project]]
+section = "apps"
+repo = "kndwin/fullstack-effect"
+description = "Team workspace and project collaboration application built with Effect and Foldkit."
+
+[[project]]
+section = "apps"
+repo = "djobbo/timeline"
+description = "Multi-track timeline editor for arranging and trimming media clips, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "roninlp/jibkeep-effect"
+description = "Household expense tracker and ledger built with Effect and Foldkit."
+
+[[project]]
+section = "fullstack"
+repo = "willtraweek/vibe-starter"
+description = "Starter template generator with a preset stack for Foldkit, Effect v4, Vite, and Playwright."
+
+[[project]]
+section = "apps"
+repo = "gregwebs/tiny-desk-splitter"
+description = "Audio splitter and concert player for NPR Tiny Desk Concerts with a Foldkit playback interface."
