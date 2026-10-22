@@ -13,6 +13,10 @@
       "front/package.json"
     ]
   },
+  "birbprophet/react-foldkit-converter": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
+  },
   "bjacobso/module-ls": {
     "firstSeen": "2026-10-22",
     "verdict": "pending",
@@ -26,6 +30,10 @@
     "manifests": [
       "package.json"
     ]
+  },
+  "boozedog/smoovdeck": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
   },
   "byronli8565/bookclub": {
     "firstSeen": "2026-10-22",
@@ -93,6 +101,10 @@
     "firstSeen": "2026-10-22",
     "verdict": "pending"
   },
+  "egonitida/egonitida": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
+  },
   "elianiva/oru": {
     "firstSeen": "2026-10-22",
     "verdict": "pending",
@@ -115,6 +127,10 @@
       "examples/reference/package.json",
       "apps/web/package.json"
     ]
+  },
+  "erlangxk/foldkit-learn": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
   },
   "filipfalcon/contriba": {
     "firstSeen": "2026-10-22",
@@ -179,6 +195,10 @@
       "adventures/foldkit-eval/drawing/package.json",
       "adventures/foldkit-eval/rock-paper-scissors/package.json"
     ]
+  },
+  "jigargosar/simply-gtd": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
   },
   "joelhooks/howtoyoutube": {
     "firstSeen": "2026-10-22",
@@ -270,6 +290,14 @@
       "src/ui/package.json"
     ]
   },
+  "leonitousconforti/tinyburg": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
+  },
+  "levinbaenninger/echo": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
+  },
   "lvl0lvl/t3_bot": {
     "firstSeen": "2026-10-22",
     "verdict": "pending"
@@ -318,6 +346,10 @@
       "package.json"
     ]
   },
+  "mpsuesser/scraped-docs-foldkit": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
+  },
   "nalpr/opencode-luminacad": {
     "firstSeen": "2026-10-22",
     "verdict": "pending",
@@ -328,6 +360,10 @@
   "nicepakproducts/effect-digital-shelf": {
     "firstSeen": "2026-10-22",
     "verdict": "pending"
+  },
+  "nolangc/verified-todo": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
   },
   "npm:@gaganref/confect-foldkit": {
     "firstSeen": "2026-10-22",
@@ -376,6 +412,10 @@
       "examples/basic/package.json"
     ]
   },
+  "peterje/foldui": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
+  },
   "phibkro/chatlog": {
     "firstSeen": "2026-10-22",
     "verdict": "pending",
@@ -405,6 +445,10 @@
     "manifests": [
       "apps/web/package.json"
     ]
+  },
+  "potti1234/wide-effect": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
   },
   "r4ravi2008/remix-workflow-v3": {
     "firstSeen": "2026-10-22",
