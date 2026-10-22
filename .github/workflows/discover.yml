@@ -6,34 +6,72 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   issues: write
+
+concurrency:
+  group: discover
+  cancel-in-progress: false
+
+env:
+  ISSUE_TITLE: New Foldkit projects to review
 
 jobs:
   discover:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - run: npm ci
-      - name: Search GitHub and npm
-        run: node scripts/discover.mjs > found.md
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Open or update the discovery issue
+      - name: Find the last discovery issue
+        id: previous
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          number=$(gh issue list --state all --search "in:title \"$ISSUE_TITLE\"" --json number --jq 'max_by(.number).number // empty')
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+          if [ -n "$number" ]; then
+            gh issue view "$number" --json body,state > previous.json
+            echo "state=$(jq -r .state previous.json)" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Search GitHub and npm
+        env:
+          RADAR_TOKEN: ${{ secrets.RADAR_TOKEN }}
+        run: |
+          if [ -z "$RADAR_TOKEN" ]; then
+            echo "::error::Add the RADAR_TOKEN secret: a fine-grained token with read access to public repositories. GitHub Actions tokens cannot use code search."
+            exit 1
+          fi
+          previous=()
+          if [ -f previous.json ]; then
+            previous=(--previous previous.json)
+          fi
+          node scripts/discover.mjs "${previous[@]}" > found.md
+      - name: Open or update the discovery issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUMBER: ${{ steps.previous.outputs.number }}
+          STATE: ${{ steps.previous.outputs.state }}
+        run: |
           if [ ! -s found.md ]; then
             echo "Nothing new."
+          elif [ "$STATE" = "OPEN" ]; then
+            gh issue edit "$NUMBER" --body-file found.md
+          else
+            gh issue create --title "$ISSUE_TITLE" --body-file found.md
+          fi
+      - name: Save the seen list
+        run: |
+          if [ -z "$(git status --porcelain -- data/radar-seen.json)" ]; then
+            echo "No changes."
             exit 0
           fi
-          title="New Foldkit projects to review"
-          number=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
-          if [ -n "$number" ]; then
-            gh issue edit "$number" --body-file found.md
-          else
-            gh issue create --title "$title" --body-file found.md
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/radar-seen.json
+          git commit -m "chore: update radar seen list"
+          git pull --rebase origin main
+          git push
