@@ -236,7 +236,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1707,
+      "stars": 1710,
       "monthly": 0,
       "pushedAt": "2026-10-22",
       "isArchived": false
@@ -465,7 +465,7 @@
       "url": "https://creaseui.com",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-21",
+      "pushedAt": "2026-10-22",
       "isArchived": false
     },
     {
@@ -1083,7 +1083,7 @@
       "repo": "leonitousconforti/tinyburg",
       "stars": 9,
       "monthly": 0,
-      "pushedAt": "2026-10-21",
+      "pushedAt": "2026-10-22",
       "isArchived": false
     },
     {
@@ -1292,6 +1292,166 @@
       "stars": 1,
       "monthly": 0,
       "pushedAt": "2026-10-17",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "joelhooks/rat-king",
+      "stars": 38,
+      "monthly": 0,
+      "pushedAt": "2026-10-22",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "guidefari/here_hugo",
+      "stars": 3,
+      "monthly": 0,
+      "pushedAt": "2026-09-27",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "elianiva/oru",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-09-22",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "mariusom/optio",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-10-19",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Reilley64/mtgfr",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-08-14",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "mpsuesser/interview-me-phonecall",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-10-04",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "phibkro/job-application-assistant",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-26",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "bjacobso/module-ls",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "rxssula/github-card",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-07-28",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "XiNiHa/helpspeaking-downloader",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-16",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "kimlercorey/aimy-v0",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-14",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "just-be-dev/entity-store",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-22",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "sakompella/cf-stumble",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-16",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "chr33s/effect-reconciler",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-29",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "phibkro/chatlog",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-11",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "opsydyn/astro-azure-integration",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-08-20",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "kamn/empty-vessel",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-07",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "nalpr/opencode-luminacad",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-20",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "bjoerge/battery-calculator",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-06-04",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "guidefari/efa-template",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-09-24",
       "isArchived": false
     }
   ]
