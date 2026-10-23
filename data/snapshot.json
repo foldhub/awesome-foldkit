@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-22",
+  "builtAt": "2026-10-23",
   "projects": [
     {
       "section": "start",
@@ -134,9 +134,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1028,
+      "stars": 1031,
       "monthly": 115755,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -221,7 +221,7 @@
       "repo": "foldkit/coverchart",
       "stars": 5,
       "monthly": 0,
-      "pushedAt": "2026-08-26",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -236,9 +236,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1715,
+      "stars": 1721,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -448,13 +448,13 @@
       "url": "https://creaseui.com",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
       "section": "ui",
       "repo": "Manzanita-Research/pleat",
-      "stars": 28,
+      "stars": 29,
       "monthly": 0,
       "pushedAt": "2026-10-20",
       "isArchived": false
@@ -537,7 +537,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -820,7 +820,7 @@
       "repo": "pkallos/wan-monitor",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-21",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -901,7 +901,7 @@
     {
       "section": "apps",
       "repo": "acoyfellow/hark",
-      "stars": 15,
+      "stars": 16,
       "monthly": 0,
       "pushedAt": "2026-10-19",
       "isArchived": false
@@ -968,9 +968,9 @@
     {
       "section": "apps",
       "repo": "MapleTechLabs/maple",
-      "stars": 1854,
+      "stars": 1855,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -984,9 +984,9 @@
     {
       "section": "apps",
       "repo": "joelhooks/potion-calendar",
-      "stars": 26,
+      "stars": 27,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -1034,7 +1034,7 @@
       "repo": "guidefari/gbfm",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -1058,13 +1058,13 @@
       "repo": "dearlordylord/hapsland",
       "stars": 130,
       "monthly": 0,
-      "pushedAt": "2026-10-18",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "acoyfellow/coil",
-      "stars": 41,
+      "stars": 42,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -1114,7 +1114,7 @@
       "repo": "just-be-dev/automations",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -1184,9 +1184,9 @@
     {
       "section": "fullstack",
       "repo": "joelhooks/rat-stack",
-      "stars": 126,
+      "stars": 127,
       "monthly": 0,
-      "pushedAt": "2026-10-21",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -1202,7 +1202,7 @@
       "repo": "joelhooks/rat-king",
       "stars": 38,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -1290,7 +1290,7 @@
       "repo": "just-be-dev/entity-store",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
@@ -1402,7 +1402,7 @@
       "repo": "martinthommesen/std",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-22",
+      "pushedAt": "2026-10-23",
       "isArchived": false
     },
     {
