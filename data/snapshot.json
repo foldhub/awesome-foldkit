@@ -236,7 +236,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1747,
+      "stars": 1748,
       "monthly": 0,
       "pushedAt": "2026-10-26",
       "isArchived": false
@@ -409,7 +409,7 @@
       ],
       "stars": 2,
       "monthly": 568,
-      "pushedAt": "2026-10-21",
+      "pushedAt": "2026-10-26",
       "isArchived": false
     },
     {
@@ -768,7 +768,7 @@
       "url": "https://lutra.elianiva.com",
       "stars": 7,
       "monthly": 0,
-      "pushedAt": "2026-10-02",
+      "pushedAt": "2026-10-26",
       "isArchived": false
     },
     {
@@ -1031,7 +1031,7 @@
     },
     {
       "section": "apps",
-      "repo": "guidefari/gbfm",
+      "repo": "planetaryescape/gbfm",
       "stars": 2,
       "monthly": 0,
       "pushedAt": "2026-10-26",
@@ -1466,7 +1466,7 @@
       "repo": "oldgeese/ryutama-charsheet",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-24",
+      "pushedAt": "2026-10-26",
       "isArchived": false
     },
     {
@@ -1531,6 +1531,47 @@
       "stars": 0,
       "monthly": 0,
       "pushedAt": "2026-09-03",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "edmundmiller/edmundmiller.dev",
+      "stars": 3,
+      "monthly": 0,
+      "pushedAt": "2026-10-26",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "grmkris/hack-meridian-2026",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-26",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "michielryvers/retro",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-25",
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "repo": "rhino-labs/web-framework-comparison",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-26",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "npm": [
+        "@plana-solutions/agent-interface"
+      ],
+      "stars": 0,
+      "monthly": 0,
       "isArchived": false
     }
   ]
