@@ -968,6 +968,7 @@ match = [
   "@gaganref/*",
   "@kestack/*",
   "filipfalcon/contriba",
+  "kattsushi/foldkit-blocks-policy-repro",
 ]
 
 [[project]]
@@ -1205,3 +1206,8 @@ description = "The same content site built in Foldkit and four React frameworks,
 section = "ui"
 npm = ["@plana-solutions/agent-interface"]
 description = "OpenUI chat interface implemented as a native Foldkit program, with AG-UI event handling and generative UI views."
+
+[[project]]
+section = "apps"
+repo = "uripont/msf-case-desk"
+description = "Case triage and decision dashboard for Médecins Sans Frontières ethics and behaviour teams, built with Foldkit and Effect."
