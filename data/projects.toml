@@ -827,7 +827,7 @@ description = "Shows a WGS84 position in ten coordinate systems on a live map."
 
 [[project]]
 section = "apps"
-repo = "guidefari/gbfm"
+repo = "planetaryescape/gbfm"
 description = "Public archive of curated music at goosebumps.fm."
 
 [[project]]
@@ -1179,3 +1179,29 @@ description = "Starter template generator with a preset stack for Foldkit, Effec
 section = "apps"
 repo = "gregwebs/tiny-desk-splitter"
 description = "Audio splitter and concert player for NPR Tiny Desk Concerts with a Foldkit playback interface."
+
+[[project]]
+section = "apps"
+repo = "edmundmiller/edmundmiller.dev"
+description = "Personal publication site built with Foldkit, with Markdown compilation, prerendering, search, and interactive charts."
+
+[[project]]
+section = "ai"
+repo = "grmkris/hack-meridian-2026"
+name = "Nod"
+description = "Stellar wallet with a Foldkit web interface and embedded MCP cards for agent payment allowances and passkey approvals."
+
+[[project]]
+section = "apps"
+repo = "michielryvers/retro"
+description = "Team retrospective tool built with Foldkit and Cloudflare Durable Objects, with private notes, voting, and action items."
+
+[[project]]
+section = "compare"
+repo = "rhino-labs/web-framework-comparison"
+description = "The same content site built in Foldkit and four React frameworks, with a Playwright harness for production-build request counts, JavaScript weight, and LCP."
+
+[[project]]
+section = "ui"
+npm = ["@plana-solutions/agent-interface"]
+description = "OpenUI chat interface implemented as a native Foldkit program, with AG-UI event handling and generative UI views."
