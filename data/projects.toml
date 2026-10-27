@@ -1211,3 +1211,8 @@ description = "OpenUI chat interface implemented as a native Foldkit program, wi
 section = "apps"
 repo = "uripont/msf-case-desk"
 description = "Case triage and decision dashboard for Médecins Sans Frontières ethics and behaviour teams, built with Foldkit and Effect."
+
+[[project]]
+section = "compare"
+repo = "MapleTechLabs/maple-ui-parity"
+description = "Pixel and behavior parity harness used to migrate Maple from React to Foldkit, with Playwright screenshot comparisons and call-log diffs."
