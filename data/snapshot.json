@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-26",
+  "builtAt": "2026-10-27",
   "projects": [
     {
       "section": "start",
@@ -134,9 +134,9 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1053,
+      "stars": 1055,
       "monthly": 15079,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -221,7 +221,7 @@
       "repo": "foldkit/coverchart",
       "stars": 5,
       "monthly": 0,
-      "pushedAt": "2026-10-23",
+      "pushedAt": "2026-10-26",
       "isArchived": false
     },
     {
@@ -236,9 +236,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1752,
+      "stars": 1754,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -320,7 +320,7 @@
     {
       "section": "ui",
       "repo": "elianiva/foldcn",
-      "stars": 46,
+      "stars": 47,
       "monthly": 0,
       "pushedAt": "2026-10-26",
       "isArchived": false
@@ -439,7 +439,7 @@
       ],
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-07-30",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -475,9 +475,9 @@
         "foldkit-agent-webmcp",
         "foldkit-agent-mcp"
       ],
-      "stars": 23,
+      "stars": 26,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -537,7 +537,7 @@
       "repo": "rodygosset/react-foldkit",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -585,7 +585,7 @@
     {
       "section": "interop",
       "repo": "Manzanita-Research/foldkit-native",
-      "stars": 31,
+      "stars": 32,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -768,7 +768,7 @@
       "url": "https://lutra.elianiva.com",
       "stars": 7,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -968,9 +968,9 @@
     {
       "section": "apps",
       "repo": "MapleTechLabs/maple",
-      "stars": 1918,
+      "stars": 1919,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -986,7 +986,7 @@
       "repo": "joelhooks/potion-calendar",
       "stars": 28,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -1186,7 +1186,7 @@
       "repo": "joelhooks/rat-stack",
       "stars": 132,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -1202,7 +1202,7 @@
       "repo": "joelhooks/rat-king",
       "stars": 40,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -1426,7 +1426,7 @@
       "repo": "phibkro/course-data-platform",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-09-22",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -1466,7 +1466,7 @@
       "repo": "oldgeese/ryutama-charsheet",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -1538,7 +1538,7 @@
       "repo": "edmundmiller/edmundmiller.dev",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -1562,7 +1562,7 @@
       "repo": "rhino-labs/web-framework-comparison",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-10-27",
       "isArchived": false
     },
     {
@@ -1580,6 +1580,14 @@
       "stars": 1,
       "monthly": 0,
       "pushedAt": "2026-10-25",
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "repo": "MapleTechLabs/maple-ui-parity",
+      "stars": 4,
+      "monthly": 0,
+      "pushedAt": "2026-10-24",
       "isArchived": false
     }
   ]

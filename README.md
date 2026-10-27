@@ -53,6 +53,7 @@ Side-by-side builds and migration guides.
 - <img src="assets/icons/docs.svg" alt="Docs"> [Coming from React](https://foldkit.dev/react/coming-from-react) - How one Model and Messages replace component state and useEffect.
 - <img src="assets/icons/docs.svg" alt="Docs"> [Coming from TanStack Query](https://foldkit.dev/react/coming-from-tanstack-query) - How AsyncData in the Model replaces useQuery.
 - <img src="assets/icons/repo.svg" alt="GitHub"> [rhino-labs/web-framework-comparison](https://github.com/rhino-labs/web-framework-comparison) - The same content site built in Foldkit and four React frameworks, with a Playwright harness for production-build request counts, JavaScript weight, and LCP. [![GitHub stars](https://img.shields.io/github/stars/rhino-labs/web-framework-comparison?style=social)](https://github.com/rhino-labs/web-framework-comparison/stargazers)
+- <img src="assets/icons/repo.svg" alt="GitHub"> [MapleTechLabs/maple-ui-parity](https://github.com/MapleTechLabs/maple-ui-parity) - Pixel and behavior parity harness used to migrate Maple from React to Foldkit, with Playwright screenshot comparisons and call-log diffs. [![GitHub stars](https://img.shields.io/github/stars/MapleTechLabs/maple-ui-parity?style=social)](https://github.com/MapleTechLabs/maple-ui-parity/stargazers)
 
 ## <img src="assets/pills/core.svg" alt="" align="top"> Core packages
 
