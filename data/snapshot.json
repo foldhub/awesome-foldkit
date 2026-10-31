@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-30",
+  "builtAt": "2026-10-31",
   "projects": [
     {
       "section": "start",
@@ -134,8 +134,8 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1077,
-      "monthly": 131082,
+      "stars": 1079,
+      "monthly": 136043,
       "pushedAt": "2026-10-30",
       "isArchived": false
     },
@@ -145,7 +145,7 @@
         "@foldkit/ui"
       ],
       "stars": 0,
-      "monthly": 73610,
+      "monthly": 77320,
       "isArchived": false
     },
     {
@@ -154,7 +154,7 @@
         "create-foldkit-app"
       ],
       "stars": 0,
-      "monthly": 12815,
+      "monthly": 13533,
       "isArchived": false
     },
     {
@@ -163,7 +163,7 @@
         "@foldkit/vite-plugin"
       ],
       "stars": 0,
-      "monthly": 84594,
+      "monthly": 88463,
       "isArchived": false
     },
     {
@@ -172,7 +172,7 @@
         "@foldkit/devtools"
       ],
       "stars": 0,
-      "monthly": 38740,
+      "monthly": 40431,
       "isArchived": false
     },
     {
@@ -181,7 +181,7 @@
         "@foldkit/devtools-mcp"
       ],
       "stars": 0,
-      "monthly": 38565,
+      "monthly": 39912,
       "isArchived": false
     },
     {
@@ -190,7 +190,7 @@
         "@foldkit/oxlint-plugin"
       ],
       "stars": 0,
-      "monthly": 47685,
+      "monthly": 50134,
       "isArchived": false
     },
     {
@@ -199,7 +199,7 @@
         "@foldkit/markdown"
       ],
       "stars": 0,
-      "monthly": 22904,
+      "monthly": 24152,
       "isArchived": false
     },
     {
@@ -236,9 +236,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1811,
+      "stars": 1814,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -247,9 +247,9 @@
       "npm": [
         "@confect/foldkit"
       ],
-      "stars": 378,
-      "monthly": 3595,
-      "pushedAt": "2026-10-29",
+      "stars": 379,
+      "monthly": 3485,
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -282,7 +282,7 @@
         "create-foldkit-alchemy-app"
       ],
       "stars": 0,
-      "monthly": 30,
+      "monthly": 27,
       "isArchived": false
     },
     {
@@ -306,7 +306,7 @@
       "repo": "just-be-dev/cafe-stack",
       "stars": 58,
       "monthly": 0,
-      "pushedAt": "2026-10-19",
+      "pushedAt": "2026-10-30",
       "isArchived": false
     },
     {
@@ -334,7 +334,7 @@
         "@foldworks/form-builder"
       ],
       "stars": 14,
-      "monthly": 631,
+      "monthly": 593,
       "pushedAt": "2026-10-20",
       "isArchived": false
     },
@@ -353,7 +353,7 @@
         "@foldstryx/foldkit"
       ],
       "stars": 3,
-      "monthly": 30,
+      "monthly": 37,
       "pushedAt": "2026-08-26",
       "isArchived": false
     },
@@ -366,7 +366,7 @@
         "foldkit-sidenav"
       ],
       "stars": 1,
-      "monthly": 79,
+      "monthly": 75,
       "pushedAt": "2026-09-24",
       "isArchived": false
     },
@@ -408,8 +408,8 @@
         "@opsydyn/foldkit-viz"
       ],
       "stars": 2,
-      "monthly": 666,
-      "pushedAt": "2026-10-30",
+      "monthly": 945,
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -419,7 +419,7 @@
         "foldkit-lucide-icons"
       ],
       "stars": 0,
-      "monthly": 15,
+      "monthly": 17,
       "pushedAt": "2026-07-21",
       "isArchived": false
     },
@@ -476,8 +476,8 @@
         "foldkit-agent-mcp"
       ],
       "stars": 27,
-      "monthly": 3217,
-      "pushedAt": "2026-10-30",
+      "monthly": 3260,
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -487,7 +487,7 @@
         "effect-webmcp"
       ],
       "stars": 0,
-      "monthly": 31,
+      "monthly": 30,
       "pushedAt": "2026-09-17",
       "isArchived": false
     },
@@ -555,7 +555,7 @@
       ],
       "url": "https://github.com/opsydyn/fold-kit-experiments",
       "stars": 0,
-      "monthly": 906,
+      "monthly": 1043,
       "isArchived": false
     },
     {
@@ -567,7 +567,7 @@
         "create-foldocs"
       ],
       "stars": 25,
-      "monthly": 275,
+      "monthly": 297,
       "pushedAt": "2026-09-21",
       "isArchived": false
     },
@@ -750,7 +750,7 @@
         "effect-inspect"
       ],
       "stars": 27,
-      "monthly": 3459,
+      "monthly": 3442,
       "pushedAt": "2026-10-07",
       "isArchived": false
     },
@@ -768,7 +768,7 @@
       "url": "https://lutra.elianiva.com",
       "stars": 7,
       "monthly": 0,
-      "pushedAt": "2026-10-28",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -786,7 +786,7 @@
       "url": "https://triplex.build",
       "stars": 10,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-10-30",
       "isArchived": false
     },
     {
@@ -968,23 +968,23 @@
     {
       "section": "apps",
       "repo": "MapleTechLabs/maple",
-      "stars": 1926,
+      "stars": 1932,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "MapleTechLabs/hazel",
-      "stars": 729,
+      "stars": 731,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "joelhooks/potion-calendar",
-      "stars": 29,
+      "stars": 30,
       "monthly": 0,
       "pushedAt": "2026-10-28",
       "isArchived": false
@@ -994,7 +994,7 @@
       "repo": "Effect-TS/janitor",
       "stars": 8,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1010,7 +1010,7 @@
       "repo": "bjacobso/forma",
       "stars": 5,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1034,7 +1034,7 @@
       "repo": "planetaryescape/gbfm",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-10-30",
       "isArchived": false
     },
     {
@@ -1056,9 +1056,9 @@
     {
       "section": "ai",
       "repo": "dearlordylord/hapsland",
-      "stars": 131,
+      "stars": 132,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1184,9 +1184,9 @@
     {
       "section": "fullstack",
       "repo": "joelhooks/rat-stack",
-      "stars": 135,
+      "stars": 137,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-10-30",
       "isArchived": false
     },
     {
@@ -1200,9 +1200,9 @@
     {
       "section": "ai",
       "repo": "joelhooks/rat-king",
-      "stars": 40,
+      "stars": 41,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1298,7 +1298,7 @@
       "repo": "sakompella/cf-stumble",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-16",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1386,7 +1386,7 @@
       "repo": "elianiva/quorum",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-17",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1466,7 +1466,7 @@
       "repo": "oldgeese/ryutama-charsheet",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-10-30",
       "isArchived": false
     },
     {
@@ -1522,7 +1522,7 @@
       "repo": "willtraweek/vibe-starter",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-19",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1530,7 +1530,7 @@
       "repo": "gregwebs/tiny-desk-splitter",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-09-03",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1538,7 +1538,7 @@
       "repo": "edmundmiller/edmundmiller.dev",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1571,7 +1571,7 @@
         "@plana-solutions/agent-interface"
       ],
       "stars": 0,
-      "monthly": 945,
+      "monthly": 962,
       "isArchived": false
     },
     {
