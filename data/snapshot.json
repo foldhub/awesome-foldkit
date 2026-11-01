@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-31",
+  "builtAt": "2026-11-01",
   "projects": [
     {
       "section": "start",
@@ -134,7 +134,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1079,
+      "stars": 1082,
       "monthly": 136043,
       "pushedAt": "2026-10-30",
       "isArchived": false
@@ -236,9 +236,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1814,
+      "stars": 1824,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -249,7 +249,7 @@
       ],
       "stars": 379,
       "monthly": 3485,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -304,9 +304,9 @@
     {
       "section": "fullstack",
       "repo": "just-be-dev/cafe-stack",
-      "stars": 58,
+      "stars": 59,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -335,7 +335,7 @@
       ],
       "stars": 14,
       "monthly": 593,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -409,7 +409,7 @@
       ],
       "stars": 2,
       "monthly": 945,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -448,7 +448,7 @@
       "url": "https://creaseui.com",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -475,9 +475,9 @@
         "foldkit-agent-webmcp",
         "foldkit-agent-mcp"
       ],
-      "stars": 27,
+      "stars": 28,
       "monthly": 3260,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -757,7 +757,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/cafe",
-      "stars": 36,
+      "stars": 37,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -786,7 +786,7 @@
       "url": "https://triplex.build",
       "stars": 10,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -909,7 +909,7 @@
     {
       "section": "apps",
       "repo": "acoyfellow/skin",
-      "stars": 11,
+      "stars": 12,
       "monthly": 0,
       "pushedAt": "2026-10-22",
       "isArchived": false
@@ -968,9 +968,9 @@
     {
       "section": "apps",
       "repo": "MapleTechLabs/maple",
-      "stars": 1932,
+      "stars": 1937,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -978,7 +978,7 @@
       "repo": "MapleTechLabs/hazel",
       "stars": 731,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1002,7 +1002,7 @@
       "repo": "bjacobso/schematics",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-10-13",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1010,7 +1010,7 @@
       "repo": "bjacobso/forma",
       "stars": 5,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1034,7 +1034,7 @@
       "repo": "planetaryescape/gbfm",
       "stars": 2,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1114,7 +1114,7 @@
       "repo": "just-be-dev/automations",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-24",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1186,7 +1186,7 @@
       "repo": "joelhooks/rat-stack",
       "stars": 137,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-10-31",
       "isArchived": false
     },
     {
@@ -1202,7 +1202,7 @@
       "repo": "joelhooks/rat-king",
       "stars": 41,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1384,9 +1384,9 @@
     {
       "section": "apps",
       "repo": "elianiva/quorum",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1466,7 +1466,7 @@
       "repo": "oldgeese/ryutama-charsheet",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-30",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
