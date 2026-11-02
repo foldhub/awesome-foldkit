@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-01",
+  "builtAt": "2026-11-02",
   "projects": [
     {
       "section": "start",
@@ -134,7 +134,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1082,
+      "stars": 1133,
       "monthly": 136043,
       "pushedAt": "2026-10-30",
       "isArchived": false
@@ -236,9 +236,9 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1824,
+      "stars": 1830,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -247,9 +247,9 @@
       "npm": [
         "@confect/foldkit"
       ],
-      "stars": 379,
+      "stars": 380,
       "monthly": 3485,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -320,7 +320,7 @@
     {
       "section": "ui",
       "repo": "elianiva/foldcn",
-      "stars": 49,
+      "stars": 50,
       "monthly": 0,
       "pushedAt": "2026-10-27",
       "isArchived": false
@@ -335,7 +335,7 @@
       ],
       "stars": 14,
       "monthly": 593,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -477,7 +477,7 @@
       ],
       "stars": 28,
       "monthly": 3260,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -611,7 +611,7 @@
       "repo": "filipfalcon/lightocean",
       "stars": 5,
       "monthly": 0,
-      "pushedAt": "2026-10-25",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -786,7 +786,7 @@
       "url": "https://triplex.build",
       "stars": 10,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -845,7 +845,7 @@
       "repo": "Matthieusz/party-planner",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-06",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -968,9 +968,9 @@
     {
       "section": "apps",
       "repo": "MapleTechLabs/maple",
-      "stars": 1937,
+      "stars": 1941,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -994,7 +994,7 @@
       "repo": "Effect-TS/janitor",
       "stars": 8,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1002,7 +1002,7 @@
       "repo": "bjacobso/schematics",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1010,7 +1010,7 @@
       "repo": "bjacobso/forma",
       "stars": 5,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1018,7 +1018,7 @@
       "repo": "gjermundgaraba/clankerauth",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1056,7 +1056,7 @@
     {
       "section": "ai",
       "repo": "dearlordylord/hapsland",
-      "stars": 132,
+      "stars": 134,
       "monthly": 0,
       "pushedAt": "2026-10-31",
       "isArchived": false
@@ -1138,7 +1138,7 @@
       "repo": "NickSuomi/heron",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-20",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1184,9 +1184,9 @@
     {
       "section": "fullstack",
       "repo": "joelhooks/rat-stack",
-      "stars": 137,
+      "stars": 138,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1202,7 +1202,7 @@
       "repo": "joelhooks/rat-king",
       "stars": 41,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1210,7 +1210,7 @@
       "repo": "guidefari/here_hugo",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-09-27",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1226,7 +1226,7 @@
       "repo": "mariusom/optio",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-10-26",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1250,7 +1250,7 @@
       "repo": "phibkro/job-application-assistant",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-08-26",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1298,7 +1298,7 @@
       "repo": "sakompella/cf-stumble",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1330,7 +1330,7 @@
       "repo": "kamn/empty-vessel",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-29",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
@@ -1384,9 +1384,9 @@
     {
       "section": "apps",
       "repo": "elianiva/quorum",
-      "stars": 1,
+      "stars": 9,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1450,7 +1450,7 @@
       "repo": "MichaelVessia/garage",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-09-03",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1466,7 +1466,7 @@
       "repo": "oldgeese/ryutama-charsheet",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-11-01",
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1530,7 +1530,7 @@
       "repo": "gregwebs/tiny-desk-splitter",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-10-31",
+      "pushedAt": "2026-11-01",
       "isArchived": false
     },
     {
