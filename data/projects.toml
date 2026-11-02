@@ -969,6 +969,11 @@ match = [
   "@kestack/*",
   "filipfalcon/contriba",
   "kattsushi/foldkit-blocks-policy-repro",
+  "kattsushi/foldkit-evidence-repro",
+  "doeixd/solid-domains",
+  "SergioUP/UPCode",
+  "yangshun2005/t3code-cn",
+  "BespokeAgentics/bespoke-agentics-cc-plugin",
 ]
 
 [[project]]
@@ -1216,3 +1221,126 @@ description = "Case triage and decision dashboard for Médecins Sans Frontières
 section = "compare"
 repo = "MapleTechLabs/maple-ui-parity"
 description = "Pixel and behavior parity harness used to migrate Maple from React to Foldkit, with Playwright screenshot comparisons and call-log diffs."
+
+[[project]]
+section = "examples"
+repo = "foldkit/foldkit-domains"
+url = "https://domains.foldkit.dev"
+description = "Domain search example built with Foldkit, with editable static HTML and hydration."
+
+[[project]]
+section = "apps"
+repo = "kevinmichaelchen/effect-coffee-shop"
+url = "https://mintlify.wiki/kevinmichaelchen/effect-coffee-shop/introduction"
+description = "Coffee ordering application exploring onion architecture with Effect, Bun, Cloudflare, and Foldkit."
+
+[[project]]
+section = "apps"
+repo = "Tanner-Scadden/munch-manor"
+url = "https://munchmanor.com"
+description = "Pixel-art zombie shooter game built with Foldkit."
+
+[[project]]
+section = "interop"
+repo = "gingerhendrix/streamsy"
+url = "https://streamsy.dev"
+description = "Durable Streams protocol implementation in Effect, featuring a Foldkit issue-tracker example."
+
+[[project]]
+section = "ai"
+repo = "rbrtbn/grill-flow"
+description = "Interactive interview interface for settling agent decisions concept by concept, built with Foldkit."
+
+[[project]]
+section = "ai"
+repo = "SolenesInc/attn"
+description = "Session manager for agentic programming with a Foldkit mobile companion interface."
+
+[[project]]
+section = "apps"
+repo = "DanielFGray/herdr-web"
+description = "Web client for herdr terminal spaces, panes, and agent conversations, built with Foldkit."
+
+[[project]]
+section = "fullstack"
+repo = "grmkris/sidequest-v2"
+description = "Application foundation and starter built on Effect, Foldkit, Alchemy, and Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "Potti1234/creaseui-demo"
+description = "Linear-style issue tracker example built with Foldkit, Crease UI, and Tailwind CSS."
+
+[[project]]
+section = "apps"
+repo = "PlagueFPS/arc-tools"
+description = "Twitch and Discord bot with a Foldkit companion website for ARC Raiders player commands and data."
+
+[[project]]
+section = "fullstack"
+repo = "laroccacharly/email-auth"
+description = "Stateless email magic-link authentication library for Effect HttpApi with a Foldkit sign-in UI."
+
+[[project]]
+section = "apps"
+repo = "jonstuebe/trash"
+description = "PWA card game built with Foldkit, featuring offline play against bots and online turns with friends."
+
+[[project]]
+section = "ai"
+repo = "anglinb/kanna-foldkit-effect"
+description = "Web interface for Claude Code and Codex coding agents, built with Foldkit and Effect."
+
+[[project]]
+section = "apps"
+repo = "Kieren-Foenander/yeet-it"
+url = "https://yeet-it.kfoenander98.workers.dev"
+description = "Daily shrinking-anagram word game built with Foldkit and Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "reblws/tree-garden"
+description = "L-system algorithmic tree-growing playground built with Foldkit and Effect."
+
+[[project]]
+section = "ui"
+repo = "gjermundgaraba/clankersuite"
+npm = ["@gjermundgaraba/pixel-paper"]
+name = "pixel-paper"
+description = "Printed-paper design system, component catalog, and stylesheet for Foldkit."
+
+[[project]]
+section = "ui"
+repo = "tsukuri-labs/foldkit-flow"
+npm = ["@tsukuri/flow"]
+name = "foldkit-flow"
+description = "Node-based interactive graph and flow canvas UI for Foldkit, built on @xyflow/system."
+
+[[project]]
+section = "compare"
+repo = "krausest/js-framework-benchmark"
+url = "https://krausest.github.io/js-framework-benchmark/"
+name = "js-framework-benchmark"
+description = "Performance benchmark comparing DOM operations and memory usage across frontend frameworks, including Foldkit."
+
+[[project]]
+section = "ui"
+repo = "wsagency/wseffect"
+url = "https://wseffect.com"
+description = "UI toolkit and application foundation pairing Foldkit with Radix Themes styles on Effect 4."
+
+[[project]]
+section = "apps"
+repo = "LeonardoTrapani/monopoly-bench"
+description = "Benchmark and live board for LLMs playing Monopoly against each other, with a Foldkit web interface."
+
+[[project]]
+section = "apps"
+repo = "nickcomua/crm-chat"
+description = "Customer relationship management chat application with a Foldkit web interface and Tauri desktop shell."
+
+[[project]]
+section = "apps"
+repo = "oleksandr-antonenko/system-design"
+url = "https://fundamentals.oleksandr-antonenko.com"
+description = "Interactive system design course featuring a live simulation board built with Foldkit and Effect."
