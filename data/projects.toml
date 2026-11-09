@@ -974,6 +974,9 @@ match = [
   "SergioUP/UPCode",
   "yangshun2005/t3code-cn",
   "BespokeAgentics/bespoke-agentics-cc-plugin",
+  "devagrawal09/solidkit",
+  "V3xando/awesome-foldkit",
+  "V3xando/v3xando.github.io",
 ]
 
 [[project]]
@@ -1344,3 +1347,190 @@ section = "apps"
 repo = "oleksandr-antonenko/system-design"
 url = "https://fundamentals.oleksandr-antonenko.com"
 description = "Interactive system design course featuring a live simulation board built with Foldkit and Effect."
+
+[[project]]
+section = "ai"
+repo = "smithersai/smithers"
+url = "https://smithers.sh"
+description = "Agentic workflow execution framework with a Foldkit interface and local desktop companion for workflow development."
+
+[[project]]
+section = "interop"
+repo = "joelhooks/mutant-cafe"
+description = "Mutation testing tool for Effect TypeScript with a Foldkit web interface for test reports."
+
+[[project]]
+section = "interop"
+repo = "Licitei/signature-kit"
+description = "Effect-native digital signature infrastructure with a Foldkit documentation site and signing playground."
+
+[[project]]
+section = "apps"
+repo = "patrikduksin/cycling"
+description = "Open-source bike computer firmware with a Foldkit web flasher for USB and serial device management."
+
+[[project]]
+section = "ai"
+repo = "DomiR/claude-do-it"
+npm = ["claude-do-it"]
+description = "Collaborative Markdown todo list with a Foldkit web editor, CRDT sync daemon, and Claude Code skill."
+
+[[project]]
+section = "apps"
+repo = "altaywtf/puterminator"
+url = "https://puterminator.com"
+description = "Cleanup assistant for put.io cloud storage libraries, built with Foldkit."
+
+[[project]]
+section = "interop"
+repo = "nstudio/ns-foldkit"
+description = "NativeScript renderer for Foldkit apps on iOS and Android."
+
+[[project]]
+section = "apps"
+repo = "DCKT/Inkpipe"
+description = "Manga and comic download, conversion, and e-reader delivery pipeline with a Foldkit web interface."
+
+[[project]]
+section = "apps"
+repo = "rowlandekemezie/gatechange"
+url = "https://gatechange.dev"
+description = "Job board for engineering leadership roles, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "joelhooks/PAROL6"
+description = "Build wiki and motion-control web companion for the PAROL6 desktop robot arm, built with Foldkit."
+
+[[project]]
+section = "ai"
+repo = "engineersamuel/trellage"
+description = "Development harness router and autonomous software factory with a Foldkit workspace interface."
+
+[[project]]
+section = "apps"
+repo = "timzolleis/foldkit-sync-example"
+description = "Offline-first collaborative grocery list built with Foldkit, TanStack DB, and an Effect server."
+
+[[project]]
+section = "apps"
+repo = "srikresna/ark-vault"
+description = "Trade journal recording platform and gamified Telegram bot with a Foldkit member dashboard."
+
+[[project]]
+section = "apps"
+repo = "grmkris/styld.app"
+url = "https://styld.app"
+description = "Wardrobe digitizer and virtual outfit organizer built with Foldkit, Effect, and Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "taimei-code/taimei-auth"
+url = "https://auth.taimei-code.com/"
+description = "Authentication and organization management service with a Foldkit user console."
+
+[[project]]
+section = "fullstack"
+repo = "Potti1234/hyper-effect"
+npm = ["@hyper-effect/core", "@hyper-effect/island", "create-hyper-effect"]
+name = "hyper-effect"
+description = "Server-side runtime and Vite preset for running Foldkit Elm-architecture programs on Effect with Datastar."
+
+[[project]]
+section = "apps"
+repo = "JustinRoderick/medly"
+description = "Full-stack application foundation and notes app built on Cloudflare, Alchemy, Foldkit, and Effect."
+
+[[project]]
+section = "apps"
+repo = "samaluk/meeting-finder"
+url = "https://meeting-finder-gamma.vercel.app"
+description = "Local meeting interval scheduler with explainable rankings and calendar integration, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "vojtaholik/good-a11y"
+url = "https://good-a11y.com"
+description = "Accessibility guides and live pattern checker for web applications and coding agents, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "just-be-dev/just-be.tv"
+description = "Video catalog and content portfolio website built with Foldkit, Effect, and Cloudflare Workers."
+
+[[project]]
+section = "apps"
+repo = "Potti1234/hyper-tasks"
+name = "hyper-tasks"
+description = "Collaborative project and task management workspace built with Foldkit, hyper-effect, and Datastar."
+
+[[project]]
+section = "apps"
+repo = "jonstuebe/wemo-local"
+description = "Local network control dashboard for Belkin WeMo smart devices, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "jinhongkuan/instruments"
+url = "https://jinhongkuan.github.io/instruments/"
+description = "Analytics and payoff visualization dashboard for options and perpetual futures, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "joepjoosten/score-chat"
+description = "LilyPond music engraving editor and sheet-music workspace with a streaming AI assistant, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "jonstuebe/thread-lightly"
+url = "https://threadlightly.jonstuebe.com"
+description = "Text-message detective mystery game built with Foldkit and Effect."
+
+[[project]]
+section = "apps"
+repo = "jonstuebe/origin"
+url = "https://origin.jonstuebe.com"
+description = "Daily word and phrase etymology trivia game built with Foldkit and Cloudflare Workers."
+
+[[project]]
+section = "ai"
+repo = "dopsonbr/session-inbox"
+description = "macOS menu-bar inbox and desktop interface for Claude Code agent sessions, built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "keysenz/fionastation"
+url = "https://fiona-station-keysenz.vercel.app"
+description = "Music streaming and track catalog fan site built with Foldkit."
+
+[[project]]
+section = "ui"
+repo = "knownasilya/foldkit-openui"
+npm = ["foldkit-openui"]
+url = "https://foldkit-openui-playground.knownasilya.workers.dev"
+description = "Foldkit bindings for OpenUI Lang to render streamed, model-generated UI as Foldkit views."
+
+[[project]]
+section = "apps"
+repo = "grmkris/eth-global-mumbai-2026"
+name = "vitaquack"
+description = "Autonomous robot budgeting and passkey wallet console with on-chain payment limits, built with Foldkit."
+
+[[project]]
+section = "interop"
+repo = "maguirekrist/stack-config"
+description = "Shared lint setup and coding standards for Foldkit, Effect, and Alchemy projects."
+
+[[project]]
+section = "interop"
+repo = "lucasthevenet/arcadekit"
+npm = ["@arcadekit/foldkit"]
+description = "Browser game engine and demo packages pairing Effect 4, Foldkit, and Three.js."
+
+[[project]]
+section = "ui"
+repo = "kutur-labs/kit"
+npm = ["@kutur-kit/foldkit-stylex", "@kutur-kit/foldkit-stylex-theme"]
+name = "foldkit-stylex"
+url = "https://kit.kuturlabs.com"
+description = "StyleX integration and token-driven themes for @foldkit/ui components."
