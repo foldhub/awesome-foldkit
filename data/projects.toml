@@ -977,6 +977,13 @@ match = [
   "devagrawal09/solidkit",
   "V3xando/awesome-foldkit",
   "V3xando/v3xando.github.io",
+  "cevr/ergo",
+  "karyashaala/chatandcode",
+  "SelfRef/ae-code",
+  "razmi0/foldkit-01",
+  "@aas.dev/stack",
+  "@silkui/core",
+  "@silkui/vite",
 ]
 
 [[project]]
@@ -1534,3 +1541,242 @@ npm = ["@kutur-kit/foldkit-stylex", "@kutur-kit/foldkit-stylex-theme"]
 name = "foldkit-stylex"
 url = "https://kit.kuturlabs.com"
 description = "StyleX integration and token-driven themes for @foldkit/ui components."
+
+[[project]]
+section = "compare"
+repo = "solidjs/reactivescript"
+name = "ReactiveScript"
+description = "Reactive language compiler with a benchmark harness that compares its output with Foldkit, React, and Solid."
+
+[[project]]
+section = "ai"
+repo = "betalyra/effect-uai"
+description = "Effect primitives for building typed streaming AI agents, with a Foldkit chat example."
+
+[[project]]
+section = "apps"
+repo = "chrisdoc/surveybeat-next"
+description = "Team pulse survey application for recurring check-ins, trends, and follow-up actions."
+
+[[project]]
+section = "ui"
+repo = "timhanlon/fluid-functionalism-foldkit"
+description = "Editable Foldkit components adapted from the Fluid Functionalism design collection."
+
+[[project]]
+section = "apps"
+repo = "joshborseth/music"
+name = "Joshify"
+description = "YouTube Music client with a Foldkit phone app and a Rust and Slint Android TV app sharing playback sessions."
+
+[[project]]
+section = "interop"
+repo = "silk-lang/examples"
+description = "Silk starter templates including Foldkit applications running in native Silk UI windows."
+
+[[project]]
+section = "interop"
+repo = "timhanlon/foldkit-perf"
+description = "Minimal reproduction of Foldkit capturing a stack trace for every h.submodel call on render."
+
+[[project]]
+section = "apps"
+repo = "blntrsz/slipmem"
+description = "Notes and memory application with a web client built using Foldkit."
+
+[[project]]
+section = "interop"
+repo = "medina-stream/medina"
+description = "Data pipeline library with a Foldkit lifelog web example."
+
+[[project]]
+section = "apps"
+repo = "YasuakiOmokawa/taimei"
+description = "Personal service for organizing calm and reflection with a Foldkit web application."
+
+[[project]]
+section = "apps"
+repo = "gxuvain/gxuvain.dev"
+description = "Personal website built with Foldkit, Effect, and the CAFE stack."
+
+[[project]]
+section = "fullstack"
+repo = "elianiva/iroha"
+description = "Full-stack Cloudflare, Alchemy, Foldkit, and Effect starter."
+
+[[project]]
+section = "ui"
+repo = "fllstck/foldkit-flow"
+npm = ["@fllstck/foldkit-flow"]
+name = "foldkit-flow"
+description = "Flow and node-graph canvas for Foldkit with pan, zoom, selection, and connection editing."
+
+[[project]]
+section = "apps"
+repo = "joshborseth/ScreamClub"
+description = "Event signup application with a Foldkit frontend."
+
+[[project]]
+section = "apps"
+repo = "sqeezy/kwdiff"
+description = "Windows desktop app for reviewing changes between Git branches that share no ancestor."
+
+[[project]]
+section = "apps"
+repo = "ffebr/chroma"
+description = "Local wallpaper studio with a Foldkit web interface and a command-line generator."
+
+[[project]]
+section = "interop"
+repo = "opsydyn/planetnik"
+description = "Code analysis tool with Foldkit views for architecture reports."
+
+[[project]]
+section = "apps"
+repo = "Xsothy/Exercise-Generator-with-Effect"
+description = "Math worksheet generator with printable answer keys and an interactive Foldkit interface."
+
+[[project]]
+section = "apps"
+repo = "valentinyeo/sf-companion"
+description = "Software Factory companion site with explorations and reports on Foldkit, Effect, Alchemy, and StyleX."
+
+[[project]]
+section = "apps"
+repo = "hypertask-ai/astro-rs"
+description = "Hypertask marketing site built on the Rat Stack with a Foldkit web application."
+
+[[project]]
+section = "ai"
+repo = "valentinyeo/calorie-mcp-proto"
+description = "Food-log MCP service with a Foldkit and Effect companion app."
+
+[[project]]
+section = "fullstack"
+repo = "dallenpyrah/hermit-stack"
+description = "Full-stack Effect application template with Foldkit panels, web UI, and reusable service adapters."
+
+[[project]]
+section = "apps"
+repo = "hypertask-ai/docs-rs"
+description = "Hypertask documentation site with Foldkit pages, Markdown rendering, and motion components."
+
+[[project]]
+section = "apps"
+repo = "valentinyeo/pecunia-oss"
+description = "Self-hosted personal finance application with bank sync, budgets, investments, and a Foldkit web interface."
+
+[[project]]
+section = "apps"
+repo = "sakompella/buckshot"
+description = "Browser arena for a Buckshot game with a Foldkit web interface."
+
+[[project]]
+section = "apps"
+repo = "Potti1234/hyper-notes"
+description = "Notion-style workspace with nested pages, a block editor, and databases built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "nexxeln/nostakes"
+description = "Browser poker room with a Foldkit web client for playing with friends."
+
+[[project]]
+section = "apps"
+repo = "ImArtisann/artisann-port"
+description = "Personal portfolio and project site built with Foldkit."
+
+[[project]]
+section = "apps"
+repo = "OnboardedInc/Triplex-db-experiments"
+description = "Triplex database research workspace with a standalone Foldkit dashboard for exploring fact stores."
+
+[[project]]
+section = "ai"
+repo = "hypertask-ai/ai-chatbot-rs"
+description = "Hypertask help chatbot site with a Foldkit web interface."
+
+[[project]]
+section = "ai"
+repo = "hasparus/podaj"
+description = "Secure one-shot secret handoff for remote bots, with a Foldkit web client and CLI."
+
+[[project]]
+section = "apps"
+repo = "ShanesNotes/nightingale"
+description = "Clinical physiology simulation with a Foldkit workspace for exploring the Rust engine."
+
+[[project]]
+section = "apps"
+repo = "5h1rU/cadencia"
+description = "Cycling training application with an AI coach and a Foldkit client."
+
+[[project]]
+section = "apps"
+repo = "joshborseth/lights"
+description = "Foldkit dashboard for controlling Zigbee lights through Zigbee2MQTT."
+
+[[project]]
+section = "compare"
+repo = "rickono/verified-list-ui"
+description = "Verified list logic compiled to js_of_ocaml, XState, and Foldkit for cross-runtime comparison."
+
+[[project]]
+section = "interop"
+repo = "artile/foldkit-bombadil-spike"
+description = "Proof-of-concept test bridge that fuzzes a Foldkit runtime through DOM actions and Messages."
+
+[[project]]
+section = "apps"
+repo = "enspiration-eth/chopstix"
+description = "QWOP-style browser rocket game built with Three.js, Effect, and Foldkit."
+
+[[project]]
+section = "fullstack"
+repo = "eersnington/foldkit-rivet"
+description = "Foldkit frontend for Rivet actors and durable workflows built with the Rivet Effect SDK."
+
+[[project]]
+section = "ai"
+repo = "wenathlan/devthink"
+description = "Provider-neutral AI development workbench with a Foldkit-based web surface, CLI, and local gateway."
+
+[[project]]
+section = "apps"
+repo = "krmznkr/julian"
+description = "Year-view Google Calendar and Tasks application with a Foldkit frontend."
+
+[[project]]
+section = "interop"
+repo = "planetaryescape/foldkit-native"
+description = "Research project for running Foldkit-style programs against native platform views without React Native or the DOM."
+
+[[project]]
+section = "ai"
+repo = "Chan-Software-Services/agent-team"
+description = "Claude Code team runner with a Foldkit DevTools MCP server and Foldkit test fixture."
+
+[[project]]
+section = "interop"
+repo = "SubmitPath/stack-config"
+description = "Shared lint setup and coding standards for Foldkit, Effect, and Alchemy Domain projects."
+
+[[project]]
+section = "ui"
+repo = "SeeThruHead/sth-ui"
+npm = ["@seethruhead/sth-ui"]
+description = "Mantine port for Foldkit and Effect, styled with StyleX."
+
+[[project]]
+section = "interop"
+repo = "silk-lang/SilkUI"
+npm = ["@silkui/foldkit"]
+name = "Silk UI"
+description = "Native UI tree and host framework with an adapter for running Foldkit applications."
+
+[[project]]
+section = "fullstack"
+repo = "potion-run/paykit"
+npm = ["@potion.run/paykit-admin"]
+name = "paykit-admin"
+description = "Foldkit operations console for managing a paykit deployment."
