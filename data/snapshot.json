@@ -134,7 +134,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1247,
+      "stars": 1248,
       "monthly": 436950,
       "pushedAt": "2026-11-14",
       "isArchived": false
@@ -236,7 +236,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 1977,
+      "stars": 1981,
       "monthly": 0,
       "pushedAt": "2026-11-16",
       "isArchived": false
@@ -247,7 +247,7 @@
       "npm": [
         "@confect/foldkit"
       ],
-      "stars": 382,
+      "stars": 383,
       "monthly": 4245,
       "pushedAt": "2026-11-16",
       "isArchived": false
@@ -265,7 +265,7 @@
       "repo": "lloydrichards/stack-effect",
       "stars": 37,
       "monthly": 0,
-      "pushedAt": "2026-11-15",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -448,7 +448,7 @@
       "url": "https://creaseui.com",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-11-05",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -477,7 +477,7 @@
       ],
       "stars": 36,
       "monthly": 4585,
-      "pushedAt": "2026-11-15",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -785,7 +785,7 @@
       "url": "https://triplex.build",
       "stars": 11,
       "monthly": 0,
-      "pushedAt": "2026-11-15",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -819,7 +819,7 @@
       "repo": "pkallos/wan-monitor",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-11-09",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -900,7 +900,7 @@
     {
       "section": "apps",
       "repo": "acoyfellow/hark",
-      "stars": 16,
+      "stars": 17,
       "monthly": 0,
       "pushedAt": "2026-10-19",
       "isArchived": false
@@ -961,7 +961,7 @@
       "repo": "Marve10s/awesome-effect",
       "stars": 95,
       "monthly": 0,
-      "pushedAt": "2026-11-11",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -1009,7 +1009,7 @@
       "repo": "bjacobso/forma",
       "stars": 6,
       "monthly": 0,
-      "pushedAt": "2026-11-15",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -1033,7 +1033,7 @@
       "repo": "planetaryescape/gbfm",
       "stars": 1,
       "monthly": 0,
-      "pushedAt": "2026-11-15",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -1065,7 +1065,7 @@
       "repo": "acoyfellow/coil",
       "stars": 45,
       "monthly": 0,
-      "pushedAt": "2026-11-15",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -1183,7 +1183,7 @@
     {
       "section": "fullstack",
       "repo": "joelhooks/rat-stack",
-      "stars": 211,
+      "stars": 213,
       "monthly": 0,
       "pushedAt": "2026-11-16",
       "isArchived": false
@@ -1537,7 +1537,7 @@
       "repo": "edmundmiller/edmundmiller.dev",
       "stars": 3,
       "monthly": 0,
-      "pushedAt": "2026-11-15",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -1750,7 +1750,7 @@
       "url": "https://wseffect.com",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-11-10",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -1800,7 +1800,7 @@
       "repo": "Licitei/signature-kit",
       "stars": 8,
       "monthly": 0,
-      "pushedAt": "2026-11-07",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -1819,7 +1819,7 @@
       ],
       "stars": 4,
       "monthly": 826,
-      "pushedAt": "2026-11-08",
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
@@ -2066,7 +2066,387 @@
       ],
       "url": "https://kit.kuturlabs.com",
       "stars": 1,
-      "monthly": 2125,
+      "monthly": 1047,
+      "pushedAt": "2026-11-12",
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "repo": "solidjs/reactivescript",
+      "stars": 116,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "betalyra/effect-uai",
+      "stars": 77,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "chrisdoc/surveybeat-next",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "timhanlon/fluid-functionalism-foldkit",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "joshborseth/music",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "silk-lang/examples",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "timhanlon/foldkit-perf",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-10",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "blntrsz/slipmem",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "medina-stream/medina",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "YasuakiOmokawa/taimei",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "gxuvain/gxuvain.dev",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-13",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "elianiva/iroha",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-13",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "fllstck/foldkit-flow",
+      "npm": [
+        "@fllstck/foldkit-flow"
+      ],
+      "stars": 0,
+      "monthly": 620,
+      "pushedAt": "2026-11-12",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "joshborseth/ScreamClub",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-09",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "sqeezy/kwdiff",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "ffebr/chroma",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-10-09",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "opsydyn/planetnik",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-13",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Xsothy/Exercise-Generator-with-Effect",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-11",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "valentinyeo/sf-companion",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "hypertask-ai/astro-rs",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "valentinyeo/calorie-mcp-proto",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "dallenpyrah/hermit-stack",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-14",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "hypertask-ai/docs-rs",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "valentinyeo/pecunia-oss",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "sakompella/buckshot",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Potti1234/hyper-notes",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-10",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "nexxeln/nostakes",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "ImArtisann/artisann-port",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-12",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "OnboardedInc/Triplex-db-experiments",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "hypertask-ai/ai-chatbot-rs",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "hasparus/podaj",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-13",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "ShanesNotes/nightingale",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "5h1rU/cadencia",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-10",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "joshborseth/lights",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-14",
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "repo": "rickono/verified-list-ui",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "artile/foldkit-bombadil-spike",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-12",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "enspiration-eth/chopstix",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-12",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "eersnington/foldkit-rivet",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-11",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "wenathlan/devthink",
+      "stars": 2,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "krmznkr/julian",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "planetaryescape/foldkit-native",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "Chan-Software-Services/agent-team",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "SubmitPath/stack-config",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-15",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "SeeThruHead/sth-ui",
+      "npm": [
+        "@seethruhead/sth-ui"
+      ],
+      "stars": 0,
+      "monthly": 428,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "silk-lang/SilkUI",
+      "npm": [
+        "@silkui/foldkit"
+      ],
+      "stars": 0,
+      "monthly": 537,
+      "pushedAt": "2026-11-16",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "potion-run/paykit",
+      "npm": [
+        "@potion.run/paykit-admin"
+      ],
+      "stars": 1,
+      "monthly": 212,
       "pushedAt": "2026-11-12",
       "isArchived": false
     }
