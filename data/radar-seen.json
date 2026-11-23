@@ -1,9 +1,20 @@
 {
-  "5h1ru/cadencia": {
-    "firstSeen": "2026-11-16",
+  "5h1ru/foldkit-vs-react": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending"
+  },
+  "acoyfellow/optkit": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "web/packages/app/package.json"
+      "package.json"
+    ]
+  },
+  "acoyfellow/pi-tcp": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "package.json"
     ]
   },
   "amir-abushanab/fontphobia": {
@@ -13,11 +24,18 @@
       "spikes/11-frameworks/foldkit/package.json"
     ]
   },
-  "artile/foldkit-bombadil-spike": {
-    "firstSeen": "2026-11-16",
+  "andysolomon/arc-skill-eval": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "package.json"
+      "web/package.json"
+    ]
+  },
+  "autotelic/tackle": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "packages/board/view/package.json"
     ]
   },
   "beep-effect/beep-effect": {
@@ -25,6 +43,13 @@
     "verdict": "rejected",
     "manifests": [
       "packages/drivers/alchemy-postgres/package.json"
+    ]
+  },
+  "benday-client/benday-foldkit": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "package.json"
     ]
   },
   "benjamin-htr/bobinarium": {
@@ -38,23 +63,9 @@
     "firstSeen": "2026-11-02",
     "verdict": "rejected"
   },
-  "betalyra/effect-uai": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "examples/foldkit-chat/package.json"
-    ]
-  },
   "birbprophet/react-foldkit-converter": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
-  },
-  "blntrsz/slipmem": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "packages/web/package.json"
-    ]
   },
   "boozedog/smoovdeck": {
     "firstSeen": "2026-10-22",
@@ -69,7 +80,7 @@
   },
   "cevr/ergo": {
     "firstSeen": "2026-11-16",
-    "verdict": "pending",
+    "verdict": "rejected",
     "manifests": [
       "conformance/upstream/foldkit-d21db423/examples/ssg/package.json",
       "conformance/upstream/foldkit-d21db423/examples/snake/package.json",
@@ -78,10 +89,6 @@
       "conformance/upstream/foldkit-d21db423/examples/map/package.json",
       "conformance/upstream/foldkit-d21db423/examples/todo/package.json"
     ]
-  },
-  "chan-software-services/agent-team": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending"
   },
   "chindanainakub/olmo": {
     "firstSeen": "2026-10-26",
@@ -99,21 +106,30 @@
       "web/package.json"
     ]
   },
-  "chrisdoc/surveybeat-next": {
-    "firstSeen": "2026-11-16",
+  "code-crafter18/foldkit": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending"
+  },
+  "craft-ts/craft-ts": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "apps/framework-benchmark/package.json"
+    ]
+  },
+  "daniprol/foldkit-scan": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
       "package.json",
-      "apps/web/package.json"
+      "docs/package.json"
     ]
   },
-  "dallenpyrah/hermit-stack": {
-    "firstSeen": "2026-11-16",
+  "daniprol/mantix": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "apps/web/package.json",
-      "apps/docs/package.json",
-      "apps/panels/package.json"
+      "apps/web/package.json"
     ]
   },
   "dearlordylord/dalph": {
@@ -142,50 +158,69 @@
     "firstSeen": "2026-11-02",
     "verdict": "rejected"
   },
+  "drglitchyphd/foldkit-patches": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending"
+  },
   "drobson03/foldkit-build-id-repro": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
   },
-  "dxv-3/rere": {
-    "firstSeen": "2026-10-22",
-    "verdict": "rejected"
-  },
-  "eersnington/foldkit-rivet": {
-    "firstSeen": "2026-11-16",
+  "dsiem/effective-analytics-workbench": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
       "package.json"
     ]
   },
+  "dxv-3/rere": {
+    "firstSeen": "2026-10-22",
+    "verdict": "rejected"
+  },
   "egonitida/egonitida": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
   },
-  "elianiva/iroha": {
-    "firstSeen": "2026-11-16",
+  "elianiva/foldlab": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "packages/ui/package.json",
+      "packages/adapter/package.json",
+      "examples/reference/package.json",
+      "apps/web/package.json"
+    ]
+  },
+  "elianiva/mirai": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
       "examples/reference/package.json",
       "apps/web/package.json"
     ]
   },
-  "enspiration-eth/chopstix": {
-    "firstSeen": "2026-11-16",
+  "elianiva/mizook": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "package.json"
+      "apps/dashboard/package.json",
+      "packages/ui/package.json",
+      "apps/web/package.json"
+    ]
+  },
+  "elianiva/tools": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "packages/ui/package.json",
+      "packages/adapter/package.json",
+      "examples/reference/package.json",
+      "apps/web/package.json"
     ]
   },
   "erlangxk/foldkit-learn": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
-  },
-  "ffebr/chroma": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
-    ]
   },
   "filipfalcon/contriba": {
     "firstSeen": "2026-10-22",
@@ -215,14 +250,6 @@
       "applications/website/package.json"
     ]
   },
-  "fllstck/foldkit-flow": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "packages/example/package.json",
-      "packages/benchmark/package.json"
-    ]
-  },
   "fullzer4/monorepo-effect-foldkit": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
@@ -238,18 +265,13 @@
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
   },
-  "gxuvain/gxuvain.dev": {
-    "firstSeen": "2026-11-16",
+  "goetzrobin/foldkit-native": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "package.json"
-    ]
-  },
-  "hasparus/podaj": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
+      "packages/native/package.json",
+      "apps/counter/package.json",
+      "apps/notes/package.json"
     ]
   },
   "hugo/thisishugo.com": {
@@ -259,38 +281,11 @@
       "package.json"
     ]
   },
-  "hypertask-ai/ai-chatbot-rs": {
-    "firstSeen": "2026-11-16",
+  "jfalava/clanka": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "package.json",
-      "apps/web/package.json"
-    ]
-  },
-  "hypertask-ai/astro-rs": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json",
-      "apps/web/package.json"
-    ]
-  },
-  "hypertask-ai/docs-rs": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json",
-      "packages/motion/package.json",
-      "apps/site/package.json",
-      "apps/web/package.json"
-    ]
-  },
-  "imartisann/artisann-port": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "apps/web/package.json",
-      "apps/jakes-cats/package.json"
+      "admin/package.json"
     ]
   },
   "jigargosar/incubator": {
@@ -326,26 +321,25 @@
       "foldkit/counter-example/package.json"
     ]
   },
-  "joshborseth/lights": {
-    "firstSeen": "2026-11-16",
+  "jonstuebe/all-aboard": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
       "package.json"
     ]
   },
-  "joshborseth/music": {
-    "firstSeen": "2026-11-16",
+  "jonstuebe/stack-up": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "package.json",
-      "apps/web/package.json"
+      "package.json"
     ]
   },
-  "joshborseth/screamclub": {
-    "firstSeen": "2026-11-16",
+  "jovid78/etherfield-ui": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "packages/frontend/package.json"
+      "package.json"
     ]
   },
   "just-be-dev/agent-feed": {
@@ -357,7 +351,7 @@
   },
   "karyashaala/chatandcode": {
     "firstSeen": "2026-11-16",
-    "verdict": "pending"
+    "verdict": "rejected"
   },
   "kattsushi/foldkit-blocks-policy-repro": {
     "firstSeen": "2026-10-26",
@@ -373,8 +367,8 @@
       "package.json"
     ]
   },
-  "krmznkr/julian": {
-    "firstSeen": "2026-11-16",
+  "komo-tech/alchemy-run": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending"
   },
   "lambda-solver/lambdabench-pro": {
@@ -396,13 +390,6 @@
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
   },
-  "medina-stream/medina": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "examples/lifelog/web/package.json"
-    ]
-  },
   "mpsuesser/opencode-imagen": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected",
@@ -418,14 +405,6 @@
     "firstSeen": "2026-10-26",
     "verdict": "rejected"
   },
-  "nexxeln/nostakes": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json",
-      "apps/web/package.json"
-    ]
-  },
   "nicepakproducts/effect-digital-shelf": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
@@ -434,12 +413,16 @@
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
   },
-  "npm:@aas.dev/stack": {
-    "firstSeen": "2026-11-16",
+  "norn-cloud/norn": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending"
   },
-  "npm:@fllstck/foldkit-flow": {
+  "npm:@aas.dev/stack": {
     "firstSeen": "2026-11-16",
+    "verdict": "rejected"
+  },
+  "npm:@eloxiv/client": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending"
   },
   "npm:@gaganref/confect-foldkit": {
@@ -470,24 +453,20 @@
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
   },
-  "npm:@potion.run/paykit-admin": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending"
-  },
-  "npm:@seethruhead/sth-ui": {
-    "firstSeen": "2026-11-16",
+  "npm:@siebix/create-effect": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending"
   },
   "npm:@silkui/core": {
     "firstSeen": "2026-11-16",
-    "verdict": "pending"
-  },
-  "npm:@silkui/foldkit": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending"
+    "verdict": "rejected"
   },
   "npm:@silkui/vite": {
     "firstSeen": "2026-11-16",
+    "verdict": "rejected"
+  },
+  "npm:@wardic/foldkit": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending"
   },
   "npm:@wide-effect/foldkit": {
@@ -505,22 +484,6 @@
   "npm:foldkit-prose": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
-  },
-  "onboardedinc/triplex-db-experiments": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json",
-      "packages/dashboard/package.json"
-    ]
-  },
-  "opsydyn/planetnik": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json",
-      "apps/foldkit-site/package.json"
-    ]
   },
   "peterje/foldui": {
     "firstSeen": "2026-10-22",
@@ -540,12 +503,15 @@
       "apps/web/package.json"
     ]
   },
-  "planetaryescape/foldkit-native": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending"
+  "poggen/fluid-foldkit": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "package.json"
+    ]
   },
-  "potti1234/hyper-notes": {
-    "firstSeen": "2026-11-16",
+  "potti1234/hyper-chat": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
       "package.json"
@@ -555,20 +521,34 @@
     "firstSeen": "2026-10-22",
     "verdict": "rejected"
   },
+  "push-based/virtual-office-notifier": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending",
+    "manifests": [
+      "package.json",
+      "apps/console/package.json",
+      "libs/design-system/package.json"
+    ]
+  },
   "razmi0/foldkit-01": {
     "firstSeen": "2026-11-16",
+    "verdict": "rejected"
+  },
+  "refracts-systems/ritsei": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending"
+  },
+  "reweavers/studio": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending"
   },
   "rhino88/web-framework-comparison": {
     "firstSeen": "2026-10-26",
     "verdict": "rejected"
   },
-  "rickono/verified-list-ui": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
-    ]
+  "roninlp/foldkit-ui-sdk": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending"
   },
   "ryansolid/reactivescript": {
     "firstSeen": "2026-11-02",
@@ -577,56 +557,26 @@
       "eval/package.json"
     ]
   },
-  "sakompella/buckshot": {
+  "selfref/ae-code": {
     "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "web/package.json"
-    ]
+    "verdict": "rejected"
   },
-  "seethruhead/sth-ui": {
-    "firstSeen": "2026-11-16",
+  "sergical/didtheomentionme": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
       "package.json"
     ]
   },
-  "selfref/ae-code": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending"
-  },
   "sergioup/upcode": {
     "firstSeen": "2026-11-02",
     "verdict": "rejected"
-  },
-  "shanesnotes/nightingale": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "clinical-workspace/package.json"
-    ]
   },
   "silk-lang/docs": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected",
     "manifests": [
       "package.json"
-    ]
-  },
-  "silk-lang/examples": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "ui-foldkit/web/package.json"
-    ]
-  },
-  "silk-lang/silkui": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "modules/js/examples/foldkit-counter/package.json",
-      "modules/silkui/examples/foldkit/web/package.json",
-      "modules/js/packages/foldkit/package.json"
     ]
   },
   "simcity400/codegui": {
@@ -647,39 +597,22 @@
       "package.json"
     ]
   },
-  "solidjs/reactivescript": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "eval/package.json"
-    ]
+  "spacedoga1/torch3": {
+    "firstSeen": "2026-11-23",
+    "verdict": "pending"
   },
-  "sqeezy/kwdiff": {
-    "firstSeen": "2026-11-16",
+  "stubbedtoe/sng4": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
       "package.json"
     ]
   },
-  "submitpath/stack-config": {
-    "firstSeen": "2026-11-16",
+  "uripont/quoroom": {
+    "firstSeen": "2026-11-23",
     "verdict": "pending",
     "manifests": [
-      "package.json"
-    ]
-  },
-  "timhanlon/fluid-functionalism-foldkit": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
-    ]
-  },
-  "timhanlon/foldkit-perf": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
+      "apps/web/package.json"
     ]
   },
   "v3xando/awesome-foldkit": {
@@ -690,31 +623,6 @@
     "firstSeen": "2026-11-09",
     "verdict": "rejected"
   },
-  "valentinyeo/calorie-mcp-proto": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
-    ]
-  },
-  "valentinyeo/pecunia-oss": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json",
-      "packages/motion/package.json",
-      "apps/site/package.json",
-      "apps/web/package.json"
-    ]
-  },
-  "valentinyeo/sf-companion": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json",
-      "apps/web/package.json"
-    ]
-  },
   "web-infer/ax-distiller": {
     "firstSeen": "2026-10-22",
     "verdict": "rejected",
@@ -722,27 +630,9 @@
       "cmd/inspector/panel/package.json"
     ]
   },
-  "wenathlan/devthink": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending"
-  },
-  "xsothy/exercise-generator-with-effect": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
-    ]
-  },
   "yangshun2005/t3code-cn": {
     "firstSeen": "2026-11-02",
     "verdict": "rejected"
-  },
-  "yasuakiomokawa/taimei": {
-    "firstSeen": "2026-11-16",
-    "verdict": "pending",
-    "manifests": [
-      "package.json"
-    ]
   },
   "yovanoc/devchris": {
     "firstSeen": "2026-10-22",
