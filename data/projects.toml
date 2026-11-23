@@ -1775,8 +1775,179 @@ name = "Silk UI"
 description = "Native UI tree and host framework with an adapter for running Foldkit applications."
 
 [[project]]
+section = "apps"
+repo = "acoyfellow/optkit"
+description = "Email-list management application with campaigns, subscriptions, and a Cloudflare backend."
+
+[[project]]
+section = "ai"
+repo = "elianiva/mirai"
+description = "AI chat client with a Foldkit web app, durable Cloudflare threads, and streamed responses."
+
+[[project]]
+section = "ai"
+repo = "acoyfellow/pi-tcp"
+description = "Web and raw-TCP client for a durable Pi agent session."
+
+[[project]]
+section = "compare"
+repo = "craft-ts/craft-ts"
+name = "CraftTS framework benchmark"
+description = "Framework benchmark that compares CraftTS with React, Vue, Svelte, Solid, DOM, and Foldkit."
+
+[[project]]
+section = "interop"
+repo = "autotelic/tackle"
+description = "Conformance-tool workspace with a Foldkit board for workstreams, package catalogs, and reports."
+
+[[project]]
+section = "interop"
+repo = "daniprol/mantix"
+description = "Load-testing and benchmarking tool with an Effect engine and Foldkit dashboard."
+
+[[project]]
+section = "ai"
+repo = "andysolomon/arc-skill-eval"
+description = "Runs agent skill evaluations and compares coding-agent results with and without a skill in a Foldkit web app."
+
+[[project]]
+section = "interop"
+repo = "goetzrobin/foldkit-native"
+description = "Native iOS and Android host for Foldkit programs using ng-native's Fabric engine."
+
+[[project]]
+section = "fullstack"
+repo = "elianiva/foldlab"
+description = "Full-stack Cloudflare starter with a Foldkit app and a ui-sdk adapter styled with PandaCSS."
+
+[[project]]
+section = "fullstack"
+repo = "elianiva/tools"
+description = "Full-stack Cloudflare starter with a Foldkit app, Effect RPC, and a reference example."
+
+[[project]]
+section = "ai"
+repo = "elianiva/mizook"
+description = "Telegram and web chat companion with durable agent runs and long-term memory."
+
+[[project]]
+section = "apps"
+repo = "stubbedtoe/sng4"
+description = "Local-first cross-stitch pattern generator that turns images into printable charts."
+
+[[project]]
+section = "apps"
+repo = "push-based/virtual-office-notifier"
+description = "Discord virtual-office bot with a Foldkit console for recordings, summaries, and attendance."
+
+[[project]]
+section = "apps"
+repo = "sergical/didtheomentionme"
+description = "Searches creator videos for moments when an X post appears or is read aloud."
+
+[[project]]
+section = "ai"
+repo = "jfalava/clanka"
+description = "Long-term memory system for AI chat companions with a Foldkit admin application."
+
+[[project]]
+section = "apps"
+repo = "jonstuebe/all-aboard"
+description = "Train route-building game played against bots or friends."
+
+[[project]]
+section = "apps"
+repo = "jonstuebe/stack-up"
+description = "Installable card game for two to four players with offline bots and turn-based multiplayer."
+
+[[project]]
+section = "apps"
+repo = "Potti1234/hyper-chat"
+description = "Slack-style team chat with channels, threads, live presence, and a Foldkit interface."
+
+[[project]]
+section = "ui"
+repo = "Poggen/fluid-foldkit"
+name = "Fluid Foldkit"
+description = "Foldkit ports of Fluid Functionalism components, Bklit charts, and Ramka with live examples."
+
+[[project]]
+section = "ui"
+repo = "jovid78/etherfield-ui"
+name = "Etherfield UI"
+description = "Panda CSS component library of Foldkit views from the Etherfield design system."
+
+[[project]]
+section = "apps"
+repo = "dsiem/effective-analytics-workbench"
+description = "Databricks analytics workbench for NYC taxi data with SQL, Genie, and a Foldkit client."
+
+[[project]]
+section = "interop"
+repo = "daniprol/foldkit-scan"
+name = "foldkit-scan"
+description = "Development overlay that shows Foldkit view updates, timings, and render diagnostics."
+
+[[project]]
+section = "apps"
+repo = "uripont/quoroom"
+name = "Quoroom"
+description = "Asynchronous report-review and approval workspace for committee decisions."
+
+[[project]]
+section = "interop"
+repo = "benday-client/benday-foldkit"
+description = "Foldkit rewrite of benday split into reusable libraries."
+
+[[project]]
+section = "fullstack"
+repo = "Reweavers/studio"
+name = "Reweavers studio"
+description = "Software-studio template with shared workflows and a Foldkit application starter."
+
+[[project]]
+section = "interop"
+repo = "Norn-cloud/norn"
+description = "Typed authoring and decision runtime with a Foldkit renderer for its demo shell."
+
+[[project]]
+section = "interop"
+repo = "roninlp/foldkit-ui-sdk"
+description = "Typed Foldkit bindings for UI SDK Web Components and their behavior primitives."
+
+[[project]]
+section = "fullstack"
+repo = "siebix-studio/create-effect"
+npm = ["@siebix/create-effect"]
+name = "create-effect"
+description = "Scaffolds a full-stack Effect application with a Foldkit website, API, and optional database."
+
+[[project]]
+section = "interop"
+npm = ["@eloxiv/client"]
+name = "@eloxiv/client"
+description = "Headless client SDK with a Foldkit adapter for synced replicas, queries, writes, chat, and history."
+
+[[project]]
+section = "ui"
+repo = "wardiclabs/wardic"
+npm = ["@wardic/foldkit"]
+name = "Wardic for Foldkit"
+description = "Motion-style animations for Foldkit views, implemented with Effect."
+
+[[project]]
 section = "fullstack"
 repo = "potion-run/paykit"
 npm = ["@potion.run/paykit-admin"]
 name = "paykit-admin"
 description = "Foldkit operations console for managing a paykit deployment."
+
+[[ignore]]
+match = [
+  "refracts-systems/ritsei",
+  "komo-tech/alchemy-run",
+  "SpaceDogA1/torch3",
+  "code-Crafter18/FoldKit",
+  "5h1rU/foldkit-vs-react",
+  "drglitchyphd/Foldkit-patches",
+]
