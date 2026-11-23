@@ -134,7 +134,7 @@
         "foldkit"
       ],
       "url": "https://www.npmjs.com/package/foldkit",
-      "stars": 1310,
+      "stars": 1311,
       "monthly": 561858,
       "pushedAt": "2026-11-19",
       "isArchived": false
@@ -236,7 +236,7 @@
       "section": "fullstack",
       "repo": "alchemy-run/alchemy",
       "url": "https://github.com/alchemy-run/alchemy/tree/main/examples",
-      "stars": 2090,
+      "stars": 2096,
       "monthly": 0,
       "pushedAt": "2026-11-23",
       "isArchived": false
@@ -477,7 +477,7 @@
       ],
       "stars": 41,
       "monthly": 5665,
-      "pushedAt": "2026-11-22",
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -756,7 +756,7 @@
     {
       "section": "apps",
       "repo": "Effect-TS/cafe",
-      "stars": 40,
+      "stars": 41,
       "monthly": 0,
       "pushedAt": "2026-10-15",
       "isArchived": false
@@ -785,7 +785,7 @@
       "url": "https://triplex.build",
       "stars": 11,
       "monthly": 0,
-      "pushedAt": "2026-11-21",
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -959,50 +959,57 @@
     {
       "section": "community",
       "repo": "Marve10s/awesome-effect",
-      "stars": 0,
+      "stars": 96,
       "monthly": 0,
+      "pushedAt": "2026-11-16",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "MapleTechLabs/maple",
-      "stars": 0,
+      "stars": 2004,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "MapleTechLabs/hazel",
-      "stars": 0,
+      "stars": 742,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "joelhooks/potion-calendar",
-      "stars": 0,
+      "stars": 57,
       "monthly": 0,
+      "pushedAt": "2026-10-28",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "Effect-TS/janitor",
-      "stars": 0,
+      "stars": 8,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "bjacobso/schematics",
-      "stars": 0,
+      "stars": 4,
       "monthly": 0,
+      "pushedAt": "2026-11-05",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "bjacobso/forma",
-      "stars": 0,
+      "stars": 7,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -1010,6 +1017,7 @@
       "repo": "gjermundgaraba/clankerauth",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-11-21",
       "isArchived": false
     },
     {
@@ -1017,13 +1025,15 @@
       "repo": "eknowles/coordkit",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-10-11",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "planetaryescape/gbfm",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -1031,41 +1041,47 @@
       "repo": "laroccacharly/humi",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-11-05",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "aurelienbobenrieth/agentlint",
-      "stars": 0,
+      "stars": 142,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "dearlordylord/hapsland",
-      "stars": 0,
+      "stars": 150,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "acoyfellow/coil",
-      "stars": 0,
+      "stars": 45,
       "monthly": 0,
+      "pushedAt": "2026-11-22",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "acoyfellow/tardigrade",
-      "stars": 0,
+      "stars": 13,
       "monthly": 0,
+      "pushedAt": "2026-10-07",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "bjacobso/threadvm",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
+      "pushedAt": "2026-10-16",
       "isArchived": false
     },
     {
@@ -1073,6 +1089,7 @@
       "repo": "In-Time-Tec/rika",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-09-11",
       "isArchived": false
     },
     {
@@ -1080,6 +1097,7 @@
       "repo": "In-Time-Tec/generalist",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-09-14",
       "isArchived": false
     },
     {
@@ -1087,6 +1105,7 @@
       "repo": "just-be-dev/traces",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-11-11",
       "isArchived": false
     },
     {
@@ -1094,6 +1113,7 @@
       "repo": "just-be-dev/automations",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-11-11",
       "isArchived": false
     },
     {
@@ -1108,6 +1128,7 @@
       "repo": "mshubitidze/pi-cf",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-10-12",
       "isArchived": false
     },
     {
@@ -1115,6 +1136,7 @@
       "repo": "NickSuomi/heron",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-11-06",
       "isArchived": false
     },
     {
@@ -1122,20 +1144,23 @@
       "repo": "qdhenry/site-discovery",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-10-16",
       "isArchived": false
     },
     {
       "section": "interop",
       "repo": "millionco/openstory",
-      "stars": 0,
+      "stars": 23,
       "monthly": 0,
+      "pushedAt": "2026-07-18",
       "isArchived": false
     },
     {
       "section": "interop",
       "repo": "OpenAgentsInc/three-effect",
-      "stars": 0,
+      "stars": 9,
       "monthly": 0,
+      "pushedAt": "2026-07-14",
       "isArchived": false
     },
     {
@@ -1143,69 +1168,79 @@
       "repo": "astahmer/jj-plus",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-09-10",
       "isArchived": false
     },
     {
       "section": "interop",
       "repo": "kondaurovDev/procdeck",
-      "stars": 0,
+      "stars": 2,
       "monthly": 0,
+      "pushedAt": "2026-11-13",
       "isArchived": false
     },
     {
       "section": "fullstack",
       "repo": "joelhooks/rat-stack",
-      "stars": 0,
+      "stars": 234,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "fullstack",
       "repo": "elianiva/cafe-template",
-      "stars": 0,
+      "stars": 2,
       "monthly": 0,
+      "pushedAt": "2026-11-18",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "joelhooks/rat-king",
-      "stars": 0,
+      "stars": 47,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "guidefari/here_hugo",
-      "stars": 0,
+      "stars": 3,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "ai",
       "repo": "elianiva/oru",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
-      "isArchived": false
+      "pushedAt": "2026-09-22",
+      "isArchived": true
     },
     {
       "section": "apps",
       "repo": "mariusom/optio",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "Reilley64/mtgfr",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
+      "pushedAt": "2026-08-14",
       "isArchived": false
     },
     {
       "section": "apps",
       "repo": "mpsuesser/interview-me-phonecall",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
+      "pushedAt": "2026-10-04",
       "isArchived": false
     },
     {
@@ -1213,6 +1248,7 @@
       "repo": "phibkro/job-application-assistant",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-11-02",
       "isArchived": false
     },
     {
@@ -1220,6 +1256,7 @@
       "repo": "bjacobso/module-ls",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-09-16",
       "isArchived": false
     },
     {
@@ -1227,6 +1264,7 @@
       "repo": "rxssula/github-card",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-07-28",
       "isArchived": false
     },
     {
@@ -1234,6 +1272,7 @@
       "repo": "XiNiHa/helpspeaking-downloader",
       "stars": 0,
       "monthly": 0,
+      "pushedAt": "2026-10-16",
       "isArchived": false
     },
     {
@@ -1497,7 +1536,7 @@
       "repo": "edmundmiller/edmundmiller.dev",
       "stars": 4,
       "monthly": 0,
-      "pushedAt": "2026-11-22",
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -1571,7 +1610,7 @@
       "section": "apps",
       "repo": "Tanner-Scadden/munch-manor",
       "url": "https://munchmanor.com",
-      "stars": 17,
+      "stars": 18,
       "monthly": 0,
       "pushedAt": "2026-11-16",
       "isArchived": false
@@ -1699,7 +1738,7 @@
       "section": "compare",
       "repo": "krausest/js-framework-benchmark",
       "url": "https://krausest.github.io/js-framework-benchmark/",
-      "stars": 7504,
+      "stars": 7505,
       "monthly": 0,
       "pushedAt": "2026-11-22",
       "isArchived": false
@@ -2032,7 +2071,7 @@
     {
       "section": "compare",
       "repo": "solidjs/reactivescript",
-      "stars": 134,
+      "stars": 135,
       "monthly": 0,
       "pushedAt": "2026-11-23",
       "isArchived": false
@@ -2042,7 +2081,7 @@
       "repo": "betalyra/effect-uai",
       "stars": 77,
       "monthly": 0,
-      "pushedAt": "2026-11-17",
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -2147,7 +2186,7 @@
     {
       "section": "apps",
       "repo": "sqeezy/kwdiff",
-      "stars": 0,
+      "stars": 1,
       "monthly": 0,
       "pushedAt": "2026-11-17",
       "isArchived": false
@@ -2189,7 +2228,7 @@
       "repo": "hypertask-ai/astro-rs",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-11-22",
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -2213,7 +2252,7 @@
       "repo": "hypertask-ai/docs-rs",
       "stars": 0,
       "monthly": 0,
-      "pushedAt": "2026-11-22",
+      "pushedAt": "2026-11-23",
       "isArchived": false
     },
     {
@@ -2393,6 +2432,253 @@
       ],
       "stars": 1,
       "monthly": 2784,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "acoyfellow/optkit",
+      "stars": 10,
+      "monthly": 0,
+      "pushedAt": "2026-11-17",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "elianiva/mirai",
+      "stars": 5,
+      "monthly": 0,
+      "pushedAt": "2026-11-22",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "acoyfellow/pi-tcp",
+      "stars": 5,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "compare",
+      "repo": "craft-ts/craft-ts",
+      "stars": 5,
+      "monthly": 0,
+      "pushedAt": "2026-11-21",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "autotelic/tackle",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "daniprol/mantix",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "andysolomon/arc-skill-eval",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "goetzrobin/foldkit-native",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "elianiva/foldlab",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-18",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "elianiva/tools",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "elianiva/mizook",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "stubbedtoe/sng4",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-22",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "push-based/virtual-office-notifier",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-22",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "sergical/didtheomentionme",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-21",
+      "isArchived": false
+    },
+    {
+      "section": "ai",
+      "repo": "jfalava/clanka",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "jonstuebe/all-aboard",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "jonstuebe/stack-up",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "Potti1234/hyper-chat",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-10",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "Poggen/fluid-foldkit",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-22",
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "jovid78/etherfield-ui",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-21",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "dsiem/effective-analytics-workbench",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-20",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "daniprol/foldkit-scan",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-11-22",
+      "isArchived": false
+    },
+    {
+      "section": "apps",
+      "repo": "uripont/quoroom",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-11-20",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "benday-client/benday-foldkit",
+      "stars": 1,
+      "monthly": 0,
+      "pushedAt": "2026-11-22",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "Reweavers/studio",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-21",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "Norn-cloud/norn",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-23",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "repo": "roninlp/foldkit-ui-sdk",
+      "stars": 0,
+      "monthly": 0,
+      "pushedAt": "2026-11-20",
+      "isArchived": false
+    },
+    {
+      "section": "fullstack",
+      "repo": "siebix-studio/create-effect",
+      "npm": [
+        "@siebix/create-effect"
+      ],
+      "stars": 0,
+      "monthly": 976,
+      "pushedAt": "2026-11-18",
+      "isArchived": false
+    },
+    {
+      "section": "interop",
+      "npm": [
+        "@eloxiv/client"
+      ],
+      "stars": 0,
+      "monthly": 227,
+      "isArchived": false
+    },
+    {
+      "section": "ui",
+      "repo": "wardiclabs/wardic",
+      "npm": [
+        "@wardic/foldkit"
+      ],
+      "stars": 11,
+      "monthly": 200,
       "pushedAt": "2026-11-23",
       "isArchived": false
     },
